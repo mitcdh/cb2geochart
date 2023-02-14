@@ -101,6 +101,7 @@
         var html = pastebin.innerText;
         var countryList = html.split(/\r?\n/);
         var countryData = generateCountryData(countryList);
+        console.info(countryData);
         wrapper.classList.remove('d-none');
 
         drawRegionsMap(countryData);
