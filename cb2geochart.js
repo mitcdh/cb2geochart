@@ -42,7 +42,7 @@
         }
       }
     }
-    console.info("convertToAlpha2: No match found for '" + country + "'");
+    console.info("No country match found for '" + country + "'");
   }
 
   function generateCountryData(list) {

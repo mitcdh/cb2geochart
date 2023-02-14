@@ -11,4 +11,3 @@
 * Normalisation of country names is done based on the Wikipedia [List of alternative country names](https://en.wikipedia.org/wiki/List_of_alternative_country_names).
 * Chart rendering is using Google's [GeoChart](https://developers.google.com/chart/interactive/docs/gallery/geochart) visualisation.
 * This website theme and the overall idea for the code is based on [clipboard2markdown](https://github.com/euangoddard/clipboard2markdown).
-* The HTML template is based on [Bootstrap](http://getbootstrap.com/).
