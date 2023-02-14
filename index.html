@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Paste to GeoChart</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <link href="favicon.ico" rel="icon" type="image/x-icon">
+        <link rel="stylesheet" href="bootstrap.css">
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script src="cb2geochart.js"></script>
+
+        <style>
+            h2 {
+                font-size: 22px;
+                font-style: italic;
+            }
+            body {
+                background-attachment: fixed;
+                background-image: url('background.svg');
+                background-position: right 10% bottom 20%;
+                background-repeat: no-repeat;
+                background-size: 20em;
+                margin-bottom: 10vh;
+                margin-top: 10vh;
+            }
+            #pastebin {
+                opacity: 0.01;
+                width: 100%;
+                height: 1px;
+                overflow: hidden;
+            }
+            #output {
+                border: none;
+                background: transparent;
+                height: 100%;
+                width: 100%;
+            }
+            #download {
+                border: none;
+                background: transparent;
+                height: 100%;
+                width: 100%;
+                text-align: center;
+            }
+            #tag {
+                position: absolute;
+                bottom: 0;
+                left: 0;
+            }
+            @media (prefers-color-scheme: dark) {
+                body { 
+                    background-image: url('background-dark.svg');
+                    background-color: #222; 
+                    color:white; 
+                }
+                code {
+                    color: #ff7a9c;
+                    background-color: #0e0609;
+                }
+                a {
+                    color: #8fcbff;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <section id="info">
+                <h1>Paste to GeoChart</h1>
+                <h2>Instructions</h2>
+                <ol>
+                    <li>Find the newline delimited list of countries to convert to a GeoChart (<i>e.g.</i>, in another browser tab)</li>
+                    <li>Copy it to the clipboard (<code>Ctrl+C</code>, or <code>&#8984;+C</code> on Mac)</li>
+                    <li>Paste it into this window (<code>Ctrl+V</code>, or <code>&#8984;+V</code> on Mac)</li>
+                    <li>The GeoChart will appear!</li>
+                </ol>
+            </section>
+            <div contenteditable="true" id="pastebin"></div>
+            <div class="hidden" id="wrapper">
+                <div id="output"></div>
+                <div id="download"></div>
+            </div>
+            <div id="tag"><span style="font-weight: bolder; color: #ac54fc">>></span> by <a href="https://mitcdh.com/">mitcdh</a></div>
+        </div>
+    </body>
+</html>
