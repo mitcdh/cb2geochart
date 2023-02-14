@@ -12,7 +12,7 @@
     })
     .catch(error => console.error(error));
 
-  function getOfficialCountryName(country) {
+  function convertToAlpha2(country) {
     const countryUpperCase = country.toUpperCase();
     const countryLowerCase = country.toLowerCase();
   
@@ -20,7 +20,7 @@
     for (let i = 0, len = countries.length; i < len; i++) {
       const countryRecord = countries[i];
       if (countryRecord['alpha_2'] === countryUpperCase || countryRecord['alpha_3'] === countryUpperCase) {
-        return countryRecord['name'];
+        return countryRecord['alpha_2'];
       }
     }
   
@@ -28,7 +28,7 @@
     for (let i = 0, len = countries.length; i < len; i++) {
       const countryRecord = countries[i];
       if (countryRecord['name'].toLowerCase() === countryLowerCase) {
-        return countryRecord['name'];
+        return countryRecord['alpha_2'];
       }
     }
   
@@ -38,7 +38,7 @@
       for (let j = 0, altLen = countryRecord['alternative_names'].length; j < altLen; j++) {
         const alternativeName = countryRecord['alternative_names'][j];
         if (alternativeName === country.normalize("NFKD").toLowerCase()) {
-          return countryRecord['name'];
+          return countryRecord['alpha_2'];
         }
       }
     }
@@ -50,7 +50,7 @@
     var countryCounts = {};
 
     for (var i = 0; i < list.length; i++) {
-      var alpha2 = getOfficialCountryName(list[i]);
+      var alpha2 = convertToAlpha2(list[i]);
       if (alpha2) {
         if (!countryCounts[alpha2]) {
           countryCounts[alpha2] = 0;
