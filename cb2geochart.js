@@ -90,8 +90,8 @@
         if (String.fromCharCode(event.which).toLowerCase() === 'v') {
           pastebin.innerHTML = '';
           pastebin.focus();
-          info.classList.add('hidden');
-          wrapper.classList.add('hidden');
+          info.classList.add('d-none');
+          wrapper.classList.add('d-none');
         }
       }
     });
@@ -101,7 +101,7 @@
         var html = pastebin.innerText;
         var countryList = html.split(/\r?\n/);
         var countryData = generateCountryData(countryList);
-        wrapper.classList.remove('hidden');
+        wrapper.classList.remove('d-none');
 
         drawRegionsMap(countryData);
       }, 200);
