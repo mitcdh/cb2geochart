@@ -77,18 +77,6 @@
     return countryData;
   }
 
-  // function drawRegionsMap(countryData) {
-  //   var data = google.visualization.arrayToDataTable(countryData);
-  //   var options = {};
-  //   var chart = new google.visualization.GeoChart(document.getElementById('output'));
-
-    // google.visualization.events.addListener(chart, 'ready', function () {
-    //   download.innerHTML = '<a download="chart.png" href="' + chart.getImageURI() + '">Download as PNG</a>';
-    // });
-
-  //   chart.draw(data, options);
-  // }
-
   // https://stackoverflow.com/questions/11098153/geochart-using-iso-3266-2-region-code-but-show-real-name
   function drawRegionsMap(countryData) {
     var data = new google.visualization.DataTable();
