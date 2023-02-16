@@ -31,12 +31,23 @@
         return countryRecord;
       }
     }
-  
-    // Search for a match of an alternative name
+
+    // Search for a match of an iso alternative name
     for (let i = 0, len = countries.length; i < len; i++) {
       const countryRecord = countries[i];
-      for (let j = 0, altLen = countryRecord['alternative_names'].length; j < altLen; j++) {
-        const alternativeName = countryRecord['alternative_names'][j];
+      for (let j = 0, altLen = countryRecord['iso_alternate'].length; j < altLen; j++) {
+        const alternativeName = countryRecord['iso_alternate'][j];
+        if (alternativeName === country.toLowerCase()) {
+          return countryRecord;
+        }
+      }
+    }
+  
+    // Search for a match of a wikipedia alternative name
+    for (let i = 0, len = countries.length; i < len; i++) {
+      const countryRecord = countries[i];
+      for (let j = 0, altLen = countryRecord['wikipedia_alternate'].length; j < altLen; j++) {
+        const alternativeName = countryRecord['wikipedia_alternate'][j];
         if (alternativeName === country.normalize("NFKD").toLowerCase()) {
           return countryRecord;
         }

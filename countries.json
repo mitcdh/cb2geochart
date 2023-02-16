@@ -4,13 +4,16 @@
     "alpha_2": "AF",
     "alpha_3": "AFG",
     "numeric": "004",
-    "alternative_names": [
-      "islamic republic of afghanistan",
-      "da afg\u0307a\u0304nista\u0304n isla\u0304mi\u0304 ama\u0304ra\u0304t",
-      "da afg\u0307a\u0304nista\u0304n isla\u0304mi\u0304 jumhoryat",
-      "jumhu\u0304ri\u0304-yi isla\u0304mi\u0304-yi afg\u0307a\u0304nista\u0304n",
+    "iso_alternate": [
+      "islamic republic of afghanistan"
+    ],
+    "wikipedia_alternate": [
       "islamic emirate of afghanistan",
-      "ima\u0304ra\u0304t-i isla\u0304mi\u0304-yi afg\u0307a\u0304nista\u0304n"
+      "jumhu\u0304ri\u0304-yi isla\u0304mi\u0304-yi afg\u0307a\u0304nista\u0304n",
+      "da afg\u0307a\u0304nista\u0304n isla\u0304mi\u0304 ama\u0304ra\u0304t",
+      "ima\u0304ra\u0304t-i isla\u0304mi\u0304-yi afg\u0307a\u0304nista\u0304n",
+      "islamic republic of afghanistan",
+      "da afg\u0307a\u0304nista\u0304n isla\u0304mi\u0304 jumhoryat"
     ]
   },
   {
@@ -18,15 +21,18 @@
     "alpha_2": "AL",
     "alpha_3": "ALB",
     "numeric": "008",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of albania"
+    ],
+    "wikipedia_alternate": [
+      "republika popullore socialiste e shqipe\u0308rise\u0308",
+      "arbanon",
+      "republic of albania",
       "mbretnija shqiptare",
       "people's socialist republic of albania",
-      "arbanon",
-      "arnavutluk",
       "republika e shqipe\u0308rise\u0308",
-      "republic of albania",
-      "albanian kingdom",
-      "republika popullore socialiste e shqipe\u0308rise\u0308"
+      "arnavutluk",
+      "albanian kingdom"
     ]
   },
   {
@@ -34,11 +40,14 @@
     "alpha_2": "DZ",
     "alpha_3": "DZA",
     "numeric": "012",
-    "alternative_names": [
-      "re\u0301publique alge\u0301rienne de\u0301mocratique et populaire",
+    "iso_alternate": [
+      "people's democratic republic of algeria"
+    ],
+    "wikipedia_alternate": [
       "people's democratic republic of algeria",
-      "al-jumhu\u0304riyya al-jaza\u0304\u02beiriyya ad-di\u0304muqra\u0304t\u0323iyya as\u030c\u2010s\u030ca\u02bfbiyya",
-      "al-jaza\u0304\u02beir"
+      "al-jaza\u0304\u02beir",
+      "re\u0301publique alge\u0301rienne de\u0301mocratique et populaire",
+      "al-jumhu\u0304riyya al-jaza\u0304\u02beiriyya ad-di\u0304muqra\u0304t\u0323iyya as\u030c\u2010s\u030ca\u02bfbiyya"
     ]
   },
   {
@@ -46,10 +55,13 @@
     "alpha_2": "AD",
     "alpha_3": "AND",
     "numeric": "020",
-    "alternative_names": [
-      "principat d'andorra",
-      "principality of the valleys of andorra",
+    "iso_alternate": [
       "principality of andorra"
+    ],
+    "wikipedia_alternate": [
+      "principat d'andorra",
+      "principality of andorra",
+      "principality of the valleys of andorra"
     ]
   },
   {
@@ -57,7 +69,10 @@
     "alpha_2": "AO",
     "alpha_3": "AGO",
     "numeric": "024",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of angola"
+    ],
+    "wikipedia_alternate": [
       "repu\u0301blica de angola",
       "republic of angola"
     ]
@@ -67,7 +82,8 @@
     "alpha_2": "AG",
     "alpha_3": "ATG",
     "numeric": "028",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "wadadli"
     ]
   },
@@ -76,13 +92,16 @@
     "alpha_2": "AR",
     "alpha_3": "ARG",
     "numeric": "032",
-    "alternative_names": [
-      "argentine nation",
-      "argentine confederation",
-      "the argentine",
+    "iso_alternate": [
+      "argentine republic"
+    ],
+    "wikipedia_alternate": [
       "united provinces of the ri\u0301o de la plata",
+      "la argentina",
+      "the argentine",
+      "argentine nation",
       "argentine republic",
-      "la argentina"
+      "argentine confederation"
     ]
   },
   {
@@ -90,11 +109,14 @@
     "alpha_2": "AM",
     "alpha_3": "ARM",
     "numeric": "051",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of armenia"
+    ],
+    "wikipedia_alternate": [
       "hayastan",
       "republic of armenia",
-      "\u0570\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0570\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576",
-      "hayastani hanrapetut\u2019yun"
+      "hayastani hanrapetut\u2019yun",
+      "\u0570\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0570\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ]
   },
   {
@@ -102,9 +124,10 @@
     "alpha_2": "AU",
     "alpha_3": "AUS",
     "numeric": "036",
-    "alternative_names": [
-      "commonwealth of australia",
-      "new holland"
+    "iso_alternate": [],
+    "wikipedia_alternate": [
+      "new holland",
+      "commonwealth of australia"
     ]
   },
   {
@@ -112,10 +135,13 @@
     "alpha_2": "AT",
     "alpha_3": "AUT",
     "numeric": "040",
-    "alternative_names": [
-      "o\u0308sterreich",
-      "republik o\u0308sterreich",
+    "iso_alternate": [
       "republic of austria"
+    ],
+    "wikipedia_alternate": [
+      "republik o\u0308sterreich",
+      "republic of austria",
+      "o\u0308sterreich"
     ]
   },
   {
@@ -123,9 +149,12 @@
     "alpha_2": "AZ",
     "alpha_3": "AZE",
     "numeric": "031",
-    "alternative_names": [
-      "az\u0259rbaycan respublikas\u0131",
+    "iso_alternate": [
       "republic of azerbaijan"
+    ],
+    "wikipedia_alternate": [
+      "republic of azerbaijan",
+      "az\u0259rbaycan respublikas\u0131"
     ]
   },
   {
@@ -133,11 +162,14 @@
     "alpha_2": "BS",
     "alpha_3": "BHS",
     "numeric": "044",
-    "alternative_names": [
+    "iso_alternate": [
+      "commonwealth of the bahamas"
+    ],
+    "wikipedia_alternate": [
+      "bahama islands",
       "the bahamas",
-      "commonwealth of the bahama islands",
       "commonwealth of the bahamas",
-      "bahama islands"
+      "commonwealth of the bahama islands"
     ]
   },
   {
@@ -145,7 +177,10 @@
     "alpha_2": "BH",
     "alpha_3": "BHR",
     "numeric": "048",
-    "alternative_names": [
+    "iso_alternate": [
+      "kingdom of bahrain"
+    ],
+    "wikipedia_alternate": [
       "state of bahrain",
       "kingdom of bahrain",
       "mamlakat al-bah\u0323rayn"
@@ -156,18 +191,21 @@
     "alpha_2": "BD",
     "alpha_3": "BGD",
     "numeric": "050",
-    "alternative_names": [
-      "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
-      "\u09ac\u0999\u09cd\u0997 bo\u0302nggo\u0302",
+    "iso_alternate": [
+      "people's republic of bangladesh"
+    ],
+    "wikipedia_alternate": [
+      "go\u0302no\u0302pro\u0302jato\u0302ntri bangladesh",
+      "\u09ac\u09be\u0982\u09b2\u09be bangla",
       "\u0997\u09a3\u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
       "\u0997\u0999\u09cd\u0997\u09be\u098b\u09a6\u09cd\u09a7\u09bf go\u0302nggarriddhi",
-      "go\u0302no\u0302pro\u0302jato\u0302ntri bangladesh",
-      "people's republic of bangladesh",
-      "east bengal",
       ", east pakistan",
-      "\u09ac\u09be\u0982\u09b2\u09be bangla",
-      "\u09aa\u09c2\u09b0\u09cd\u09ac \u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 purbo\u0302 pakistan",
+      "east bengal",
+      "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
       "bengal presidency",
+      "\u09aa\u09c2\u09b0\u09cd\u09ac \u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 purbo\u0302 pakistan",
+      "people's republic of bangladesh",
+      "\u09ac\u0999\u09cd\u0997 bo\u0302nggo\u0302",
       "\u09aa\u09c2\u09b0\u09cd\u09ac\u09ac\u0999\u09cd\u0997 purbo\u0302 bo\u0302nggo\u0302"
     ]
   },
@@ -176,9 +214,10 @@
     "alpha_2": "BB",
     "alpha_3": "BRB",
     "numeric": "052",
-    "alternative_names": [
-      "the rock",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "little england",
+      "the rock",
       "bim",
       "bimshire"
     ]
@@ -188,11 +227,14 @@
     "alpha_2": "BY",
     "alpha_3": "BLR",
     "numeric": "112",
-    "alternative_names": [
-      "byelorussia",
-      "\u0440\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0431\u0435\u043b\u0430\u0440\u0443\u0441\u044c respublika bielarus\u0301",
-      "white russia",
+    "iso_alternate": [
       "republic of belarus"
+    ],
+    "wikipedia_alternate": [
+      "white russia",
+      "republic of belarus",
+      "byelorussia",
+      "\u0440\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0431\u0435\u043b\u0430\u0440\u0443\u0441\u044c respublika bielarus\u0301"
     ]
   },
   {
@@ -200,14 +242,17 @@
     "alpha_2": "BE",
     "alpha_3": "BEL",
     "numeric": "056",
-    "alternative_names": [
-      "belgique",
-      "belgien",
-      "kingdom of belgium",
-      "koninkrijk belgie\u0308",
-      "royaume de belgique",
+    "iso_alternate": [
+      "kingdom of belgium"
+    ],
+    "wikipedia_alternate": [
+      "belgie\u0308",
       "ko\u0308nigreich belgien",
-      "belgie\u0308"
+      "belgique",
+      "royaume de belgique",
+      "koninkrijk belgie\u0308",
+      "belgien",
+      "kingdom of belgium"
     ]
   },
   {
@@ -215,7 +260,8 @@
     "alpha_2": "BZ",
     "alpha_3": "BLZ",
     "numeric": "084",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "british honduras"
     ]
   },
@@ -224,10 +270,13 @@
     "alpha_2": "BJ",
     "alpha_3": "BEN",
     "numeric": "204",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of benin"
+    ],
+    "wikipedia_alternate": [
       "republic of benin",
-      "dahomey",
-      "re\u0301publique du be\u0301nin"
+      "re\u0301publique du be\u0301nin",
+      "dahomey"
     ]
   },
   {
@@ -235,7 +284,10 @@
     "alpha_2": "BT",
     "alpha_3": "BTN",
     "numeric": "064",
-    "alternative_names": [
+    "iso_alternate": [
+      "kingdom of bhutan"
+    ],
+    "wikipedia_alternate": [
       "druk gyal khap",
       "kingdom of bhutan"
     ]
@@ -245,12 +297,15 @@
     "alpha_2": "BO",
     "alpha_3": "BOL",
     "numeric": "068",
-    "alternative_names": [
-      "republic of bolivia",
+    "iso_alternate": [
       "plurinational state of bolivia",
+      "bolivia"
+    ],
+    "wikipedia_alternate": [
       "estado plurinacional de bolivia",
       "republic of boli\u0301var",
-      "bolivia"
+      "republic of bolivia",
+      "plurinational state of bolivia"
     ]
   },
   {
@@ -258,7 +313,10 @@
     "alpha_2": "BA",
     "alpha_3": "BIH",
     "numeric": "070",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of bosnia and herzegovina"
+    ],
+    "wikipedia_alternate": [
       "bosnia",
       "socialist republic of bosnia and herzegovina",
       "republic of bosnia and herzegovina"
@@ -269,9 +327,12 @@
     "alpha_2": "BW",
     "alpha_3": "BWA",
     "numeric": "072",
-    "alternative_names": [
-      "bechuanaland",
+    "iso_alternate": [
       "republic of botswana"
+    ],
+    "wikipedia_alternate": [
+      "republic of botswana",
+      "bechuanaland"
     ]
   },
   {
@@ -279,14 +340,17 @@
     "alpha_2": "BR",
     "alpha_3": "BRA",
     "numeric": "076",
-    "alternative_names": [
+    "iso_alternate": [
+      "federative republic of brazil"
+    ],
+    "wikipedia_alternate": [
       "pindorama",
-      "empire of brazil",
-      "federative republic of brazil",
-      "united states of brazil",
-      "ilha de vera cruz",
       "terra de santa cruz",
-      "repu\u0301blica federativa do brasil"
+      "united states of brazil",
+      "federative republic of brazil",
+      "ilha de vera cruz",
+      "repu\u0301blica federativa do brasil",
+      "empire of brazil"
     ]
   },
   {
@@ -294,11 +358,12 @@
     "alpha_2": "BN",
     "alpha_3": "BRN",
     "numeric": "096",
-    "alternative_names": [
-      "brunei",
-      "negara brunei darussalam",
-      "state of brunei",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "\u0646\u06ac\u0627\u0631\u0627 \u0628\u0631\u0648\u0646\u064a \u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645",
+      "state of brunei",
+      "negara brunei darussalam",
+      "brunei",
       "nation of brunei, the abode of peace"
     ]
   },
@@ -307,10 +372,13 @@
     "alpha_2": "BG",
     "alpha_3": "BGR",
     "numeric": "100",
-    "alternative_names": [
-      "republic of bulgaria",
+    "iso_alternate": [
+      "republic of bulgaria"
+    ],
+    "wikipedia_alternate": [
       "\u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0438\u044f republika ba\u030clgariya",
-      "people's republic of bulgaria"
+      "people's republic of bulgaria",
+      "republic of bulgaria"
     ]
   },
   {
@@ -318,10 +386,11 @@
     "alpha_2": "BF",
     "alpha_3": "BFA",
     "numeric": "854",
-    "alternative_names": [
-      "upper volta",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "haute-volta",
-      "bourkina-fasso"
+      "bourkina-fasso",
+      "upper volta"
     ]
   },
   {
@@ -329,10 +398,13 @@
     "alpha_2": "BI",
     "alpha_3": "BDI",
     "numeric": "108",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of burundi"
+    ],
+    "wikipedia_alternate": [
+      "re\u0301publique du burundi",
       "republic of burundi",
       "republika y'uburundi",
-      "re\u0301publique du burundi",
       "kingdom of burundi"
     ]
   },
@@ -341,14 +413,17 @@
     "alpha_2": "KH",
     "alpha_3": "KHM",
     "numeric": "116",
-    "alternative_names": [
+    "iso_alternate": [
+      "kingdom of cambodia"
+    ],
+    "wikipedia_alternate": [
       "kingdom of cambodia",
-      "royaume du cambodge",
-      "democratic kampuchea",
+      "kampuchea",
       "state of cambodia",
       "people's republic of kampuchea",
       "khmer republic",
-      "kampuchea"
+      "royaume du cambodge",
+      "democratic kampuchea"
     ]
   },
   {
@@ -356,10 +431,13 @@
     "alpha_2": "CM",
     "alpha_3": "CMR",
     "numeric": "120",
-    "alternative_names": [
-      "kamerun",
+    "iso_alternate": [
+      "republic of cameroon"
+    ],
+    "wikipedia_alternate": [
       "republic of cameroon",
-      "united republic of cameroon"
+      "united republic of cameroon",
+      "kamerun"
     ]
   },
   {
@@ -367,10 +445,11 @@
     "alpha_2": "CA",
     "alpha_3": "CAN",
     "numeric": "124",
-    "alternative_names": [
-      "acadia",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
+      "dominion du canada",
       "dominion of canada",
-      "dominion du canada"
+      "acadia"
     ]
   },
   {
@@ -378,11 +457,14 @@
     "alpha_2": "CV",
     "alpha_3": "CPV",
     "numeric": "132",
-    "alternative_names": [
-      "repu\u0301blica de cabo verde",
-      "cape verde",
-      "repu\u0301blika di kabu verdi",
+    "iso_alternate": [
       "republic of cabo verde"
+    ],
+    "wikipedia_alternate": [
+      "republic of cabo verde",
+      "repu\u0301blika di kabu verdi",
+      "cape verde",
+      "repu\u0301blica de cabo verde"
     ]
   },
   {
@@ -390,12 +472,13 @@
     "alpha_2": "CF",
     "alpha_3": "CAF",
     "numeric": "140",
-    "alternative_names": [
-      "central african empire",
-      "empire centrafricain",
-      "re\u0301publique centrafricaine",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "oubangui-chari",
-      "ubangi-shari"
+      "re\u0301publique centrafricaine",
+      "ubangi-shari",
+      "empire centrafricain",
+      "central african empire"
     ]
   },
   {
@@ -403,9 +486,12 @@
     "alpha_2": "TD",
     "alpha_3": "TCD",
     "numeric": "148",
-    "alternative_names": [
-      "republic of chad",
+    "iso_alternate": [
+      "republic of chad"
+    ],
+    "wikipedia_alternate": [
       "jumhu\u0304ri\u0304yat tasha\u0304d",
+      "republic of chad",
       "re\u0301publique du tchad"
     ]
   },
@@ -414,12 +500,15 @@
     "alpha_2": "CL",
     "alpha_3": "CHL",
     "numeric": "152",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of chile"
+    ],
+    "wikipedia_alternate": [
       "reyno de chile",
-      "republic of chile",
       "chili",
       "capitania general de chile",
-      "chilli"
+      "chilli",
+      "republic of chile"
     ]
   },
   {
@@ -427,24 +516,27 @@
     "alpha_2": "CN",
     "alpha_3": "CHN",
     "numeric": "156",
-    "alternative_names": [
-      "new china",
-      "zhongguo",
+    "iso_alternate": [
+      "people's republic of china"
+    ],
+    "wikipedia_alternate": [
       "cathay",
-      "\u4e2d\u56fd",
       "people's republic of china",
-      "prc",
-      "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
-      "red china",
-      "\u795e\u5dde",
-      "ch'in empire",
-      "\u4e2d\u56fd\u5927\u9646",
-      "communist china",
-      "\u4e2d\u56fd\u5167\u5730",
-      "\u65b0\u4e2d\u56fd",
-      "shenzhou",
       "\u4e2d\u5171",
-      "mainland china"
+      "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+      "\u65b0\u4e2d\u56fd",
+      "\u4e2d\u56fd",
+      "mainland china",
+      "shenzhou",
+      "red china",
+      "communist china",
+      "prc",
+      "\u4e2d\u56fd\u5927\u9646",
+      "ch'in empire",
+      "zhongguo",
+      "new china",
+      "\u795e\u5dde",
+      "\u4e2d\u56fd\u5167\u5730"
     ]
   },
   {
@@ -452,28 +544,32 @@
     "alpha_2": "TW",
     "alpha_3": "TWN",
     "numeric": "158",
-    "alternative_names": [
-      "zho\u0304nghua\u0301 ta\u0301ibe\u030ci",
-      "\u53f0\u7063\u3001\u6f8e\u6e56\u3001\u91d1\u9580\u53ca\u99ac\u7956\u500b\u5225\u95dc\u7a05\u9818\u57df",
-      "taiwan",
-      "\u53f0\u7063",
-      "taipei, china",
-      "\u81fa\u7063",
-      "\u4e2d\u83ef\u53f0\u5317",
-      "\u4e2d\u570b",
-      "zhongguo",
+    "iso_alternate": [
+      "taiwan, province of china",
+      "taiwan"
+    ],
+    "wikipedia_alternate": [
       "cathay",
-      "china",
-      "free china",
-      "governing authorities on taiwan",
-      "roc",
-      "separate customs territory of taiwan, penghu, kinmen and matsu",
-      "\u4e2d\u83ef\u6c11\u570b",
-      "republic of china (taiwan)",
-      "qing dynasty",
-      "republic of china",
-      "chinese taipei",
       "nationalist china",
+      "roc",
+      "\u4e2d\u83ef\u6c11\u570b",
+      "taipei, china",
+      "qing dynasty",
+      "zho\u0304nghua\u0301 ta\u0301ibe\u030ci",
+      "\u81fa\u7063",
+      "chinese taipei",
+      "separate customs territory of taiwan, penghu, kinmen and matsu",
+      "taiwan",
+      "\u53f0\u7063\u3001\u6f8e\u6e56\u3001\u91d1\u9580\u53ca\u99ac\u7956\u500b\u5225\u95dc\u7a05\u9818\u57df",
+      "governing authorities on taiwan",
+      "zhongguo",
+      "republic of china (taiwan)",
+      "\u4e2d\u570b",
+      "\u4e2d\u83ef\u53f0\u5317",
+      "china",
+      "republic of china",
+      "free china",
+      "\u53f0\u7063",
       "formosa"
     ]
   },
@@ -482,12 +578,15 @@
     "alpha_2": "CO",
     "alpha_3": "COL",
     "numeric": "170",
-    "alternative_names": [
-      "estados unidos de colombia",
-      "confederacio\u0301n granadina",
+    "iso_alternate": [
+      "republic of colombia"
+    ],
+    "wikipedia_alternate": [
       "republic of colombia",
       "repu\u0301blica de colombia",
-      "repu\u0301blica de la nueva granada"
+      "confederacio\u0301n granadina",
+      "repu\u0301blica de la nueva granada",
+      "estados unidos de colombia"
     ]
   },
   {
@@ -495,12 +594,15 @@
     "alpha_2": "KM",
     "alpha_3": "COM",
     "numeric": "174",
-    "alternative_names": [
-      "union des comores",
-      "udzima wa komori",
-      "united republic of the commoros",
-      "al-ittih\u0323a\u0304d al-qumuri\u0304",
+    "iso_alternate": [
       "union of the comoros"
+    ],
+    "wikipedia_alternate": [
+      "udzima wa komori",
+      "union of the comoros",
+      "al-ittih\u0323a\u0304d al-qumuri\u0304",
+      "union des comores",
+      "united republic of the commoros"
     ]
   },
   {
@@ -508,13 +610,16 @@
     "alpha_2": "CG",
     "alpha_3": "COG",
     "numeric": "178",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of the congo"
+    ],
+    "wikipedia_alternate": [
       "republic of the congo",
-      "repubilika ya ko\u0302ngo",
-      "re\u0301publique du congo",
       "congo-brazzaville",
+      "congo republic",
       "republi\u0301ki ya kongo\u0301",
-      "congo republic"
+      "re\u0301publique du congo",
+      "repubilika ya ko\u0302ngo"
     ]
   },
   {
@@ -522,7 +627,10 @@
     "alpha_2": "CR",
     "alpha_3": "CRI",
     "numeric": "188",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of costa rica"
+    ],
+    "wikipedia_alternate": [
       "republic of costa rica",
       "repu\u0301blica de costa rica"
     ]
@@ -532,11 +640,14 @@
     "alpha_2": "CI",
     "alpha_3": "CIV",
     "numeric": "384",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of co\u0302te d'ivoire"
+    ],
+    "wikipedia_alternate": [
       "the ivory coast",
-      "republic of co\u0302te d'ivoire",
+      "re\u0301publique de co\u0302te d'ivoire",
       "ivory coast",
-      "re\u0301publique de co\u0302te d'ivoire"
+      "republic of co\u0302te d'ivoire"
     ]
   },
   {
@@ -544,11 +655,14 @@
     "alpha_2": "HR",
     "alpha_3": "HRV",
     "numeric": "191",
-    "alternative_names": [
-      "hrvas\u030cka",
+    "iso_alternate": [
+      "republic of croatia"
+    ],
+    "wikipedia_alternate": [
       "republic of croatia",
-      "hrvatska",
-      "republika hrvatska"
+      "republika hrvatska",
+      "hrvas\u030cka",
+      "hrvatska"
     ]
   },
   {
@@ -556,9 +670,12 @@
     "alpha_2": "CU",
     "alpha_3": "CUB",
     "numeric": "192",
-    "alternative_names": [
-      "repu\u0301blica de cuba",
+    "iso_alternate": [
       "republic of cuba"
+    ],
+    "wikipedia_alternate": [
+      "republic of cuba",
+      "repu\u0301blica de cuba"
     ]
   },
   {
@@ -566,15 +683,18 @@
     "alpha_2": "CY",
     "alpha_3": "CYP",
     "numeric": "196",
-    "alternative_names": [
-      "k\u0131br\u0131s cumhuriyeti",
-      "kypriaki dimokratia",
-      "\u03ba\u03c5\u0301\u03c0\u03c1\u03bf\u03c3",
+    "iso_alternate": [
+      "republic of cyprus"
+    ],
+    "wikipedia_alternate": [
       "republic of cyprus",
-      "island of venus",
+      "k\u0131br\u0131s",
       "kypros",
+      "k\u0131br\u0131s cumhuriyeti",
+      "\u03ba\u03c5\u0301\u03c0\u03c1\u03bf\u03c3",
+      "kypriaki dimokratia",
       "\u03ba\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03b7\u0301 \u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b9\u0301\u03b1",
-      "k\u0131br\u0131s"
+      "island of venus"
     ]
   },
   {
@@ -582,23 +702,26 @@
     "alpha_2": "CZ",
     "alpha_3": "CZE",
     "numeric": "203",
-    "alternative_names": [
+    "iso_alternate": [
+      "czech republic"
+    ],
+    "wikipedia_alternate": [
       "the czechlands",
-      "c\u030csr",
-      "czechland",
-      "c\u030cesko",
-      "(protektora\u0301t) c\u030cechy a morava",
-      "csr",
-      "c\u030ceske\u0301 zeme\u030c",
-      "bohemia",
-      "koruna c\u030ceska\u0301",
-      "c\u030ceska\u0301 socialisticka\u0301 republika",
-      "cr",
-      "c\u030ceska\u0301 republika",
-      "c\u030cr",
-      "czech republic",
       "c\u030ceska\u0301 konfederace",
-      "zeme\u030c koruny c\u030ceske\u0301"
+      "(protektora\u0301t) c\u030cechy a morava",
+      "c\u030cesko",
+      "c\u030csr",
+      "koruna c\u030ceska\u0301",
+      "bohemia",
+      "c\u030cr",
+      "cr",
+      "czechland",
+      "zeme\u030c koruny c\u030ceske\u0301",
+      "c\u030ceske\u0301 zeme\u030c",
+      "csr",
+      "c\u030ceska\u0301 socialisticka\u0301 republika",
+      "czech republic",
+      "c\u030ceska\u0301 republika"
     ]
   },
   {
@@ -606,11 +729,14 @@
     "alpha_2": "DK",
     "alpha_3": "DNK",
     "numeric": "208",
-    "alternative_names": [
+    "iso_alternate": [
+      "kingdom of denmark"
+    ],
+    "wikipedia_alternate": [
       "kingdom of denmark",
+      "danmark",
       "kongeriget danmark",
-      "dania",
-      "danmark"
+      "dania"
     ]
   },
   {
@@ -618,16 +744,17 @@
     "alpha_2": "CD",
     "alpha_3": "COD",
     "numeric": "180",
-    "alternative_names": [
-      "zaire",
-      "republic of the congo",
-      "democratic republic of the congo",
-      "congo belge",
-      "drc",
-      "congo free state",
-      "belgian congo",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "democratic republic of congo",
-      "congo kinshasa"
+      "republic of the congo",
+      "belgian congo",
+      "congo free state",
+      "congo belge",
+      "congo kinshasa",
+      "zaire",
+      "drc",
+      "democratic republic of the congo"
     ]
   },
   {
@@ -635,15 +762,18 @@
     "alpha_2": "DJ",
     "alpha_3": "DJI",
     "numeric": "262",
-    "alternative_names": [
-      "re\u0301publique de djibouti",
-      "republic of djibouti",
-      "french somaliland",
-      "french territory of the afars and the issas",
-      "territoire d'obock",
-      "territoire franc\u0327ais des afars et des issas",
+    "iso_alternate": [
+      "republic of djibouti"
+    ],
+    "wikipedia_alternate": [
       "co\u0302te franc\u0327aise des somalis",
-      "obock territory"
+      "obock territory",
+      "re\u0301publique de djibouti",
+      "french somaliland",
+      "republic of djibouti",
+      "territoire d'obock",
+      "french territory of the afars and the issas",
+      "territoire franc\u0327ais des afars et des issas"
     ]
   },
   {
@@ -651,10 +781,13 @@
     "alpha_2": "DM",
     "alpha_3": "DMA",
     "numeric": "212",
-    "alternative_names": [
-      "dominik",
-      "commonwealth of dominica",
+    "iso_alternate": [
+      "commonwealth of dominica"
+    ],
+    "wikipedia_alternate": [
       "wai\u2018tu kubuli",
+      "commonwealth of dominica",
+      "dominik",
       "dominique"
     ]
   },
@@ -663,7 +796,8 @@
     "alpha_2": "DO",
     "alpha_3": "DOM",
     "numeric": "214",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "repu\u0301blica dominicana"
     ]
   },
@@ -672,10 +806,13 @@
     "alpha_2": "TL",
     "alpha_3": "TLS",
     "numeric": "626",
-    "alternative_names": [
-      "east timor",
-      "portuguese timor",
+    "iso_alternate": [
       "democratic republic of timor-leste"
+    ],
+    "wikipedia_alternate": [
+      "democratic republic of timor-leste",
+      "portuguese timor",
+      "east timor"
     ]
   },
   {
@@ -683,7 +820,10 @@
     "alpha_2": "EC",
     "alpha_3": "ECU",
     "numeric": "218",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of ecuador"
+    ],
+    "wikipedia_alternate": [
       "repu\u0301blica del ecuador",
       "republic of ecuador",
       "ikwadur ripuwlika",
@@ -695,12 +835,15 @@
     "alpha_2": "EG",
     "alpha_3": "EGY",
     "numeric": "818",
-    "alternative_names": [
-      "aegyptus",
-      "ki\u0304mi",
+    "iso_alternate": [
+      "arab republic of egypt"
+    ],
+    "wikipedia_alternate": [
       "arab republic of egypt",
+      "ki\u0304mi",
       "mes\u0323r",
-      "mis\u0323r"
+      "mis\u0323r",
+      "aegyptus"
     ]
   },
   {
@@ -708,7 +851,10 @@
     "alpha_2": "SV",
     "alpha_3": "SLV",
     "numeric": "222",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of el salvador"
+    ],
+    "wikipedia_alternate": [
       "repu\u0301blica de el salvador",
       "republic of el salvador"
     ]
@@ -718,14 +864,17 @@
     "alpha_2": "GQ",
     "alpha_3": "GNQ",
     "numeric": "226",
-    "alternative_names": [
-      "republic of equatorial guinea",
-      "guine\u0301 equatorial",
-      "repu\u0301blica da guine\u0301 equatorial",
+    "iso_alternate": [
+      "republic of equatorial guinea"
+    ],
+    "wikipedia_alternate": [
       "guine\u0301e e\u0301quatoriale",
-      "re\u0301publique de guine\u0301e e\u0301quatoriale",
+      "guine\u0301 equatorial",
+      "repu\u0301blica de guinea ecuatorial",
+      "repu\u0301blica da guine\u0301 equatorial",
       "guinea ecuatorial",
-      "repu\u0301blica de guinea ecuatorial"
+      "republic of equatorial guinea",
+      "re\u0301publique de guine\u0301e e\u0301quatoriale"
     ]
   },
   {
@@ -733,9 +882,11 @@
     "alpha_2": "ER",
     "alpha_3": "ERI",
     "numeric": "232",
-    "alternative_names": [
+    "iso_alternate": [
+      "the state of eritrea"
+    ],
+    "wikipedia_alternate": [
       "state of eritrea",
-      "the state of eritrea",
       "italian eritrea"
     ]
   },
@@ -744,15 +895,18 @@
     "alpha_2": "EE",
     "alpha_3": "EST",
     "numeric": "233",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of estonia"
+    ],
+    "wikipedia_alternate": [
       "viro",
-      "estland",
-      "republic of estonia",
-      "eesti",
       "viru",
-      "igaunija",
+      "estland",
       "eesti vabariik",
+      "eesti",
+      "igaunija",
       "esthonia",
+      "republic of estonia",
       "maarjamaa"
     ]
   },
@@ -761,9 +915,12 @@
     "alpha_2": "SZ",
     "alpha_3": "SWZ",
     "numeric": "748",
-    "alternative_names": [
-      "swaziland",
+    "iso_alternate": [
+      "kingdom of eswatini"
+    ],
+    "wikipedia_alternate": [
       "kingdom of eswatini",
+      "swaziland",
       "eswatini"
     ]
   },
@@ -772,14 +929,17 @@
     "alpha_2": "ET",
     "alpha_3": "ETH",
     "numeric": "231",
-    "alternative_names": [
-      "al-habasha",
+    "iso_alternate": [
+      "federal democratic republic of ethiopia"
+    ],
+    "wikipedia_alternate": [
       "abyssinia",
-      "etiopia",
-      "ethiopie\u0308",
-      "habeshastan",
       "federal democratic republic of ethiopia",
-      "\u12a2\u1275\u12ee\u1335\u12eb"
+      "\u12a2\u1275\u12ee\u1335\u12eb",
+      "al-habasha",
+      "ethiopie\u0308",
+      "etiopia",
+      "habeshastan"
     ]
   },
   {
@@ -787,9 +947,12 @@
     "alpha_2": "FJ",
     "alpha_3": "FJI",
     "numeric": "242",
-    "alternative_names": [
-      "republic of fiji",
-      "matanitu tugalala o viti"
+    "iso_alternate": [
+      "republic of fiji"
+    ],
+    "wikipedia_alternate": [
+      "matanitu tugalala o viti",
+      "republic of fiji"
     ]
   },
   {
@@ -797,21 +960,24 @@
     "alpha_2": "FI",
     "alpha_3": "FIN",
     "numeric": "246",
-    "alternative_names": [
-      "suomen tasavalta",
-      "\u0444\u0438\u043d\u043b\u044f\u0301\u043d\u0434\u0438\u044f",
-      "republic of finland",
-      "suoma da\u0301sseva\u0301ldi",
+    "iso_alternate": [
+      "republic of finland"
+    ],
+    "wikipedia_alternate": [
+      "suoma\u0302",
       "suomi",
       "republiken finland",
-      "suomenmaa",
+      "republic of finland",
       "suopma",
-      "la\u0308a\u0308\u02caddja\u0302nnam ta\u0308a\u0308\u02cassva\u0308\u02caldd",
-      "suoma\u0302 ta\u0308siva\u0308ldi",
-      "soome",
       "la\u0308a\u0308\u02caddja\u0302nnam",
+      "suoma\u0302 ta\u0308siva\u0308ldi",
+      "suomenmaa",
+      "la\u0308a\u0308\u02caddja\u0302nnam ta\u0308a\u0308\u02cassva\u0308\u02caldd",
+      "suomen tasavalta",
       "\u0432\u0435\u043b\u0438\u043a\u043e\u0435 \u043a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u043e \u0444\u0438\u043d\u043b\u044f\u043d\u0434\u0441\u043a\u043e\u0435",
-      "suoma\u0302"
+      "suoma da\u0301sseva\u0301ldi",
+      "soome",
+      "\u0444\u0438\u043d\u043b\u044f\u0301\u043d\u0434\u0438\u044f"
     ]
   },
   {
@@ -819,16 +985,19 @@
     "alpha_2": "FR",
     "alpha_3": "FRA",
     "numeric": "250",
-    "alternative_names": [
-      "faranc\u0327a",
+    "iso_alternate": [
+      "french republic"
+    ],
+    "wikipedia_alternate": [
+      "l'hexagone",
+      "re\u0301publique franc\u0327aise",
       "frankreich",
-      "francia",
-      "french republic",
-      "\u03b3\u03b1\u03bb\u03bb\u03b9\u0301\u03b1",
       "gaule",
       "gaul",
-      "re\u0301publique franc\u0327aise",
-      "l'hexagone",
+      "\u03b3\u03b1\u03bb\u03bb\u03b9\u0301\u03b1",
+      "francia",
+      "french republic",
+      "faranc\u0327a",
       "tsarfat"
     ]
   },
@@ -837,7 +1006,10 @@
     "alpha_2": "GA",
     "alpha_3": "GAB",
     "numeric": "266",
-    "alternative_names": [
+    "iso_alternate": [
+      "gabonese republic"
+    ],
+    "wikipedia_alternate": [
       "gabonese republic"
     ]
   },
@@ -846,7 +1018,10 @@
     "alpha_2": "GM",
     "alpha_3": "GMB",
     "numeric": "270",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of the gambia"
+    ],
+    "wikipedia_alternate": [
       "republic of the gambia"
     ]
   },
@@ -855,14 +1030,15 @@
     "alpha_2": "GE",
     "alpha_3": "GEO",
     "numeric": "268",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "iveria",
-      "republic of georgia",
-      "\u06af\u0631\u062c\u0633\u062a\u0627\u0646",
-      "iberia",
-      "sakartvelos respublika",
       "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd\u10e1 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0",
+      "republic of georgia",
+      "sakartvelos respublika",
+      "\u06af\u0631\u062c\u0633\u062a\u0627\u0646",
       "sakartvelo",
+      "iberia",
       "colchis"
     ]
   },
@@ -871,32 +1047,35 @@
     "alpha_2": "DE",
     "alpha_3": "DEU",
     "numeric": "276",
-    "alternative_names": [
-      "alemania",
-      "allemagne",
-      "alemannia",
-      "german empire",
-      "frg",
-      "niemcy",
-      "ddr",
-      "duitsland",
-      "bavaria",
-      "germania",
-      "deutsche demokratische republik",
+    "iso_alternate": [
+      "federal republic of germany"
+    ],
+    "wikipedia_alternate": [
       "nemacia",
-      "saxony",
-      "weimar republic",
-      "german democratic republic",
-      "saksa",
+      "german empire",
       "east germany",
-      "brd",
-      "ne\u030cmecko",
+      "alemannia",
+      "german democratic republic",
+      "prussia",
+      "weimar republic",
+      "germania",
+      "duitsland",
       "gdr",
-      "bundesrepublik deutschland",
-      "deutschland",
+      "frg",
+      "saxony",
+      "brd",
+      "saksa",
+      "ne\u030cmecko",
       "federal republic of germany",
+      "niemcy",
       "ne\u0301metorsza\u0301g",
-      "prussia"
+      "deutsche demokratische republik",
+      "bundesrepublik deutschland",
+      "allemagne",
+      "bavaria",
+      "deutschland",
+      "ddr",
+      "alemania"
     ]
   },
   {
@@ -904,12 +1083,15 @@
     "alpha_2": "GH",
     "alpha_3": "GHA",
     "numeric": "288",
-    "alternative_names": [
-      "united gold coast convention",
-      "republic of ghana",
-      "gold coast",
+    "iso_alternate": [
+      "republic of ghana"
+    ],
+    "wikipedia_alternate": [
       "ghana ti\u014bzu\u0263u",
-      "gaana"
+      "gold coast",
+      "united gold coast convention",
+      "gaana",
+      "republic of ghana"
     ]
   },
   {
@@ -917,14 +1099,17 @@
     "alpha_2": "GR",
     "alpha_3": "GRC",
     "numeric": "300",
-    "alternative_names": [
-      "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03b7\u0301 \u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b9\u0301\u03b1",
+    "iso_alternate": [
+      "hellenic republic"
+    ],
+    "wikipedia_alternate": [
+      "kingdom of the hellenes",
       "hellenic republic",
+      "yunanistan",
       "hellas",
       "yavan",
       "\u03b5\u03bb\u03bb\u03b1\u0301\u03b4\u03b1",
-      "yunanistan",
-      "kingdom of the hellenes",
+      "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03b7\u0301 \u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b9\u0301\u03b1",
       "\u03b5\u03bb\u03bb\u03b1\u0301\u03c3"
     ]
   },
@@ -933,7 +1118,8 @@
     "alpha_2": "GD",
     "alpha_3": "GRD",
     "numeric": "308",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "gwenad"
     ]
   },
@@ -942,9 +1128,12 @@
     "alpha_2": "GW",
     "alpha_3": "GNB",
     "numeric": "624",
-    "alternative_names": [
-      "guine\u0301-bissao",
+    "iso_alternate": [
+      "republic of guinea-bissau"
+    ],
+    "wikipedia_alternate": [
       "portuguese guinea",
+      "guine\u0301-bissao",
       "republic of guinea-bissau",
       "guinea"
     ]
@@ -954,7 +1143,10 @@
     "alpha_2": "GT",
     "alpha_3": "GTM",
     "numeric": "320",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of guatemala"
+    ],
+    "wikipedia_alternate": [
       "republic of guatemala"
     ]
   },
@@ -963,16 +1155,19 @@
     "alpha_2": "GN",
     "alpha_3": "GIN",
     "numeric": "324",
-    "alternative_names": [
-      "\u07d6\u07cc\u07ec\u07e3\u07cd\u07eb",
-      "re\u0301publique de guine\u0301e",
+    "iso_alternate": [
+      "republic of guinea"
+    ],
+    "wikipedia_alternate": [
+      "gine",
+      "\ud83a\udd2a\ud83a\udd2b\ud83a\udd28\ud83a\udd35\ud83a\udd26\ud83a\udd24\ud83a\udd2d\ud83a\udd33 \ud83a\udd26\ud83a\udd35 \ud83a\udd3a\ud83a\udd2d\ud83a\udd32\ud83a\udd2b",
       "guine\u0301e franc\u0327aise",
       "republic of guinea",
-      "gine",
-      "french guinea",
-      "republik bu gine",
+      "\u07d6\u07cc\u07ec\u07e3\u07cd\u07eb",
       "guinea-conakry",
-      "\ud83a\udd2a\ud83a\udd2b\ud83a\udd28\ud83a\udd35\ud83a\udd26\ud83a\udd24\ud83a\udd2d\ud83a\udd33 \ud83a\udd26\ud83a\udd35 \ud83a\udd3a\ud83a\udd2d\ud83a\udd32\ud83a\udd2b"
+      "re\u0301publique de guine\u0301e",
+      "french guinea",
+      "republik bu gine"
     ]
   },
   {
@@ -980,9 +1175,11 @@
     "alpha_2": "GY",
     "alpha_3": "GUY",
     "numeric": "328",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of guyana"
+    ],
+    "wikipedia_alternate": [
       "british guiana",
-      "republic of guyana",
       "co\u2010operative republic of guyana"
     ]
   },
@@ -991,13 +1188,16 @@
     "alpha_2": "HT",
     "alpha_3": "HTI",
     "numeric": "332",
-    "alternative_names": [
-      "re\u0301publique d'hai\u0308ti",
-      "repiblik d ayiti",
+    "iso_alternate": [
+      "republic of haiti"
+    ],
+    "wikipedia_alternate": [
       "ayiti",
+      "hai\u0308ti",
       "hayti",
       "republic of haiti",
-      "hai\u0308ti"
+      "re\u0301publique d'hai\u0308ti",
+      "repiblik d ayiti"
     ]
   },
   {
@@ -1005,7 +1205,10 @@
     "alpha_2": "HN",
     "alpha_3": "HND",
     "numeric": "340",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of honduras"
+    ],
+    "wikipedia_alternate": [
       "republic of honduras",
       "repu\u0301blica de honduras"
     ]
@@ -1015,17 +1218,20 @@
     "alpha_2": "HU",
     "alpha_3": "HUN",
     "numeric": "348",
-    "alternative_names": [
-      "magyar ne\u0301pko\u0308zta\u0301rsasa\u0301g",
-      "kingdom of hungary",
-      "magyar tana\u0301csko\u0308zta\u0301rsasa\u0301g",
-      "hungaria",
-      "magyarorsza\u0301g",
-      "hungarian people's republic",
-      "regnum hungari\u00e6",
-      "magyar kira\u0301lysa\u0301g",
+    "iso_alternate": [
+      "hungary"
+    ],
+    "wikipedia_alternate": [
+      "republic of hungary",
       "magyar ko\u0308zta\u0301rsasa\u0301g",
-      "republic of hungary"
+      "kingdom of hungary",
+      "regnum hungari\u00e6",
+      "magyarorsza\u0301g",
+      "magyar ne\u0301pko\u0308zta\u0301rsasa\u0301g",
+      "magyar tana\u0301csko\u0308zta\u0301rsasa\u0301g",
+      "magyar kira\u0301lysa\u0301g",
+      "hungaria",
+      "hungarian people's republic"
     ]
   },
   {
@@ -1033,14 +1239,17 @@
     "alpha_2": "IS",
     "alpha_3": "ISL",
     "numeric": "352",
-    "alternative_names": [
-      "i\u0301sland",
-      "fro\u0301n",
-      "ly\u0301\u00f0veldi\u00f0 i\u0301sland",
-      "fold",
-      "thule",
-      "i\u0301safold",
+    "iso_alternate": [
       "republic of iceland"
+    ],
+    "wikipedia_alternate": [
+      "ly\u0301\u00f0veldi\u00f0 i\u0301sland",
+      "thule",
+      "republic of iceland",
+      "i\u0301safold",
+      "fold",
+      "fro\u0301n",
+      "i\u0301sland"
     ]
   },
   {
@@ -1048,27 +1257,30 @@
     "alpha_2": "IN",
     "alpha_3": "IND",
     "numeric": "356",
-    "alternative_names": [
-      "bha\u0304rata",
-      "bha\u0304rat prajatantra",
-      "bha\u0304ratam",
-      "bha\u0304rat",
-      "union of india",
-      "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36\u0c02",
-      "\u092d\u093e\u0930\u0924\u0935\u0930\u094d\u0937",
-      "\u0baa\u0bbe\u0bb0\u0ba4\u0bae\u0bcd",
-      "hodu",
-      "aryavarta",
-      "republic of india",
-      "\u0d2d\u0d3e\u0d30\u0d24\u0d02",
-      "bha\u0304rat gan\u0323ara\u0304jya \u092d\u093e\u0930\u0924 \u0917\u0923\u0930\u093e\u091c\u094d\u092f",
-      "bha\u0304ratade\u0304s\u0301am\u0307",
+    "iso_alternate": [
+      "republic of india"
+    ],
+    "wikipedia_alternate": [
       "jumhu\u0304ri\u0304yat-e bha\u0304rat",
-      "\u0cad\u0cbe\u0cb0\u0ca4",
-      "bha\u0304ratavars\u0323a",
       "bha\u0304ratam \u092d\u093e\u0930\u0924\u092e\u094d",
+      "bha\u0304ratade\u0304s\u0301am\u0307",
+      "hodu",
+      "bha\u0304rat prajatantra",
+      "bha\u0304rata",
+      "\u0baa\u0bbe\u0bb0\u0ba4\u0bae\u0bcd",
+      "aryavarta",
+      "union of india",
+      "bha\u0304rat gan\u0323ara\u0304jya \u092d\u093e\u0930\u0924 \u0917\u0923\u0930\u093e\u091c\u094d\u092f",
+      "\u0d2d\u0d3e\u0d30\u0d24\u0d02",
+      "\u092d\u093e\u0930\u0924",
+      "bha\u0304ratavars\u0323a",
+      "\u0cad\u0cbe\u0cb0\u0ca4",
+      "\u092d\u093e\u0930\u0924\u0935\u0930\u094d\u0937",
+      "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36\u0c02",
+      "bha\u0304ratam",
       "hindustan",
-      "\u092d\u093e\u0930\u0924"
+      "republic of india",
+      "bha\u0304rat"
     ]
   },
   {
@@ -1076,18 +1288,21 @@
     "alpha_2": "ID",
     "alpha_3": "IDN",
     "numeric": "360",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of indonesia"
+    ],
+    "wikipedia_alternate": [
+      "nusantara",
+      "netherlands east-indies",
+      "republic of indonesia",
+      "republik indonesia",
+      "hindia belanda",
+      "indonesie\u0308",
+      "nederlands(ch)-indie\u0308",
       "insulinde",
       "negara kesatuan republik indonesia",
-      "republic of indonesia",
-      "netherlands east-indies",
-      "republik indonesia",
-      "nederlands(ch)-indie\u0308",
-      "indonesie\u0308",
-      "dutch east indies",
-      "hindia belanda",
       "indunesia",
-      "nusantara"
+      "dutch east indies"
     ]
   },
   {
@@ -1095,13 +1310,16 @@
     "alpha_2": "IR",
     "alpha_3": "IRN",
     "numeric": "364",
-    "alternative_names": [
-      "persia",
-      "islamic republic of iran",
-      "i.r.i.",
-      "i.r.i",
+    "iso_alternate": [
+      "islamic republic of iran"
+    ],
+    "wikipedia_alternate": [
       "iri",
-      "iran"
+      "iran",
+      "i.r.i",
+      "i.r.i.",
+      "islamic republic of iran",
+      "persia"
     ]
   },
   {
@@ -1109,11 +1327,14 @@
     "alpha_2": "IQ",
     "alpha_3": "IRQ",
     "numeric": "368",
-    "alternative_names": [
-      "mesopotamia",
-      "assyria",
-      "babylon",
+    "iso_alternate": [
       "republic of iraq"
+    ],
+    "wikipedia_alternate": [
+      "assyria",
+      "mesopotamia",
+      "republic of iraq",
+      "babylon"
     ]
   },
   {
@@ -1121,16 +1342,17 @@
     "alpha_2": "IE",
     "alpha_3": "IRL",
     "numeric": "372",
-    "alternative_names": [
-      "erin",
-      "irish free state",
-      "fodla",
-      "e\u0301ire",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
+      "hibernia",
       "republic of ireland",
       "banba",
-      "saorsta\u0301t e\u0301ireann",
-      "hibernia",
-      "poblacht na he\u0301ireann"
+      "irish free state",
+      "poblacht na he\u0301ireann",
+      "erin",
+      "e\u0301ire",
+      "fodla",
+      "saorsta\u0301t e\u0301ireann"
     ]
   },
   {
@@ -1138,20 +1360,23 @@
     "alpha_2": "IL",
     "alpha_3": "ISR",
     "numeric": "376",
-    "alternative_names": [
-      "the holy land",
-      "jeshurun",
-      "zion",
-      "\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
-      "\u062f\u064e\u0648\u0652\u0644\u064e\u0629 \u0627\u0650\u0655\u0633\u0652\u0631\u064e\u0627\u064a\u0650\u0654\u064a\u0644",
-      "the zionist entity",
-      "\u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "iso_alternate": [
+      "state of israel"
+    ],
+    "wikipedia_alternate": [
       "eretz yisrael",
+      "the zionist entity",
       "dawlat isra'il",
-      "\u05d0\u05e8\u05e5 \u05d4\u05e7\u05d5\u05d3\u05e9",
+      "zion",
       "state of israel",
+      "\u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc",
+      "\u062f\u064e\u0648\u0652\u0644\u064e\u0629 \u0627\u0650\u0655\u0633\u0652\u0631\u064e\u0627\u064a\u0650\u0654\u064a\u0644",
+      "the jewish state",
+      "the holy land",
+      "\u05d0\u05e8\u05e5 \u05d4\u05e7\u05d5\u05d3\u05e9",
+      "jeshurun",
       "medinat yisra'el",
-      "the jewish state"
+      "\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc"
     ]
   },
   {
@@ -1159,17 +1384,20 @@
     "alpha_2": "IT",
     "alpha_3": "ITA",
     "numeric": "380",
-    "alternative_names": [
+    "iso_alternate": [
+      "italian republic"
+    ],
+    "wikipedia_alternate": [
+      "esperia",
+      "ausonia",
+      "the beautiful country",
+      "kingdom of italy",
+      "italia",
       "enotria",
       "repubblica italiana",
-      "tirrenia",
-      "kingdom of italy",
-      "italian republic",
-      "the beautiful country",
       "the boot",
-      "ausonia",
-      "italia",
-      "esperia"
+      "italian republic",
+      "tirrenia"
     ]
   },
   {
@@ -1177,7 +1405,8 @@
     "alpha_2": "JM",
     "alpha_3": "JAM",
     "numeric": "388",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "xamayca"
     ]
   },
@@ -1186,7 +1415,8 @@
     "alpha_2": "JP",
     "alpha_3": "JPN",
     "numeric": "392",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "nippon",
       "\u65e5\u672c",
       "yamato (\u5927\u548c)"
@@ -1197,9 +1427,12 @@
     "alpha_2": "JO",
     "alpha_3": "JOR",
     "numeric": "400",
-    "alternative_names": [
-      "hashemite kingdom of jordan",
-      "hkj"
+    "iso_alternate": [
+      "hashemite kingdom of jordan"
+    ],
+    "wikipedia_alternate": [
+      "hkj",
+      "hashemite kingdom of jordan"
     ]
   },
   {
@@ -1207,19 +1440,22 @@
     "alpha_2": "KZ",
     "alpha_3": "KAZ",
     "numeric": "398",
-    "alternative_names": [
-      "\u049b\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
-      "\u049b\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
-      "\u049b\u0430\u0437\u0430\u049b \u043a\u0435\u04a3\u0435\u0441\u0442\u0456\u043a \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0456\u043a \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
-      "qazaqstan",
-      "kazakh soviet socialist republic",
-      "qazaq ken\u0303estik soci\u0308ali\u0308stik respwbli\u0308kas\u0131",
-      "\u043a\u0430\u0437\u0430\u0445\u0441\u043a\u0430\u044f \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+    "iso_alternate": [
+      "republic of kazakhstan"
+    ],
+    "wikipedia_alternate": [
       "alash",
-      "republic of kazakhstan",
+      "\u049b\u0430\u0437\u0430\u049b \u043a\u0435\u04a3\u0435\u0441\u0442\u0456\u043a \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0456\u043a \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
       "\u0430\u043b\u0430\u0448",
-      "kazakhskaya sovetskaya sotsialisticheskaya respublika",
-      "alas\u0327"
+      "qazaqstan",
+      "\u043a\u0430\u0437\u0430\u0445\u0441\u043a\u0430\u044f \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+      "\u049b\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+      "kazakh soviet socialist republic",
+      "\u049b\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+      "republic of kazakhstan",
+      "alas\u0327",
+      "qazaq ken\u0303estik soci\u0308ali\u0308stik respwbli\u0308kas\u0131",
+      "kazakhskaya sovetskaya sotsialisticheskaya respublika"
     ]
   },
   {
@@ -1227,11 +1463,14 @@
     "alpha_2": "KE",
     "alpha_3": "KEN",
     "numeric": "404",
-    "alternative_names": [
-      "kenya colony",
-      "british east africa protectorate",
-      "jamhuri ya kenya",
+    "iso_alternate": [
       "republic of kenya"
+    ],
+    "wikipedia_alternate": [
+      "republic of kenya",
+      "jamhuri ya kenya",
+      "british east africa protectorate",
+      "kenya colony"
     ]
   },
   {
@@ -1239,11 +1478,14 @@
     "alpha_2": "KI",
     "alpha_3": "KIR",
     "numeric": "296",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of kiribati"
+    ],
+    "wikipedia_alternate": [
+      "kingsmill group",
       "republic of kiribati",
       "gilbert islands",
-      "ribaberiki ni kiribati",
-      "kingsmill group"
+      "ribaberiki ni kiribati"
     ]
   },
   {
@@ -1251,17 +1493,20 @@
     "alpha_2": "KP",
     "alpha_3": "PRK",
     "numeric": "408",
-    "alternative_names": [
+    "iso_alternate": [
+      "democratic people's republic of korea",
+      "north korea"
+    ],
+    "wikipedia_alternate": [
+      "dpr korea",
+      "cho-son",
+      "choson minjujuui inmin konghwaguk",
+      "democratic people's republic of korea",
+      "\u110c\u1169\u1109\u1165\u11ab",
+      "\u110c\u1169\u1109\u1165\u11ab\u1106\u1175\u11ab\u110c\u116e\u110c\u116e\u110b\u1174\u110b\u1175\u11ab\u1106\u1175\u11ab\u1100\u1169\u11bc\u1112\u116a\u1100\u116e\u11a8",
       "d.p.r.k.",
       "korea",
-      "\u110c\u1169\u1109\u1165\u11ab",
-      "dprk",
-      "cho-son",
-      "democratic people's republic of korea",
-      "north korea",
-      "dpr korea",
-      "\u110c\u1169\u1109\u1165\u11ab\u1106\u1175\u11ab\u110c\u116e\u110c\u116e\u110b\u1174\u110b\u1175\u11ab\u1106\u1175\u11ab\u1100\u1169\u11bc\u1112\u116a\u1100\u116e\u11a8",
-      "choson minjujuui inmin konghwaguk"
+      "dprk"
     ]
   },
   {
@@ -1269,17 +1514,19 @@
     "alpha_2": "KR",
     "alpha_3": "KOR",
     "numeric": "410",
-    "alternative_names": [
+    "iso_alternate": [
+      "south korea"
+    ],
+    "wikipedia_alternate": [
       "dae-han-min-guk",
       "han-guk",
-      "rok",
-      "r.o.k.",
-      "korea republic",
       "\u1112\u1161\u11ab\u1100\u116e\u11a8",
+      "korea republic",
+      "r.o.k.",
       "\u1103\u1162\u1112\u1161\u11ab\u1106\u1175\u11ab\u1100\u116e\u11a8",
-      "korea",
-      "south korea",
-      "republic of korea"
+      "rok",
+      "republic of korea",
+      "korea"
     ]
   },
   {
@@ -1287,12 +1534,15 @@
     "alpha_2": "KW",
     "alpha_3": "KWT",
     "numeric": "414",
-    "alternative_names": [
-      "dawlat al-kuwait",
-      "\u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a\u200e",
-      "al-kuwait",
-      "\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+    "iso_alternate": [
       "state of kuwait"
+    ],
+    "wikipedia_alternate": [
+      "\u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+      "\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+      "al-kuwait",
+      "state of kuwait",
+      "dawlat al-kuwait"
     ]
   },
   {
@@ -1300,21 +1550,24 @@
     "alpha_2": "KG",
     "alpha_3": "KGZ",
     "numeric": "417",
-    "alternative_names": [
-      "\u043a\u044b\u0440\u0433\u044b\u0437 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
-      "kirgizskaya sovetskaya sotsialisticheskaya respublika",
-      "\u043a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
-      "kirghiz soviet socialist republic",
-      "kyrgyz republic",
-      "kyrgyz respublikasy",
-      "\u043a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
-      "kirghizia",
-      "republic of kyrgyzstan",
-      "\u043a\u0438\u0440\u0433\u0438\u0437\u0441\u043a\u0430\u044f \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
-      "kyrgyzskaya respublika",
+    "iso_alternate": [
+      "kyrgyz republic"
+    ],
+    "wikipedia_alternate": [
       "kirgizstan",
+      "\u043a\u0438\u0440\u0433\u0438\u0437\u0441\u043a\u0430\u044f \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+      "kirghiz soviet socialist republic",
+      "republic of kyrgyzstan",
+      "\u043a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+      "kyrgyz republic",
+      "\u043a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+      "kyrgyz respublikasy",
+      "kirgizskaya sovetskaya sotsialisticheskaya respublika",
+      "\u043a\u044b\u0440\u0433\u044b\u0437 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+      "kyrgyz sovettik sotsialisttik respublikasy",
       "\u043a\u044b\u0440\u0433\u044b\u0437 \u0441\u043e\u0432\u0435\u0442\u0442\u0438\u043a \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0442\u0438\u043a \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
-      "kyrgyz sovettik sotsialisttik respublikasy"
+      "kyrgyzskaya respublika",
+      "kirghizia"
     ]
   },
   {
@@ -1322,11 +1575,12 @@
     "alpha_2": "LA",
     "alpha_3": "LAO",
     "numeric": "418",
-    "alternative_names": [
-      "sathalanalat paxathipatai paxaxo\u0302n",
-      "laos",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
+      "re\u0301publique de\u0301mocratique populaire lao",
       "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0\u0ea5\u0eb1\u0e94 \u0e9b\u0eb0\u0e8a\u0eb2\u0e97\u0eb4\u0e9b\u0eb0\u0ec4\u0e95 \u0e9b\u0eb0\u0e8a\u0eb2\u0e8a\u0ebb\u0e99\u0ea5\u0eb2\u0ea7",
-      "re\u0301publique de\u0301mocratique populaire lao"
+      "sathalanalat paxathipatai paxaxo\u0302n",
+      "laos"
     ]
   },
   {
@@ -1334,14 +1588,17 @@
     "alpha_2": "LV",
     "alpha_3": "LVA",
     "numeric": "428",
-    "alternative_names": [
-      "latvija",
-      "letonija",
-      "republic of latvia",
-      "lettland",
+    "iso_alternate": [
+      "republic of latvia"
+    ],
+    "wikipedia_alternate": [
       "latvijas republika",
       "letland",
-      "lettonie"
+      "lettonie",
+      "republic of latvia",
+      "latvija",
+      "lettland",
+      "letonija"
     ]
   },
   {
@@ -1349,14 +1606,16 @@
     "alpha_2": "LB",
     "alpha_3": "LBN",
     "numeric": "422",
-    "alternative_names": [
-      "lebanese republic",
-      "liban",
-      "al-jumhuriyya al-lubnaniyya",
+    "iso_alternate": [
+      "lebanese republic"
+    ],
+    "wikipedia_alternate": [
       "the lebanese republic",
-      ", lubnan",
       "levanon",
-      "lebnan"
+      ", lubnan",
+      "lebnan",
+      "liban",
+      "al-jumhuriyya al-lubnaniyya"
     ]
   },
   {
@@ -1364,7 +1623,10 @@
     "alpha_2": "LS",
     "alpha_3": "LSO",
     "numeric": "426",
-    "alternative_names": [
+    "iso_alternate": [
+      "kingdom of lesotho"
+    ],
+    "wikipedia_alternate": [
       "basutoland",
       "kingdom of lesotho"
     ]
@@ -1374,7 +1636,10 @@
     "alpha_2": "LR",
     "alpha_3": "LBR",
     "numeric": "430",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of liberia"
+    ],
+    "wikipedia_alternate": [
       "republic of liberia"
     ]
   },
@@ -1383,15 +1648,18 @@
     "alpha_2": "LY",
     "alpha_3": "LBY",
     "numeric": "434",
-    "alternative_names": [
-      "united libyan kingdom",
-      "libyan arab republic",
-      "\u062f\u0648\u0644\u0629 \u0644\u064a\u0628\u064a\u0627",
-      "dawlat li\u0304biya\u0304",
-      "socialist people's libyan arab jamahiriya",
-      "great socialist people's libyan arab jamahiriya",
+    "iso_alternate": [
+      "libya"
+    ],
+    "wikipedia_alternate": [
       "state of libya",
-      "kingdom of libya"
+      "great socialist people's libyan arab jamahiriya",
+      "kingdom of libya",
+      "dawlat li\u0304biya\u0304",
+      "libyan arab republic",
+      "socialist people's libyan arab jamahiriya",
+      "\u062f\u0648\u0644\u0629 \u0644\u064a\u0628\u064a\u0627",
+      "united libyan kingdom"
     ]
   },
   {
@@ -1399,7 +1667,10 @@
     "alpha_2": "LI",
     "alpha_3": "LIE",
     "numeric": "438",
-    "alternative_names": [
+    "iso_alternate": [
+      "principality of liechtenstein"
+    ],
+    "wikipedia_alternate": [
       "principality of liechtenstein",
       "fu\u0308rstentum liechtenstein"
     ]
@@ -1409,13 +1680,16 @@
     "alpha_2": "LT",
     "alpha_3": "LTU",
     "numeric": "440",
-    "alternative_names": [
-      "litva",
-      "republic of lithuania",
-      "lita",
+    "iso_alternate": [
+      "republic of lithuania"
+    ],
+    "wikipedia_alternate": [
       "lietuva",
+      "republic of lithuania",
+      "litva",
+      "\u043b\u0438\u0442\u0432\u0430",
       "lietuvos respublika",
-      "\u043b\u0438\u0442\u0432\u0430"
+      "lita"
     ]
   },
   {
@@ -1423,15 +1697,18 @@
     "alpha_2": "LU",
     "alpha_3": "LUX",
     "numeric": "442",
-    "alternative_names": [
+    "iso_alternate": [
+      "grand duchy of luxembourg"
+    ],
+    "wikipedia_alternate": [
       "grossherzogtum luxemburg",
-      "luxemburgo",
+      "grand duchy of luxembourg",
       "groussherzogdem le\u0308tzebuerg",
       "luxemburg",
-      "le\u0308tzebuerg",
-      "grand duchy of luxembourg",
       "lussemburgo",
-      "grand-duche\u0301 de luxembourg"
+      "grand-duche\u0301 de luxembourg",
+      "luxemburgo",
+      "le\u0308tzebuerg"
     ]
   },
   {
@@ -1439,11 +1716,14 @@
     "alpha_2": "MG",
     "alpha_3": "MDG",
     "numeric": "450",
-    "alternative_names": [
-      "re\u0301publique de madagascar",
-      "republic of madagascar",
+    "iso_alternate": [
+      "republic of madagascar"
+    ],
+    "wikipedia_alternate": [
+      "repoblikan'i madagasikara",
       "madagasikara",
-      "repoblikan'i madagasikara"
+      "republic of madagascar",
+      "re\u0301publique de madagascar"
     ]
   },
   {
@@ -1451,9 +1731,12 @@
     "alpha_2": "MW",
     "alpha_3": "MWI",
     "numeric": "454",
-    "alternative_names": [
-      "nyasaland",
+    "iso_alternate": [
       "republic of malawi"
+    ],
+    "wikipedia_alternate": [
+      "republic of malawi",
+      "nyasaland"
     ]
   },
   {
@@ -1461,17 +1744,18 @@
     "alpha_2": "MY",
     "alpha_3": "MYS",
     "numeric": "458",
-    "alternative_names": [
-      "sabah",
-      "sarawak",
-      "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
-      "\u9a6c\u6765\u897f\u4e9a",
-      "ma\u030cla\u0301ixi\u0304ya\u0300",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "federation of malaysia",
+      "sabah",
+      "malaya",
+      "\u9a6c\u6765\u897f\u4e9a",
+      "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
       "tanah melayu",
       "male\u0304ciya",
-      "persekutuan malaysia",
-      "malaya"
+      "ma\u030cla\u0301ixi\u0304ya\u0300",
+      "sarawak",
+      "persekutuan malaysia"
     ]
   },
   {
@@ -1479,16 +1763,19 @@
     "alpha_2": "MV",
     "alpha_3": "MDV",
     "numeric": "462",
-    "alternative_names": [
-      "dhivehi raajjeyge jumhooriyyaa",
-      "male\u0301ldvipa",
-      "mahal dvipa",
-      "\u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0645\u062d\u0644\u062f\u064a\u0628\u064a\u0629",
-      "ad-dawlat al-mahal di\u0304bi\u0304ya\u0304t",
-      "the maldive islands",
+    "iso_alternate": [
+      "republic of maldives"
+    ],
+    "wikipedia_alternate": [
       "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ad\u078e\u07ac \u0796\u07aa\u0789\u07b0\u0780\u07ab\u0783\u07a8\u0787\u07b0\u0794\u07a7",
       "\u092e\u093e\u0932\u0926\u0940\u0935",
-      "republic of maldives"
+      "male\u0301ldvipa",
+      "the maldive islands",
+      "mahal dvipa",
+      "dhivehi raajjeyge jumhooriyyaa",
+      "ad-dawlat al-mahal di\u0304bi\u0304ya\u0304t",
+      "republic of maldives",
+      "\u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0645\u062d\u0644\u062f\u064a\u0628\u064a\u0629"
     ]
   },
   {
@@ -1496,7 +1783,10 @@
     "alpha_2": "ML",
     "alpha_3": "MLI",
     "numeric": "466",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of mali"
+    ],
+    "wikipedia_alternate": [
       "republic of mali"
     ]
   },
@@ -1505,10 +1795,13 @@
     "alpha_2": "MT",
     "alpha_3": "MLT",
     "numeric": "470",
-    "alternative_names": [
-      "melita",
-      "repubblica ta' malta",
+    "iso_alternate": [
       "republic of malta"
+    ],
+    "wikipedia_alternate": [
+      "repubblica ta' malta",
+      "republic of malta",
+      "melita"
     ]
   },
   {
@@ -1516,9 +1809,12 @@
     "alpha_2": "MH",
     "alpha_3": "MHL",
     "numeric": "584",
-    "alternative_names": [
-      "aolepa\u0304n aoro\u0304kin m\u0323ajel\u0323",
+    "iso_alternate": [
       "republic of the marshall islands"
+    ],
+    "wikipedia_alternate": [
+      "republic of the marshall islands",
+      "aolepa\u0304n aoro\u0304kin m\u0323ajel\u0323"
     ]
   },
   {
@@ -1526,7 +1822,10 @@
     "alpha_2": "MR",
     "alpha_3": "MRT",
     "numeric": "478",
-    "alternative_names": [
+    "iso_alternate": [
+      "islamic republic of mauritania"
+    ],
+    "wikipedia_alternate": [
       "re\u0301publique islamique de mauritanie",
       "islamic republic of mauritania"
     ]
@@ -1536,10 +1835,13 @@
     "alpha_2": "MU",
     "alpha_3": "MUS",
     "numeric": "480",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of mauritius"
+    ],
+    "wikipedia_alternate": [
+      "repiblik moris",
       "republic of mauritius",
-      "re\u0301publique de maurice",
-      "repiblik moris"
+      "re\u0301publique de maurice"
     ]
   },
   {
@@ -1547,16 +1849,19 @@
     "alpha_2": "MX",
     "alpha_3": "MEX",
     "numeric": "484",
-    "alternative_names": [
-      "me\u0301jico",
-      "repu\u0301blica mexicana",
-      "estados unidos mexicanos",
-      "aztla\u0304n",
-      "me\u0301xico",
-      "aztla\u0301n",
-      "mex",
+    "iso_alternate": [
+      "united mexican states"
+    ],
+    "wikipedia_alternate": [
       "united mexican states",
-      "mx"
+      "estados unidos mexicanos",
+      "mex",
+      "me\u0301xico",
+      "mx",
+      "aztla\u0301n",
+      "repu\u0301blica mexicana",
+      "me\u0301jico",
+      "aztla\u0304n"
     ]
   },
   {
@@ -1564,10 +1869,13 @@
     "alpha_2": "FM",
     "alpha_3": "FSM",
     "numeric": "583",
-    "alternative_names": [
-      "federated states of micronesia",
+    "iso_alternate": [
+      "federated states of micronesia"
+    ],
+    "wikipedia_alternate": [
+      "micronesia",
       "fsm",
-      "micronesia"
+      "federated states of micronesia"
     ]
   },
   {
@@ -1575,17 +1883,20 @@
     "alpha_2": "MD",
     "alpha_3": "MDA",
     "numeric": "498",
-    "alternative_names": [
-      "bessarabia",
-      "\u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0441\u043e\u0432\u0435\u0442\u0438\u043a\u044d \u0441\u043e\u0447\u0438\u0430\u043b\u0438\u0441\u0442\u044d \u043c\u043e\u043b\u0434\u043e\u0432\u0435\u043d\u044f\u0441\u043a\u044d",
+    "iso_alternate": [
       "republic of moldova",
-      "moldau",
+      "moldova"
+    ],
+    "wikipedia_alternate": [
+      "bessarabia",
+      "bog\u0306dan",
+      "republic of moldova",
       "republica moldova",
-      "moldavian soviet socialist republic",
       "moldavia",
       "bassarabia",
-      "moldova",
-      "bog\u0306dan"
+      "moldau",
+      "\u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0441\u043e\u0432\u0435\u0442\u0438\u043a\u044d \u0441\u043e\u0447\u0438\u0430\u043b\u0438\u0441\u0442\u044d \u043c\u043e\u043b\u0434\u043e\u0432\u0435\u043d\u044f\u0441\u043a\u044d",
+      "moldavian soviet socialist republic"
     ]
   },
   {
@@ -1593,12 +1904,15 @@
     "alpha_2": "MC",
     "alpha_3": "MCO",
     "numeric": "492",
-    "alternative_names": [
+    "iso_alternate": [
+      "principality of monaco"
+    ],
+    "wikipedia_alternate": [
+      "principaute\u0301 de monaco",
+      "principato di monaco",
       "principat de mo\u0301negue",
       "principatu de mu\u0300negu",
-      "principality of monaco",
-      "principaute\u0301 de monaco",
-      "principato di monaco"
+      "principality of monaco"
     ]
   },
   {
@@ -1606,9 +1920,10 @@
     "alpha_2": "MN",
     "alpha_3": "MNG",
     "numeric": "496",
-    "alternative_names": [
-      "mongol uls",
-      "\u043c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441"
+    "iso_alternate": [],
+    "wikipedia_alternate": [
+      "\u043c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+      "mongol uls"
     ]
   },
   {
@@ -1616,15 +1931,18 @@
     "alpha_2": "ME",
     "alpha_3": "MNE",
     "numeric": "499",
-    "alternative_names": [
-      "republika crna gora",
-      "zeta",
-      "duklja",
+    "iso_alternate": [
+      "montenegro"
+    ],
+    "wikipedia_alternate": [
       "republic of montenegro",
-      "karadag",
-      "black mountain",
+      "zeta",
       "mali i zi",
-      "crna gora"
+      "black mountain",
+      "crna gora",
+      "karadag",
+      "republika crna gora",
+      "duklja"
     ]
   },
   {
@@ -1632,11 +1950,14 @@
     "alpha_2": "MA",
     "alpha_3": "MAR",
     "numeric": "504",
-    "alternative_names": [
-      "al mamlaka al maghribiya",
+    "iso_alternate": [
+      "kingdom of morocco"
+    ],
+    "wikipedia_alternate": [
       "maghreb",
-      "kingdom of morocco",
-      "the far west kingdom"
+      "the far west kingdom",
+      "al mamlaka al maghribiya",
+      "kingdom of morocco"
     ]
   },
   {
@@ -1644,10 +1965,13 @@
     "alpha_2": "MZ",
     "alpha_3": "MOZ",
     "numeric": "508",
-    "alternative_names": [
-      "moc\u0327ambique or repu\u0301blica de moc\u0327ambique",
-      "republic of mozambique",
+    "iso_alternate": [
+      "republic of mozambique"
+    ],
+    "wikipedia_alternate": [
       "mozambiki",
+      "republic of mozambique",
+      "moc\u0327ambique or repu\u0301blica de moc\u0327ambique",
       "muzambhiki",
       "msumbiji"
     ]
@@ -1657,11 +1981,13 @@
     "alpha_2": "MM",
     "alpha_3": "MMR",
     "numeric": "104",
-    "alternative_names": [
-      "\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f \u101e\u1019\u1039\u1019\u1010 \u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a\u200c (pyidaunzu thanma\u0306da mya\u0306ma nainngandaw)",
+    "iso_alternate": [
+      "republic of myanmar"
+    ],
+    "wikipedia_alternate": [
+      "republic of the union of myanmar",
       "burma",
-      "republic of myanmar",
-      "republic of the union of myanmar"
+      "\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f \u101e\u1019\u1039\u1019\u1010 \u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a\u200c (pyidaunzu thanma\u0306da mya\u0306ma nainngandaw)"
     ]
   },
   {
@@ -1669,10 +1995,13 @@
     "alpha_2": "NA",
     "alpha_3": "NAM",
     "numeric": "516",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of namibia"
+    ],
+    "wikipedia_alternate": [
+      "deutsch-su\u0308dwestafrika",
       "republic of namibia",
-      "german south-west africa",
-      "deutsch-su\u0308dwestafrika"
+      "german south-west africa"
     ]
   },
   {
@@ -1680,7 +2009,10 @@
     "alpha_2": "NR",
     "alpha_3": "NRU",
     "numeric": "520",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of nauru"
+    ],
+    "wikipedia_alternate": [
       "pleasant island",
       "repubrikin naoero",
       "republic of nauru"
@@ -1691,7 +2023,10 @@
     "alpha_2": "NP",
     "alpha_3": "NPL",
     "numeric": "524",
-    "alternative_names": [
+    "iso_alternate": [
+      "federal democratic republic of nepal"
+    ],
+    "wikipedia_alternate": [
       "\u0938\u0902\u0918\u093f\u092f \u0932\u094b\u0915\u0924\u093e\u0928\u094d\u0924\u094d\u0930\u093f\u0915  \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0928\u0947\u092a\u093e\u0932",
       "kingdom of nepal",
       "federal democratic republic of nepal"
@@ -1702,13 +2037,16 @@
     "alpha_2": "NL",
     "alpha_3": "NLD",
     "numeric": "528",
-    "alternative_names": [
-      "pays-bas",
-      "koninkrijk der nederlanden",
+    "iso_alternate": [
+      "kingdom of the netherlands"
+    ],
+    "wikipedia_alternate": [
       "kingdom of the netherlands",
+      "pays-bas",
+      "nederland",
+      "koninkrijk der nederlanden",
       "holland",
-      "batavia",
-      "nederland"
+      "batavia"
     ]
   },
   {
@@ -1716,9 +2054,10 @@
     "alpha_2": "NZ",
     "alpha_3": "NZL",
     "numeric": "554",
-    "alternative_names": [
-      "aotearoa",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "realm of new zealand",
+      "aotearoa",
       "dominion of new zealand"
     ]
   },
@@ -1727,7 +2066,10 @@
     "alpha_2": "NI",
     "alpha_3": "NIC",
     "numeric": "558",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of nicaragua"
+    ],
+    "wikipedia_alternate": [
       "repu\u0301blica de nicaragua",
       "republic of nicaragua"
     ]
@@ -1737,7 +2079,10 @@
     "alpha_2": "NE",
     "alpha_3": "NER",
     "numeric": "562",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of the niger"
+    ],
+    "wikipedia_alternate": [
       "the niger",
       "re\u0301publique du niger",
       "republic of the niger"
@@ -1748,11 +2093,14 @@
     "alpha_2": "NG",
     "alpha_3": "NGA",
     "numeric": "566",
-    "alternative_names": [
-      "o\u0323\u0300ha\u0300n\u0301ji\u0301ko\u0323\u0300 o\u0323\u0300ha\u0300ne\u0301ze\u0300 nai\u0300ji\u0301ri\u0301ya\u0300",
+    "iso_alternate": [
+      "federal republic of nigeria"
+    ],
+    "wikipedia_alternate": [
       "ori\u0301le\u0323\u0300-e\u0300de\u0300 olo\u0301mi\u0300niira a\u0300papo\u0323\u0300 na\u0300i\u0300ji\u0301ri\u0301a\u0300",
       "jamhuriyar taraiyar najeriya",
-      "federal republic of nigeria"
+      "federal republic of nigeria",
+      "o\u0323\u0300ha\u0300n\u0301ji\u0301ko\u0323\u0300 o\u0323\u0300ha\u0300ne\u0301ze\u0300 nai\u0300ji\u0301ri\u0301ya\u0300"
     ]
   },
   {
@@ -1760,14 +2108,17 @@
     "alpha_2": "MK",
     "alpha_3": "MKD",
     "numeric": "807",
-    "alternative_names": [
-      "(\u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430) \u0441\u0435\u0432\u0435\u0440\u043d\u0430 \u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+    "iso_alternate": [
+      "republic of north macedonia"
+    ],
+    "wikipedia_alternate": [
       "republic of north macedonia",
-      "vardar banovina",
-      "\u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+      "(\u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430) \u0441\u0435\u0432\u0435\u0440\u043d\u0430 \u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
       "fyrom",
-      "(republic of) macedonia",
+      "\u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+      "vardar banovina",
       "the former yugoslav republic of macedonia",
+      "(republic of) macedonia",
       "paeonia"
     ]
   },
@@ -1776,12 +2127,15 @@
     "alpha_2": "NO",
     "alpha_3": "NOR",
     "numeric": "578",
-    "alternative_names": [
-      "kongeriket noreg",
+    "iso_alternate": [
+      "kingdom of norway"
+    ],
+    "wikipedia_alternate": [
       "noreg",
-      "kongeriket norge",
       "kingdom of norway",
-      "norge"
+      "kongeriket norge",
+      "norge",
+      "kongeriket noreg"
     ]
   },
   {
@@ -1789,7 +2143,10 @@
     "alpha_2": "OM",
     "alpha_3": "OMN",
     "numeric": "512",
-    "alternative_names": [
+    "iso_alternate": [
+      "sultanate of oman"
+    ],
+    "wikipedia_alternate": [
       "sultanate of oman"
     ]
   },
@@ -1798,15 +2155,18 @@
     "alpha_2": "PK",
     "alpha_3": "PAK",
     "numeric": "586",
-    "alternative_names": [
+    "iso_alternate": [
+      "islamic republic of pakistan"
+    ],
+    "wikipedia_alternate": [
       "indoscythia",
-      "islamic republic of pakistan",
+      "gandha\u0304ra",
       "federation of pakistan",
+      "dominion of pakistan",
       "sindhustan",
       "west pakistan",
-      "mumlikat-e khudadaad",
-      "gandha\u0304ra",
-      "dominion of pakistan"
+      "islamic republic of pakistan",
+      "mumlikat-e khudadaad"
     ]
   },
   {
@@ -1814,9 +2174,12 @@
     "alpha_2": "PW",
     "alpha_3": "PLW",
     "numeric": "585",
-    "alternative_names": [
-      "republic of palau",
-      "belau"
+    "iso_alternate": [
+      "republic of palau"
+    ],
+    "wikipedia_alternate": [
+      "belau",
+      "republic of palau"
     ]
   },
   {
@@ -1824,34 +2187,36 @@
     "alpha_2": "PS",
     "alpha_3": "PSE",
     "numeric": "275",
-    "alternative_names": [
-      "the state of palestine",
-      "al-ara\u0304d\u0323i\u0304 al-filast\u0323i\u0304niyya",
-      "\u0627\u0644\u0627\u0654\u0631\u0627\u0636\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
-      "medinat pa\u0304le\u0304s\u0301ti\u0304na\u0304",
-      "filast\u0323i\u0304n",
-      "palestinian national authority",
-      "\u05d0\u05e8\u05e5 \u05d4\u05e7\u05d5\u05d3\u05e9",
-      "\u062f\u064e\u0648\u0652\u0644\u064e\u0629 \u0641\u0644\u0633\u0637\u064a\u0646",
-      "palestine",
-      "\u05e4\u05b8\u05bc\u05dc\u05b6\u05e9\u05b0\u05c2\u05ea\u05b4\u05bc\u05d9\u05e0\u05b8\u05d4",
+    "iso_alternate": [
+      "the state of palestine"
+    ],
+    "wikipedia_alternate": [
       "pa\u0304le\u0304s\u0301ti\u0304na\u0304",
-      "\u05de\u05d3\u05d9\u05e0\u05ea \u05e4\u05b8\u05bc\u05dc\u05b6\u05e9\u05b0\u05c2\u05ea\u05b4\u05bc\u05d9\u05e0\u05b8\u05d4",
-      "\u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc",
-      "occupied palestinian territory",
-      "west bank and gaza strip",
       "the holy land",
-      "palestinian territories",
-      "\u0627\u0644\u0627\u0654\u0631\u0636 \u0627\u0644\u0645\u0642\u062f\u0633\u0629",
-      "israeli-occupied territories",
-      "occupied palestinian territories",
-      "\u0627\u0644\u0633\u0644\u0637\u0629 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
-      "\u0641\u0644\u0633\u0637\u064a\u0646",
       "mandatory palestine",
-      "dawlat filast\u0323i\u0304n",
+      "\u0627\u0644\u0633\u0644\u0637\u0629 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+      "\u05d0\u05e8\u05e5 \u05d4\u05e7\u05d5\u05d3\u05e9",
+      "palestine",
+      "medinat pa\u0304le\u0304s\u0301ti\u0304na\u0304",
+      "\u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc",
+      "filast\u0323i\u0304n",
+      "israeli-occupied territories",
+      "\u0627\u0644\u0627\u0654\u0631\u0627\u0636\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+      "al-ara\u0304d\u0323i\u0304 al-filast\u0323i\u0304niyya",
+      "\u0627\u0644\u0627\u0654\u0631\u0636 \u0627\u0644\u0645\u0642\u062f\u0633\u0629",
       "eretz yisrael",
+      "west bank and gaza strip",
+      "dawlat filast\u0323i\u0304n",
+      "\u05de\u05d3\u05d9\u05e0\u05ea \u05e4\u05b8\u05bc\u05dc\u05b6\u05e9\u05b0\u05c2\u05ea\u05b4\u05bc\u05d9\u05e0\u05b8\u05d4",
+      "palestinian territories",
+      "palestinian national authority",
+      "state of palestine",
+      "\u05e4\u05b8\u05bc\u05dc\u05b6\u05e9\u05b0\u05c2\u05ea\u05b4\u05bc\u05d9\u05e0\u05b8\u05d4",
+      "\u062f\u064e\u0648\u0652\u0644\u064e\u0629 \u0641\u0644\u0633\u0637\u064a\u0646",
       "as-sult\u0323a al-filast\u0323i\u0304ni\u0304ya",
-      "state of palestine"
+      "\u0641\u0644\u0633\u0637\u064a\u0646",
+      "occupied palestinian territories",
+      "occupied palestinian territory"
     ]
   },
   {
@@ -1859,7 +2224,10 @@
     "alpha_2": "PA",
     "alpha_3": "PAN",
     "numeric": "591",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of panama"
+    ],
+    "wikipedia_alternate": [
       "republic of panama",
       "repu\u0301blica de panama\u0301"
     ]
@@ -1869,12 +2237,15 @@
     "alpha_2": "PG",
     "alpha_3": "PNG",
     "numeric": "598",
-    "alternative_names": [
-      "independen stet bilong papua niu gini",
-      "independen stet bilong papua niugini",
-      "papua niu gini",
-      "papua niugini",
+    "iso_alternate": [
       "independent state of papua new guinea"
+    ],
+    "wikipedia_alternate": [
+      "papua niu gini",
+      "independen stet bilong papua niugini",
+      "independen stet bilong papua niu gini",
+      "independent state of papua new guinea",
+      "papua niugini"
     ]
   },
   {
@@ -1882,10 +2253,13 @@
     "alpha_2": "PY",
     "alpha_3": "PRY",
     "numeric": "600",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of paraguay"
+    ],
+    "wikipedia_alternate": [
       "repu\u0301blica del paraguay",
-      "republic of paraguay",
-      "teta\u0303 paragua\u0301i"
+      "teta\u0303 paragua\u0301i",
+      "republic of paraguay"
     ]
   },
   {
@@ -1893,12 +2267,15 @@
     "alpha_2": "PE",
     "alpha_3": "PER",
     "numeric": "604",
-    "alternative_names": [
-      "republic of peru",
+    "iso_alternate": [
+      "republic of peru"
+    ],
+    "wikipedia_alternate": [
+      "peruvian republic",
       "repu\u0301blica peruana",
       "peru\u0301",
-      "peruvian republic",
-      "repu\u0301blica del peru\u0301"
+      "repu\u0301blica del peru\u0301",
+      "republic of peru"
     ]
   },
   {
@@ -1906,20 +2283,23 @@
     "alpha_2": "PH",
     "alpha_3": "PHL",
     "numeric": "608",
-    "alternative_names": [
-      "republic of the philippines",
-      "las islas filipinas",
-      "pina\u0301s",
-      "islas de san la\u0301zaro",
+    "iso_alternate": [
+      "republic of the philippines"
+    ],
+    "wikipedia_alternate": [
       "ph",
-      "philippine islands",
       "hari\u0301ng bayang katagalugan",
-      "las islas felipenas",
-      "republika ng pilipinas",
-      "filipinas",
       "pilipinas",
+      "islas de san la\u0301zaro",
+      "las islas felipenas",
+      "republic of the philippines",
       "filipina",
-      "p.i."
+      "filipinas",
+      "philippine islands",
+      "p.i.",
+      "las islas filipinas",
+      "republika ng pilipinas",
+      "pina\u0301s"
     ]
   },
   {
@@ -1927,19 +2307,22 @@
     "alpha_2": "PL",
     "alpha_3": "POL",
     "numeric": "616",
-    "alternative_names": [
-      "people's republic of poland",
-      "rp",
+    "iso_alternate": [
+      "republic of poland"
+    ],
+    "wikipedia_alternate": [
+      "polonia",
       "rzeczpospolita",
       "united commonwealth of the two nations",
-      "polonia",
-      "polish\u2013lithuanian commonwealth",
-      "lechia",
       "polska",
-      "republic of poland",
+      "lechia",
+      "rp",
       "polska rzeczpospolita ludowa",
+      "polish\u2013lithuanian commonwealth",
+      "rzeczpospolita obojga narodo\u0301w",
       "rzeczpospolita polska",
-      "rzeczpospolita obojga narodo\u0301w"
+      "people's republic of poland",
+      "republic of poland"
     ]
   },
   {
@@ -1947,30 +2330,33 @@
     "alpha_2": "PT",
     "alpha_3": "PRT",
     "numeric": "620",
-    "alternative_names": [
-      "portugaliae",
-      "portugalensis patrie",
-      "portingall",
-      "portugalliae",
-      "ophiusa",
-      "lusitania",
+    "iso_alternate": [
+      "portuguese republic"
+    ],
+    "wikipedia_alternate": [
       "lusitaniae",
-      "portugalis",
       "ocidental praia lusitana",
+      "lusitania",
       "portingal",
+      "ophiusa",
+      "portugraal",
+      "portuguese republic",
+      "portucale",
+      "luxitania",
+      "ophiussa",
+      "galaico-portuguese",
+      "portugalis",
+      "portugalensium patrie",
+      "purtugall",
+      "burtugha\u0304l",
+      "portugalliae",
       "regno portugalensium",
       "pa\u0301tria lusitana",
-      "burtugha\u0304l",
-      "portuguese republic",
-      "portugalensium patrie",
-      "galician-portuguese",
       "portugalliae et algarbiae",
-      "purtugall",
-      "galaico-portuguese",
-      "portucale",
-      "portugraal",
-      "ophiussa",
-      "luxitania"
+      "portingall",
+      "galician-portuguese",
+      "portugalensis patrie",
+      "portugaliae"
     ]
   },
   {
@@ -1978,14 +2364,15 @@
     "alpha_2": "PR",
     "alpha_3": "PRI",
     "numeric": "630",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "commonwealth of puerto rico",
-      "associated free state of puerto rico",
-      "porto rico",
-      "borike\u0301n",
-      "estado libre asociado de puerto rico",
       "borinken",
-      "borinquen"
+      "associated free state of puerto rico",
+      "borike\u0301n",
+      "borinquen",
+      "porto rico",
+      "estado libre asociado de puerto rico"
     ]
   },
   {
@@ -1993,9 +2380,12 @@
     "alpha_2": "QA",
     "alpha_3": "QAT",
     "numeric": "634",
-    "alternative_names": [
-      "state of qatar",
+    "iso_alternate": [
+      "state of qatar"
+    ],
+    "wikipedia_alternate": [
       "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+      "state of qatar",
       "dawlat qat\u0323ar"
     ]
   },
@@ -2004,10 +2394,12 @@
     "alpha_2": "CG",
     "alpha_3": "COG",
     "numeric": "178",
-    "alternative_names": [
-      "republic of the congo",
-      "french congo",
-      "congo brazzaville"
+    "iso_alternate": [
+      "republic of the congo"
+    ],
+    "wikipedia_alternate": [
+      "congo brazzaville",
+      "french congo"
     ]
   },
   {
@@ -2015,16 +2407,17 @@
     "alpha_2": "RO",
     "alpha_3": "ROU",
     "numeric": "642",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "roumania",
-      "kingdom of romania",
-      "republica populara\u0306 romi\u0302na\u0306",
       "romanian people's republic",
       "socialist republic of romania",
-      "roma\u0302nia",
       "rumania",
-      "regatul roma\u0302niei",
-      "republica socialista\u0306 roma\u0302nia"
+      "republica populara\u0306 romi\u0302na\u0306",
+      "republica socialista\u0306 roma\u0302nia",
+      "kingdom of romania",
+      "roma\u0302nia",
+      "regatul roma\u0302niei"
     ]
   },
   {
@@ -2032,29 +2425,30 @@
     "alpha_2": "RU",
     "alpha_3": "RUS",
     "numeric": "643",
-    "alternative_names": [
-      "soviet union",
-      "ussr",
-      "rf",
-      "su",
-      "\u0440\u043e\u0441\u0441\u0438\u0438\u0306\u0441\u043a\u0430\u044f \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
-      "\u0441\u043e\u0432\u0435\u0301\u0442\u0441\u043a\u0438\u0438\u0306 \u0441\u043e\u044e\u0301\u0437",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "russland",
-      "sovetskiy soyuz",
-      "russian socialist federative soviet republic",
-      "rsfsr",
-      "\u0441\u043e\u044e\u0437 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0445 \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a",
-      "great russia",
-      "union of soviet socialist republics",
-      "rossiya",
-      "russian soviet federative socialist republic",
-      "sssr",
-      "\u0441\u0441\u0441\u0440",
+      "\u0441\u043e\u0432\u0435\u0301\u0442\u0441\u043a\u0438\u0438\u0306 \u0441\u043e\u044e\u0301\u0437",
       "\u0440\u043e\u0441\u0441\u0438\u044f",
-      "russian empire",
+      "sssr",
+      "rossiya",
+      "rsfsr",
       "rus",
+      "sovetskiy soyuz",
+      "russian soviet federative socialist republic",
+      "su",
+      "union of soviet socialist republics",
+      "soviet union",
+      "russia",
+      "russian socialist federative soviet republic",
+      "\u0440\u043e\u0441\u0441\u0438\u0438\u0306\u0441\u043a\u0430\u044f \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+      "russian empire",
+      "great russia",
+      "\u0441\u043e\u044e\u0437 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0445 \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a",
+      "\u0441\u0441\u0441\u0440",
+      "rf",
       "soyuz sovetskikh sotsialisticheskikh respublik",
-      "russia"
+      "ussr"
     ]
   },
   {
@@ -2062,12 +2456,15 @@
     "alpha_2": "RW",
     "alpha_3": "RWA",
     "numeric": "646",
-    "alternative_names": [
-      "ruanda",
-      "\"pays des mille collines\"",
+    "iso_alternate": [
+      "rwandese republic"
+    ],
+    "wikipedia_alternate": [
       "rwandese republic",
+      "\"pays des mille collines\"",
       "repubulika y'u rwanda",
       "republic of rwanda",
+      "ruanda",
       "re\u0301publique du rwanda"
     ]
   },
@@ -2076,7 +2473,8 @@
     "alpha_2": "LC",
     "alpha_3": "LCA",
     "numeric": "662",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "sainte-lucie"
     ]
   },
@@ -2085,16 +2483,17 @@
     "alpha_2": "KN",
     "alpha_3": "KNA",
     "numeric": "659",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
+      "saint kitts",
+      "saint christopher-nevis-anguilla",
+      "liamuiga",
+      "saint christopher",
+      "oualie",
       "saint kitts-nevis-anguilla",
       "federation of saint christopher and nevis",
       "federation of saint kitts and nevis",
-      "liamuiga",
-      "saint kitts",
-      "saint christopher and nevis",
-      "oualie",
-      "saint christopher-nevis-anguilla",
-      "saint christopher"
+      "saint christopher and nevis"
     ]
   },
   {
@@ -2102,9 +2501,10 @@
     "alpha_2": "VC",
     "alpha_3": "VCT",
     "numeric": "670",
-    "alternative_names": [
-      "saint vincent",
-      "hairouna"
+    "iso_alternate": [],
+    "wikipedia_alternate": [
+      "hairouna",
+      "saint vincent"
     ]
   },
   {
@@ -2112,12 +2512,14 @@
     "alpha_2": "ST",
     "alpha_3": "STP",
     "numeric": "678",
-    "alternative_names": [
-      "repu\u0301blica democra\u0301tica de sa\u0303o tome\u0301 e pri\u0301ncipe",
-      "saint thomas and prince",
-      "democratic republic of sao tome and principe",
+    "iso_alternate": [
+      "democratic republic of sao tome and principe"
+    ],
+    "wikipedia_alternate": [
       "democratic republic of sa\u0303o tome\u0301 and pri\u0301ncipe",
-      "sa\u0303o tome\u0301 and pri\u0301ncipe"
+      "repu\u0301blica democra\u0301tica de sa\u0303o tome\u0301 e pri\u0301ncipe",
+      "sa\u0303o tome\u0301 and pri\u0301ncipe",
+      "saint thomas and prince"
     ]
   },
   {
@@ -2125,10 +2527,12 @@
     "alpha_2": "WS",
     "alpha_3": "WSM",
     "numeric": "882",
-    "alternative_names": [
-      "independent state of",
-      "independent state of samoa",
-      "malo sa\u02bboloto tuto\u02bbatasi o sa\u0304moa"
+    "iso_alternate": [
+      "independent state of samoa"
+    ],
+    "wikipedia_alternate": [
+      "malo sa\u02bboloto tuto\u02bbatasi o sa\u0304moa",
+      "independent state of"
     ]
   },
   {
@@ -2136,12 +2540,15 @@
     "alpha_2": "SM",
     "alpha_3": "SMR",
     "numeric": "674",
-    "alternative_names": [
-      "ripo\u0301bblica d' san marein",
-      ", serenissima repubblica di san marino",
+    "iso_alternate": [
+      "republic of san marino"
+    ],
+    "wikipedia_alternate": [
       "repubblica di san marino",
+      ", serenissima repubblica di san marino",
+      "most serene republic of san marino",
       "republic of san marino",
-      "most serene republic of san marino"
+      "ripo\u0301bblica d' san marein"
     ]
   },
   {
@@ -2149,16 +2556,19 @@
     "alpha_2": "SA",
     "alpha_3": "SAU",
     "numeric": "682",
-    "alternative_names": [
+    "iso_alternate": [
+      "kingdom of saudi arabia"
+    ],
+    "wikipedia_alternate": [
+      "saudi regime",
+      "ksa",
       "al-mamlaka al-arabiyya as-saudiyya",
       "kingdom of saudi arabia",
-      "hijaz",
       "najd",
-      "saudia",
-      "saudi regime",
+      "hijaz",
       "nejd",
-      "arav hasa'udit",
-      "ksa"
+      "saudia",
+      "arav hasa'udit"
     ]
   },
   {
@@ -2166,11 +2576,14 @@
     "alpha_2": "SN",
     "alpha_3": "SEN",
     "numeric": "686",
-    "alternative_names": [
-      "re\u0301ewum senegal",
-      "re\u0301publique du se\u0301ne\u0301gal",
-      "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0633\u0646\u063a\u0627\u0644",
+    "iso_alternate": [
       "republic of senegal"
+    ],
+    "wikipedia_alternate": [
+      "republic of senegal",
+      "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0633\u0646\u063a\u0627\u0644",
+      "re\u0301publique du se\u0301ne\u0301gal",
+      "re\u0301ewum senegal"
     ]
   },
   {
@@ -2178,16 +2591,19 @@
     "alpha_2": "RS",
     "alpha_3": "SRB",
     "numeric": "688",
-    "alternative_names": [
-      "republic of serbia",
-      "republika srbija",
-      "kingdom of serbia",
-      "servia",
-      "srbija",
-      "yugoslavia",
-      "serbia and montenegro",
+    "iso_alternate": [
+      "republic of serbia"
+    ],
+    "wikipedia_alternate": [
       "serboslavia",
-      "ras\u030cka"
+      "republic of serbia",
+      "servia",
+      "republika srbija",
+      "srbija",
+      "kingdom of serbia",
+      "ras\u030cka",
+      "serbia and montenegro",
+      "yugoslavia"
     ]
   },
   {
@@ -2195,9 +2611,12 @@
     "alpha_2": "SC",
     "alpha_3": "SYC",
     "numeric": "690",
-    "alternative_names": [
-      "republic of seychelles",
+    "iso_alternate": [
+      "republic of seychelles"
+    ],
+    "wikipedia_alternate": [
       "repiblik sesel",
+      "republic of seychelles",
       "re\u0301publique des seychelles"
     ]
   },
@@ -2206,7 +2625,10 @@
     "alpha_2": "SL",
     "alpha_3": "SLE",
     "numeric": "694",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of sierra leone"
+    ],
+    "wikipedia_alternate": [
       "salone",
       "republic of sierra leone"
     ]
@@ -2216,18 +2638,21 @@
     "alpha_2": "SG",
     "alpha_3": "SGP",
     "numeric": "702",
-    "alternative_names": [
-      "sho\u0304nan-to\u0304",
-      "republic of singapore",
-      "\u662d\u5357\u5cf6",
-      "little red dot",
-      "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
-      "sinhapura",
-      "ci\u014bkappu\u0304r",
+    "iso_alternate": [
+      "republic of singapore"
+    ],
+    "wikipedia_alternate": [
       "pulau ujong",
-      "xi\u0304njia\u0304po\u0304",
+      "little red dot",
+      "\u65b0\u52a0\u5761",
+      "sho\u0304nan-to\u0304",
+      "sinhapura",
+      "republic of singapore",
       "singapura",
-      "\u65b0\u52a0\u5761"
+      "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+      "\u662d\u5357\u5cf6",
+      "ci\u014bkappu\u0304r",
+      "xi\u0304njia\u0304po\u0304"
     ]
   },
   {
@@ -2235,16 +2660,19 @@
     "alpha_2": "SK",
     "alpha_3": "SVK",
     "numeric": "703",
-    "alternative_names": [
-      "slovenska\u0301 socialisticka\u0301 republika",
-      "slovensky\u0301 s\u030cta\u0301t",
+    "iso_alternate": [
+      "slovak republic"
+    ],
+    "wikipedia_alternate": [
       "slovenska\u0301 republika",
       "ssr",
-      "slovak state",
       "slovensko",
       "slovak socialist republic",
       "sr",
-      "slovak republic"
+      "slovak republic",
+      "slovenska\u0301 socialisticka\u0301 republika",
+      "slovak state",
+      "slovensky\u0301 s\u030cta\u0301t"
     ]
   },
   {
@@ -2252,11 +2680,14 @@
     "alpha_2": "SI",
     "alpha_3": "SVN",
     "numeric": "705",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of slovenia"
+    ],
+    "wikipedia_alternate": [
       "slovenija",
-      "republika slovenija",
+      "rs",
       "republic of slovenia",
-      "rs"
+      "republika slovenija"
     ]
   },
   {
@@ -2264,7 +2695,8 @@
     "alpha_2": "SB",
     "alpha_3": "SLB",
     "numeric": "090",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "british solomon islands protectorate",
       "the solomons"
     ]
@@ -2274,10 +2706,13 @@
     "alpha_2": "SO",
     "alpha_3": "SOM",
     "numeric": "706",
-    "alternative_names": [
-      "jamhuuriyadda federaalka soomaaliya",
+    "iso_alternate": [
+      "federal republic of somalia"
+    ],
+    "wikipedia_alternate": [
+      "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629",
       "federal republic of somalia",
-      "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629"
+      "jamhuuriyadda federaalka soomaaliya"
     ]
   },
   {
@@ -2285,13 +2720,16 @@
     "alpha_2": "ZA",
     "alpha_3": "ZAF",
     "numeric": "710",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of south africa"
+    ],
+    "wikipedia_alternate": [
       "azania",
-      "union of south africa",
-      "mzansi",
       "zuid-afrika",
       "republic of south africa",
-      "suid-afrika"
+      "union of south africa",
+      "suid-afrika",
+      "mzansi"
     ]
   },
   {
@@ -2299,10 +2737,13 @@
     "alpha_2": "SS",
     "alpha_3": "SSD",
     "numeric": "728",
-    "alternative_names": [
-      "republic of south sudan",
+    "iso_alternate": [
+      "republic of south sudan"
+    ],
+    "wikipedia_alternate": [
       "jamhuri ya sudan kusini",
-      "swahili"
+      "swahili",
+      "republic of south sudan"
     ]
   },
   {
@@ -2310,19 +2751,22 @@
     "alpha_2": "ES",
     "alpha_3": "ESP",
     "numeric": "724",
-    "alternative_names": [
-      "kingdom of spain",
+    "iso_alternate": [
+      "kingdom of spain"
+    ],
+    "wikipedia_alternate": [
+      "las batuecas",
       "spanish state",
+      "kingdom of spain",
       "la pell de brau",
       "la piel de toro",
-      "espainia",
-      "las batuecas",
-      "espan\u0303a",
-      "hispania",
-      "iberia",
-      "sepharad",
       "espanya",
-      "reino de espan\u0303a"
+      "espainia",
+      "hispania",
+      "sepharad",
+      "reino de espan\u0303a",
+      "iberia",
+      "espan\u0303a"
     ]
   },
   {
@@ -2330,17 +2774,20 @@
     "alpha_2": "LK",
     "alpha_3": "LKA",
     "numeric": "144",
-    "alternative_names": [
-      "land of sinhalese",
-      "ratnadeepa",
-      "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-      "elangai",
-      "democratic socialist republic of sri lanka",
-      "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b9a\u0bc7\u0bbe\u0b9a\u0bb2\u0bbf\u0b9a\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
+    "iso_alternate": [
+      "democratic socialist republic of sri lanka"
+    ],
+    "wikipedia_alternate": [
       "ceylon",
+      "democratic socialist republic of sri lanka",
       "island of gems",
+      "\u0b88\u0bb4\u0bae\u0bcd (i\u0304l\u0331am)",
+      "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b9a\u0bc7\u0bbe\u0b9a\u0bb2\u0bbf\u0b9a\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
+      "land of sinhalese",
+      "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+      "ratnadeepa",
       "heladiva",
-      "\u0b88\u0bb4\u0bae\u0bcd (i\u0304l\u0331am)"
+      "elangai"
     ]
   },
   {
@@ -2348,12 +2795,15 @@
     "alpha_2": "SD",
     "alpha_3": "SDN",
     "numeric": "729",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of the sudan"
+    ],
+    "wikipedia_alternate": [
+      "republic of the sudan",
+      "mahdist state",
       "nubia",
       "the sudan",
-      "republic of the sudan",
-      "anglo-egyptian sudan",
-      "mahdist state"
+      "anglo-egyptian sudan"
     ]
   },
   {
@@ -2361,10 +2811,13 @@
     "alpha_2": "SR",
     "alpha_3": "SUR",
     "numeric": "740",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of suriname"
+    ],
+    "wikipedia_alternate": [
       "republiek suriname",
-      "netherlands guiana",
       "dutch guiana",
+      "netherlands guiana",
       "republic of suriname",
       "surinam"
     ]
@@ -2374,13 +2827,16 @@
     "alpha_2": "SE",
     "alpha_3": "SWE",
     "numeric": "752",
-    "alternative_names": [
-      "sverige",
-      "svitjod",
+    "iso_alternate": [
+      "kingdom of sweden"
+    ],
+    "wikipedia_alternate": [
       "thule",
+      "svitjod",
       "kingdom of sweden",
-      "konungariket sverige",
-      "svea rike"
+      "sverige",
+      "svea rike",
+      "konungariket sverige"
     ]
   },
   {
@@ -2388,19 +2844,21 @@
     "alpha_2": "CH",
     "alpha_3": "CHE",
     "numeric": "756",
-    "alternative_names": [
-      "helvetia",
-      "schweiz",
-      "confoederatio helvetica",
-      "svizzera",
-      "svizra",
-      "ch",
-      "schweizerische eidgenossenschaft",
-      "confederazione svizzera",
-      "suisse",
+    "iso_alternate": [
+      "swiss confederation"
+    ],
+    "wikipedia_alternate": [
       "confederaziun svizra",
-      "swiss confederation",
-      "confe\u0301de\u0301ration suisse"
+      "ch",
+      "schweiz",
+      "confe\u0301de\u0301ration suisse",
+      "helvetia",
+      "schweizerische eidgenossenschaft",
+      "svizzera",
+      "suisse",
+      "svizra",
+      "confoederatio helvetica",
+      "confederazione svizzera"
     ]
   },
   {
@@ -2408,10 +2866,11 @@
     "alpha_2": "SY",
     "alpha_3": "SYR",
     "numeric": "760",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629",
-      "al-jumhu\u0304ri\u0304yah al-\u02bbarabi\u0304yah as-su\u0304ri\u0304yah",
-      "syria"
+      "syria",
+      "al-jumhu\u0304ri\u0304yah al-\u02bbarabi\u0304yah as-su\u0304ri\u0304yah"
     ]
   },
   {
@@ -2419,13 +2878,16 @@
     "alpha_2": "TJ",
     "alpha_3": "TJK",
     "numeric": "762",
-    "alternative_names": [
-      "\u04b7\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0442\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
-      "\u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646",
-      "\u0442\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+    "iso_alternate": [
+      "republic of tajikistan"
+    ],
+    "wikipedia_alternate": [
       "\u0442\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
-      "jumhurii tojikiston",
+      "\u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646",
       "tadzhikistan",
+      "\u0442\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+      "jumhurii tojikiston",
+      "\u04b7\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0442\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
       "republic of tajikistan"
     ]
   },
@@ -2434,13 +2896,16 @@
     "alpha_2": "TZ",
     "alpha_3": "TZA",
     "numeric": "834",
-    "alternative_names": [
+    "iso_alternate": [
       "united republic of tanzania",
-      "tanzania",
-      "united republic of tanganyika and zanzibar",
+      "tanzania"
+    ],
+    "wikipedia_alternate": [
       "zanzibar",
-      "deutsch-ostafrika",
-      "tanganyika"
+      "tanganyika",
+      "united republic of tanzania",
+      "united republic of tanganyika and zanzibar",
+      "deutsch-ostafrika"
     ]
   },
   {
@@ -2448,9 +2913,12 @@
     "alpha_2": "TG",
     "alpha_3": "TGO",
     "numeric": "768",
-    "alternative_names": [
-      "togolese republic",
-      "re\u0301publique togolaise"
+    "iso_alternate": [
+      "togolese republic"
+    ],
+    "wikipedia_alternate": [
+      "re\u0301publique togolaise",
+      "togolese republic"
     ]
   },
   {
@@ -2458,7 +2926,10 @@
     "alpha_2": "TO",
     "alpha_3": "TON",
     "numeric": "776",
-    "alternative_names": [
+    "iso_alternate": [
+      "kingdom of tonga"
+    ],
+    "wikipedia_alternate": [
       "pule\u02bbanga fakatu\u02bbi \u02bbo tonga",
       "kingdom of tonga"
     ]
@@ -2468,12 +2939,15 @@
     "alpha_2": "TH",
     "alpha_3": "THA",
     "numeric": "764",
-    "alternative_names": [
-      "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "iso_alternate": [
+      "kingdom of thailand"
+    ],
+    "wikipedia_alternate": [
       "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22",
       "siam",
       "kingdom of thailand",
-      "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2a\u0e22\u0e32\u0e21"
+      "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2a\u0e22\u0e32\u0e21",
+      "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22"
     ]
   },
   {
@@ -2481,10 +2955,13 @@
     "alpha_2": "TT",
     "alpha_3": "TTO",
     "numeric": "780",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of trinidad and tobago"
+    ],
+    "wikipedia_alternate": [
+      "iere",
       "trinbago",
-      "republic of trinidad and tobago",
-      "iere"
+      "republic of trinidad and tobago"
     ]
   },
   {
@@ -2492,10 +2969,13 @@
     "alpha_2": "TN",
     "alpha_3": "TUN",
     "numeric": "788",
-    "alternative_names": [
-      "\u062a\u0648\u0646\u0633",
-      "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0648\u0646\u0633\u064a\u0629",
+    "iso_alternate": [
       "republic of tunisia"
+    ],
+    "wikipedia_alternate": [
+      "republic of tunisia",
+      "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0648\u0646\u0633\u064a\u0629",
+      "\u062a\u0648\u0646\u0633"
     ]
   },
   {
@@ -2503,16 +2983,18 @@
     "alpha_2": "TR",
     "alpha_3": "TUR",
     "numeric": "792",
-    "alternative_names": [
-      "tu\u0308rkiye cumhuriyeti",
-      "republic of turkey",
+    "iso_alternate": [
+      "republic of turkey"
+    ],
+    "wikipedia_alternate": [
+      "asia minor",
       "ottoman empire",
       "republic of tu\u0308rkiye",
-      "turkish empire",
-      "sublime porte",
+      "porte",
+      "tu\u0308rkiye cumhuriyeti",
       "anatolia",
-      "asia minor",
-      "porte"
+      "sublime porte",
+      "turkish empire"
     ]
   },
   {
@@ -2520,7 +3002,8 @@
     "alpha_2": "TM",
     "alpha_3": "TKM",
     "numeric": "795",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "\u0442\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f",
       "turkmenia",
       "\u0442\u04af\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d",
@@ -2532,7 +3015,8 @@
     "alpha_2": "TV",
     "alpha_3": "TUV",
     "numeric": "798",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "ellice islands"
     ]
   },
@@ -2541,7 +3025,10 @@
     "alpha_2": "UG",
     "alpha_3": "UGA",
     "numeric": "800",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of uganda"
+    ],
+    "wikipedia_alternate": [
       "jamhuri ya uganda",
       "republic of uganda"
     ]
@@ -2551,14 +3038,15 @@
     "alpha_2": "UA",
     "alpha_3": "UKR",
     "numeric": "804",
-    "alternative_names": [
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "kingdom of galicia\u2013volhynia",
-      "zaporizhian host",
+      "kievan rus",
       "ukr.",
+      "zaporizhian host",
       "kingdom of ruthenia",
-      "\u0443\u043a\u0440\u0430\u0456\u0308\u043d\u0430",
       "ua",
-      "kievan rus"
+      "\u0443\u043a\u0440\u0430\u0456\u0308\u043d\u0430"
     ]
   },
   {
@@ -2566,12 +3054,13 @@
     "alpha_2": "AE",
     "alpha_3": "ARE",
     "numeric": "784",
-    "alternative_names": [
-      "trucial states",
-      "uae",
-      "al emirat al arabbiya al muttahida",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "u.a.e.",
+      "al emirat al arabbiya al muttahida",
       "trucial arabia",
+      "uae",
+      "trucial states",
       "the emirates"
     ]
   },
@@ -2580,21 +3069,24 @@
     "alpha_2": "GB",
     "alpha_3": "GBR",
     "numeric": "826",
-    "alternative_names": [
-      "britain",
+    "iso_alternate": [
+      "united kingdom of great britain and northern ireland"
+    ],
+    "wikipedia_alternate": [
+      "united kingdom of great britain and northern ireland",
       "u.k.",
+      "great britain",
+      "caledonia",
+      "cambria",
+      "cymru",
+      "britain",
+      "albion",
+      "anglia",
+      "alba",
+      "ulster",
       "scotia",
       "uk",
-      "britannia",
-      "alba",
-      "cymru",
-      "cambria",
-      "ulster",
-      "anglia",
-      "albion",
-      "united kingdom of great britain and northern ireland",
-      "great britain",
-      "caledonia"
+      "britannia"
     ]
   },
   {
@@ -2602,16 +3094,19 @@
     "alpha_2": "US",
     "alpha_3": "USA",
     "numeric": "840",
-    "alternative_names": [
+    "iso_alternate": [
+      "united states of america"
+    ],
+    "wikipedia_alternate": [
       "u.s.a",
-      "united states of america",
-      "usa",
       "columbia",
-      "the states",
-      "us",
       "u.s.a.",
-      "u.s.",
-      "america"
+      "the states",
+      "united states of america",
+      "america",
+      "usa",
+      "us",
+      "u.s."
     ]
   },
   {
@@ -2619,11 +3114,13 @@
     "alpha_2": "UY",
     "alpha_3": "URY",
     "numeric": "858",
-    "alternative_names": [
-      "eastern republic of uruguay",
-      "repu\u0301blica oriental del uruguay",
+    "iso_alternate": [
+      "eastern republic of uruguay"
+    ],
+    "wikipedia_alternate": [
       "repu\u0301blica oriental do uruguai",
-      "oriental republic of uruguay"
+      "oriental republic of uruguay",
+      "repu\u0301blica oriental del uruguay"
     ]
   },
   {
@@ -2631,15 +3128,18 @@
     "alpha_2": "UZ",
     "alpha_3": "UZB",
     "numeric": "860",
-    "alternative_names": [
-      "\u0443\u0437\u0431\u0435\u043a\u0438\u044f",
-      "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0443\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
-      "\u0443\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+    "iso_alternate": [
+      "republic of uzbekistan"
+    ],
+    "wikipedia_alternate": [
       "\u0443\u0306\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d",
       "\u0443\u0306\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u0438",
-      "o\u02bbzbekiston respublikasi",
+      "republic of uzbekistan",
+      "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0443\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+      "\u0443\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
       "o\u02bbzbekiston",
-      "republic of uzbekistan"
+      "\u0443\u0437\u0431\u0435\u043a\u0438\u044f",
+      "o\u02bbzbekiston respublikasi"
     ]
   },
   {
@@ -2647,14 +3147,17 @@
     "alpha_2": "VU",
     "alpha_3": "VUT",
     "numeric": "548",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of vanuatu"
+    ],
+    "wikipedia_alternate": [
       "new hebrides",
-      "re\u0301publique de vanuatu",
       "ripablik blong vanuatu",
-      "republic of vanuatu",
-      "nouvelles hebrides",
       "vanuatri",
-      "niuhebridis"
+      "nouvelles hebrides",
+      "re\u0301publique de vanuatu",
+      "niuhebridis",
+      "republic of vanuatu"
     ]
   },
   {
@@ -2662,12 +3165,13 @@
     "alpha_2": "VA",
     "alpha_3": "VAT",
     "numeric": "336",
-    "alternative_names": [
-      "vatican city state",
-      "stato della citta\u0300 del vaticano",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "vatican city",
+      "vatican city state",
+      "holy see",
       "status civitatis vaticanae",
-      "holy see"
+      "stato della citta\u0300 del vaticano"
     ]
   },
   {
@@ -2675,13 +3179,16 @@
     "alpha_2": "VE",
     "alpha_3": "VEN",
     "numeric": "862",
-    "alternative_names": [
-      "estado de venezuela",
+    "iso_alternate": [
       "bolivarian republic of venezuela",
-      "repu\u0301blica de venezuela",
+      "venezuela"
+    ],
+    "wikipedia_alternate": [
       "estados unidos de venezuela",
-      "venezuela",
-      "repu\u0301blica bolivariana de venezuela,"
+      "repu\u0301blica bolivariana de venezuela,",
+      "repu\u0301blica de venezuela",
+      "estado de venezuela",
+      "bolivarian republic of venezuela"
     ]
   },
   {
@@ -2689,25 +3196,27 @@
     "alpha_2": "VN",
     "alpha_3": "VNM",
     "numeric": "704",
-    "alternative_names": [
-      "co\u0323\u0302ng ho\u0300a xa\u0303 ho\u0323\u0302i chu\u0309 nghi\u0303a vie\u0323\u0302t nam",
-      "giao chi\u0309",
-      "s.r.v.",
-      "republic of vietnam",
-      "srv",
-      "democratic republic of vietnam",
-      "an nam",
-      "vn",
-      "\u0111a\u0323i vie\u0323\u0302t",
-      "li\u0303nh nam",
-      "north vietnam",
+    "iso_alternate": [
       "socialist republic of viet nam",
-      "vie\u0323\u0302t nam",
-      "socialist republic of vietnam",
-      "champa",
+      "vietnam"
+    ],
+    "wikipedia_alternate": [
+      "giao chi\u0309",
       "french indochina",
+      "republic of vietnam",
+      "democratic republic of vietnam",
+      "vie\u0323\u0302t nam",
+      "li\u0303nh nam",
+      "socialist republic of vietnam",
+      "\u0111a\u0323i vie\u0323\u0302t",
+      "north vietnam",
+      "champa",
+      "srv",
+      "vn",
       "v.n.",
-      "vietnam",
+      "an nam",
+      "s.r.v.",
+      "co\u0323\u0302ng ho\u0300a xa\u0303 ho\u0323\u0302i chu\u0309 nghi\u0303a vie\u0323\u0302t nam",
       "south vietnam"
     ]
   },
@@ -2716,19 +3225,20 @@
     "alpha_2": "EH",
     "alpha_3": "ESH",
     "numeric": "732",
-    "alternative_names": [
-      "sagui\u0301a el hamra y ri\u0301o de oro",
+    "iso_alternate": [],
+    "wikipedia_alternate": [
       "al-jumhu\u0304ri\u0304yah al-'arabi\u0304yah as\u0323-s\u0323ah\u0323ra\u0304wi\u0304yah ad-di\u0304muqra\u0304t\u0323i\u0304yah",
-      "repu\u0301blica a\u0301rabe saharaui democra\u0301tica",
-      "saguia el-hamra and ri\u0301o de oro",
       "sahrawi republic",
-      "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0635\u062d\u0631\u0627\u0648\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
-      "sahrawi arab democratic republic",
-      "repu\u0301blica saharaui",
-      "southern provinces",
-      "saharawi arab democratic republic",
       "spanish sahara",
-      "saharawi republic"
+      "repu\u0301blica a\u0301rabe saharaui democra\u0301tica",
+      "sagui\u0301a el hamra y ri\u0301o de oro",
+      "saharawi arab democratic republic",
+      "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0635\u062d\u0631\u0627\u0648\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
+      "southern provinces",
+      "saharawi republic",
+      "saguia el-hamra and ri\u0301o de oro",
+      "repu\u0301blica saharaui",
+      "sahrawi arab democratic republic"
     ]
   },
   {
@@ -2736,10 +3246,13 @@
     "alpha_2": "YE",
     "alpha_3": "YEM",
     "numeric": "887",
-    "alternative_names": [
-      "al-jumhu\u0304ri\u0304yah al-yamani\u0304yah",
-      "\u0671\u0644\u0652\u062c\u064f\u0645\u0652\u0647\u064f\u0648\u0631\u0650\u064a\u064e\u0651\u0629\u064f \u0671\u0644\u0652\u064a\u064e\u0645\u064e\u0646\u0650\u064a\u064e\u0651\u0629\u064f",
+    "iso_alternate": [
       "republic of yemen"
+    ],
+    "wikipedia_alternate": [
+      "al-jumhu\u0304ri\u0304yah al-yamani\u0304yah",
+      "republic of yemen",
+      "\u0671\u0644\u0652\u062c\u064f\u0645\u0652\u0647\u064f\u0648\u0631\u0650\u064a\u064e\u0651\u0629\u064f \u0671\u0644\u0652\u064a\u064e\u0645\u064e\u0646\u0650\u064a\u064e\u0651\u0629\u064f"
     ]
   },
   {
@@ -2747,7 +3260,10 @@
     "alpha_2": "ZM",
     "alpha_3": "ZMB",
     "numeric": "894",
-    "alternative_names": [
+    "iso_alternate": [
+      "republic of zambia"
+    ],
+    "wikipedia_alternate": [
       "northern rhodesia",
       "republic of zambia"
     ]
@@ -2757,11 +3273,14 @@
     "alpha_2": "ZW",
     "alpha_3": "ZWE",
     "numeric": "716",
-    "alternative_names": [
-      "rhodesia",
+    "iso_alternate": [
+      "republic of zimbabwe"
+    ],
+    "wikipedia_alternate": [
       "southern rhodesia",
       "republic of zimbabwe",
-      "republic of rhodesia"
+      "republic of rhodesia",
+      "rhodesia"
     ]
   }
 ]
