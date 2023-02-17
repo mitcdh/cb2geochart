@@ -9,10 +9,10 @@
     ],
     "wikipedia_alternate": [
       "da afg\u0307a\u0304nista\u0304n isla\u0304mi\u0304 jumhoryat",
-      "islamic emirate of afghanistan",
-      "ima\u0304ra\u0304t-i isla\u0304mi\u0304-yi afg\u0307a\u0304nista\u0304n",
+      "da afg\u0307a\u0304nista\u0304n isla\u0304mi\u0304 ama\u0304ra\u0304t",
       "jumhu\u0304ri\u0304-yi isla\u0304mi\u0304-yi afg\u0307a\u0304nista\u0304n",
-      "da afg\u0307a\u0304nista\u0304n isla\u0304mi\u0304 ama\u0304ra\u0304t"
+      "islamic emirate of afghanistan",
+      "ima\u0304ra\u0304t-i isla\u0304mi\u0304-yi afg\u0307a\u0304nista\u0304n"
     ]
   },
   {
@@ -24,13 +24,13 @@
       "republic of albania"
     ],
     "wikipedia_alternate": [
-      "arbanon",
-      "republika e shqipe\u0308rise\u0308",
       "arnavutluk",
-      "republika popullore socialiste e shqipe\u0308rise\u0308",
-      "people's socialist republic of albania",
       "mbretnija shqiptare",
-      "albanian kingdom"
+      "republika e shqipe\u0308rise\u0308",
+      "people's socialist republic of albania",
+      "arbanon",
+      "albanian kingdom",
+      "republika popullore socialiste e shqipe\u0308rise\u0308"
     ]
   },
   {
@@ -42,8 +42,8 @@
       "people's democratic republic of algeria"
     ],
     "wikipedia_alternate": [
-      "al-jumhu\u0304riyya al-jaza\u0304\u02beiriyya ad-di\u0304muqra\u0304t\u0323iyya as\u030c\u2010s\u030ca\u02bfbiyya",
       "re\u0301publique alge\u0301rienne de\u0301mocratique et populaire",
+      "al-jumhu\u0304riyya al-jaza\u0304\u02beiriyya ad-di\u0304muqra\u0304t\u0323iyya as\u030c\u2010s\u030ca\u02bfbiyya",
       "al-jaza\u0304\u02beir"
     ]
   },
@@ -92,10 +92,10 @@
     ],
     "wikipedia_alternate": [
       "argentine confederation",
-      "united provinces of the ri\u0301o de la plata",
-      "the argentine",
+      "argentine nation",
       "la argentina",
-      "argentine nation"
+      "united provinces of the ri\u0301o de la plata",
+      "the argentine"
     ]
   },
   {
@@ -119,8 +119,8 @@
     "numeric": "036",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "new holland",
-      "commonwealth of australia"
+      "commonwealth of australia",
+      "new holland"
     ]
   },
   {
@@ -157,8 +157,8 @@
       "commonwealth of the bahamas"
     ],
     "wikipedia_alternate": [
-      "bahama islands",
       "commonwealth of the bahama islands",
+      "bahama islands",
       "the bahamas"
     ]
   },
@@ -171,8 +171,8 @@
       "kingdom of bahrain"
     ],
     "wikipedia_alternate": [
-      "state of bahrain",
-      "mamlakat al-bah\u0323rayn"
+      "mamlakat al-bah\u0323rayn",
+      "state of bahrain"
     ]
   },
   {
@@ -184,17 +184,17 @@
       "people's republic of bangladesh"
     ],
     "wikipedia_alternate": [
-      "\u09aa\u09c2\u09b0\u09cd\u09ac\u09ac\u0999\u09cd\u0997 purbo\u0302 bo\u0302nggo\u0302",
-      "\u09aa\u09c2\u09b0\u09cd\u09ac \u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 purbo\u0302 pakistan",
-      "east bengal",
-      "\u0997\u09a3\u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
-      ", east pakistan",
-      "\u09ac\u0999\u09cd\u0997 bo\u0302nggo\u0302",
       "\u0997\u0999\u09cd\u0997\u09be\u098b\u09a6\u09cd\u09a7\u09bf go\u0302nggarriddhi",
       "bengal presidency",
-      "go\u0302no\u0302pro\u0302jato\u0302ntri bangladesh",
+      "\u09aa\u09c2\u09b0\u09cd\u09ac \u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 purbo\u0302 pakistan",
+      ", east pakistan",
+      "\u09ac\u0999\u09cd\u0997 bo\u0302nggo\u0302",
+      "\u09aa\u09c2\u09b0\u09cd\u09ac\u09ac\u0999\u09cd\u0997 purbo\u0302 bo\u0302nggo\u0302",
       "\u09ac\u09be\u0982\u09b2\u09be bangla",
-      "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6"
+      "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+      "go\u0302no\u0302pro\u0302jato\u0302ntri bangladesh",
+      "east bengal",
+      "\u0997\u09a3\u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6"
     ]
   },
   {
@@ -205,9 +205,9 @@
     "iso_alternate": [],
     "wikipedia_alternate": [
       "the rock",
-      "little england",
+      "bimshire",
       "bim",
-      "bimshire"
+      "little england"
     ]
   },
   {
@@ -219,8 +219,8 @@
       "republic of belarus"
     ],
     "wikipedia_alternate": [
-      "byelorussia",
       "\u0440\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0431\u0435\u043b\u0430\u0440\u0443\u0441\u044c respublika bielarus\u0301",
+      "byelorussia",
       "white russia"
     ]
   },
@@ -233,12 +233,12 @@
       "kingdom of belgium"
     ],
     "wikipedia_alternate": [
-      "ko\u0308nigreich belgien",
-      "belgien",
-      "belgie\u0308",
-      "koninkrijk belgie\u0308",
       "royaume de belgique",
-      "belgique"
+      "koninkrijk belgie\u0308",
+      "belgie\u0308",
+      "belgien",
+      "belgique",
+      "ko\u0308nigreich belgien"
     ]
   },
   {
@@ -260,8 +260,8 @@
       "republic of benin"
     ],
     "wikipedia_alternate": [
-      "re\u0301publique du be\u0301nin",
-      "dahomey"
+      "dahomey",
+      "re\u0301publique du be\u0301nin"
     ]
   },
   {
@@ -286,9 +286,9 @@
       "bolivia"
     ],
     "wikipedia_alternate": [
-      "estado plurinacional de bolivia",
+      "republic of boli\u0301var",
       "republic of bolivia",
-      "republic of boli\u0301var"
+      "estado plurinacional de bolivia"
     ]
   },
   {
@@ -325,12 +325,12 @@
       "federative republic of brazil"
     ],
     "wikipedia_alternate": [
-      "empire of brazil",
-      "united states of brazil",
-      "pindorama",
       "ilha de vera cruz",
+      "terra de santa cruz",
       "repu\u0301blica federativa do brasil",
-      "terra de santa cruz"
+      "pindorama",
+      "empire of brazil",
+      "united states of brazil"
     ]
   },
   {
@@ -340,11 +340,11 @@
     "numeric": "096",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "nation of brunei, the abode of peace",
-      "state of brunei",
-      "negara brunei darussalam",
       "brunei",
-      "\u0646\u06ac\u0627\u0631\u0627 \u0628\u0631\u0648\u0646\u064a \u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645"
+      "\u0646\u06ac\u0627\u0631\u0627 \u0628\u0631\u0648\u0646\u064a \u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645",
+      "state of brunei",
+      "nation of brunei, the abode of peace",
+      "negara brunei darussalam"
     ]
   },
   {
@@ -356,8 +356,8 @@
       "republic of bulgaria"
     ],
     "wikipedia_alternate": [
-      "people's republic of bulgaria",
-      "\u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0438\u044f republika ba\u030clgariya"
+      "\u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0438\u044f republika ba\u030clgariya",
+      "people's republic of bulgaria"
     ]
   },
   {
@@ -381,9 +381,9 @@
       "republic of burundi"
     ],
     "wikipedia_alternate": [
-      "kingdom of burundi",
       "republika y'uburundi",
-      "re\u0301publique du burundi"
+      "re\u0301publique du burundi",
+      "kingdom of burundi"
     ]
   },
   {
@@ -397,10 +397,10 @@
     "wikipedia_alternate": [
       "royaume du cambodge",
       "khmer republic",
-      "kampuchea",
+      "people's republic of kampuchea",
       "state of cambodia",
-      "democratic kampuchea",
-      "people's republic of kampuchea"
+      "kampuchea",
+      "democratic kampuchea"
     ]
   },
   {
@@ -412,8 +412,8 @@
       "republic of cameroon"
     ],
     "wikipedia_alternate": [
-      "kamerun",
-      "united republic of cameroon"
+      "united republic of cameroon",
+      "kamerun"
     ]
   },
   {
@@ -423,9 +423,9 @@
     "numeric": "124",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "dominion du canada",
       "dominion of canada",
-      "acadia"
+      "acadia",
+      "dominion du canada"
     ]
   },
   {
@@ -437,8 +437,8 @@
       "republic of cabo verde"
     ],
     "wikipedia_alternate": [
-      "cape verde",
       "repu\u0301blika di kabu verdi",
+      "cape verde",
       "repu\u0301blica de cabo verde"
     ]
   },
@@ -450,10 +450,10 @@
     "iso_alternate": [],
     "wikipedia_alternate": [
       "ubangi-shari",
-      "empire centrafricain",
       "re\u0301publique centrafricaine",
-      "oubangui-chari",
-      "central african empire"
+      "central african empire",
+      "empire centrafricain",
+      "oubangui-chari"
     ]
   },
   {
@@ -479,9 +479,9 @@
     ],
     "wikipedia_alternate": [
       "reyno de chile",
-      "chili",
       "capitania general de chile",
-      "chilli"
+      "chilli",
+      "chili"
     ]
   },
   {
@@ -493,21 +493,21 @@
       "people's republic of china"
     ],
     "wikipedia_alternate": [
-      "communist china",
-      "\u4e2d\u56fd\u5927\u9646",
-      "\u65b0\u4e2d\u56fd",
       "\u4e2d\u56fd\u5167\u5730",
-      "mainland china",
-      "zhongguo",
-      "prc",
-      "\u4e2d\u5171",
-      "shenzhou",
-      "\u795e\u5dde",
-      "ch'in empire",
-      "cathay",
-      "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
       "\u4e2d\u56fd",
+      "ch'in empire",
+      "shenzhou",
+      "\u4e2d\u5171",
+      "\u4e2d\u56fd\u5927\u9646",
       "new china",
+      "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+      "zhongguo",
+      "communist china",
+      "\u795e\u5dde",
+      "cathay",
+      "\u65b0\u4e2d\u56fd",
+      "prc",
+      "mainland china",
       "red china"
     ]
   },
@@ -521,27 +521,27 @@
       "taiwan"
     ],
     "wikipedia_alternate": [
-      "\u53f0\u7063\u3001\u6f8e\u6e56\u3001\u91d1\u9580\u53ca\u99ac\u7956\u500b\u5225\u95dc\u7a05\u9818\u57df",
-      "cathay",
-      "republic of china (taiwan)",
-      "\u4e2d\u83ef\u6c11\u570b",
-      "free china",
-      "\u4e2d\u570b",
-      "\u53f0\u7063",
-      "zhongguo",
-      "qing dynasty",
-      "governing authorities on taiwan",
+      "china",
+      "zho\u0304nghua\u0301 ta\u0301ibe\u030ci",
+      "nationalist china",
       "roc",
       "\u4e2d\u83ef\u53f0\u5317",
-      "china",
-      "taipei, china",
-      "nationalist china",
-      "formosa",
-      "republic of china",
-      "zho\u0304nghua\u0301 ta\u0301ibe\u030ci",
-      "separate customs territory of taiwan, penghu, kinmen and matsu",
+      "\u53f0\u7063\u3001\u6f8e\u6e56\u3001\u91d1\u9580\u53ca\u99ac\u7956\u500b\u5225\u95dc\u7a05\u9818\u57df",
+      "\u4e2d\u570b",
       "\u81fa\u7063",
-      "chinese taipei"
+      "chinese taipei",
+      "formosa",
+      "separate customs territory of taiwan, penghu, kinmen and matsu",
+      "governing authorities on taiwan",
+      "republic of china (taiwan)",
+      "free china",
+      "taipei, china",
+      "cathay",
+      "qing dynasty",
+      "zhongguo",
+      "republic of china",
+      "\u53f0\u7063",
+      "\u4e2d\u83ef\u6c11\u570b"
     ]
   },
   {
@@ -553,10 +553,10 @@
       "republic of colombia"
     ],
     "wikipedia_alternate": [
-      "repu\u0301blica de la nueva granada",
       "confederacio\u0301n granadina",
+      "estados unidos de colombia",
       "repu\u0301blica de colombia",
-      "estados unidos de colombia"
+      "repu\u0301blica de la nueva granada"
     ]
   },
   {
@@ -568,10 +568,10 @@
       "union of the comoros"
     ],
     "wikipedia_alternate": [
-      "union des comores",
       "united republic of the commoros",
       "udzima wa komori",
-      "al-ittih\u0323a\u0304d al-qumuri\u0304"
+      "al-ittih\u0323a\u0304d al-qumuri\u0304",
+      "union des comores"
     ]
   },
   {
@@ -584,10 +584,10 @@
     ],
     "wikipedia_alternate": [
       "congo republic",
-      "re\u0301publique du congo",
+      "repubilika ya ko\u0302ngo",
       "congo-brazzaville",
-      "republi\u0301ki ya kongo\u0301",
-      "repubilika ya ko\u0302ngo"
+      "re\u0301publique du congo",
+      "republi\u0301ki ya kongo\u0301"
     ]
   },
   {
@@ -611,9 +611,9 @@
       "republic of co\u0302te d'ivoire"
     ],
     "wikipedia_alternate": [
+      "the ivory coast",
       "re\u0301publique de co\u0302te d'ivoire",
-      "ivory coast",
-      "the ivory coast"
+      "ivory coast"
     ]
   },
   {
@@ -651,13 +651,13 @@
       "republic of cyprus"
     ],
     "wikipedia_alternate": [
-      "island of venus",
-      "\u03ba\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03b7\u0301 \u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b9\u0301\u03b1",
       "k\u0131br\u0131s",
-      "kypros",
-      "kypriaki dimokratia",
+      "island of venus",
       "\u03ba\u03c5\u0301\u03c0\u03c1\u03bf\u03c3",
-      "k\u0131br\u0131s cumhuriyeti"
+      "kypriaki dimokratia",
+      "kypros",
+      "k\u0131br\u0131s cumhuriyeti",
+      "\u03ba\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03b7\u0301 \u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b9\u0301\u03b1"
     ]
   },
   {
@@ -669,21 +669,21 @@
       "czech republic"
     ],
     "wikipedia_alternate": [
-      "c\u030csr",
       "cr",
-      "csr",
-      "(protektora\u0301t) c\u030cechy a morava",
-      "c\u030ceska\u0301 konfederace",
-      "koruna c\u030ceska\u0301",
-      "czechland",
-      "c\u030ceske\u0301 zeme\u030c",
-      "c\u030ceska\u0301 republika",
-      "c\u030cr",
       "c\u030ceska\u0301 socialisticka\u0301 republika",
+      "c\u030ceska\u0301 republika",
+      "c\u030csr",
+      "c\u030ceske\u0301 zeme\u030c",
+      "(protektora\u0301t) c\u030cechy a morava",
+      "koruna c\u030ceska\u0301",
+      "bohemia",
       "c\u030cesko",
-      "zeme\u030c koruny c\u030ceske\u0301",
       "the czechlands",
-      "bohemia"
+      "zeme\u030c koruny c\u030ceske\u0301",
+      "c\u030ceska\u0301 konfederace",
+      "c\u030cr",
+      "czechland",
+      "csr"
     ]
   },
   {
@@ -695,9 +695,9 @@
       "kingdom of denmark"
     ],
     "wikipedia_alternate": [
+      "kongeriget danmark",
       "danmark",
-      "dania",
-      "kongeriget danmark"
+      "dania"
     ]
   },
   {
@@ -707,15 +707,15 @@
     "numeric": "180",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "democratic republic of congo",
-      "congo free state",
-      "congo kinshasa",
-      "belgian congo",
-      "republic of the congo",
-      "drc",
-      "democratic republic of the congo",
       "congo belge",
-      "zaire"
+      "belgian congo",
+      "zaire",
+      "republic of the congo",
+      "congo kinshasa",
+      "democratic republic of congo",
+      "drc",
+      "congo free state",
+      "democratic republic of the congo"
     ]
   },
   {
@@ -727,13 +727,13 @@
       "republic of djibouti"
     ],
     "wikipedia_alternate": [
-      "french somaliland",
+      "french territory of the afars and the issas",
       "territoire d'obock",
+      "french somaliland",
+      "re\u0301publique de djibouti",
       "obock territory",
       "territoire franc\u0327ais des afars et des issas",
-      "re\u0301publique de djibouti",
-      "co\u0302te franc\u0327aise des somalis",
-      "french territory of the afars and the issas"
+      "co\u0302te franc\u0327aise des somalis"
     ]
   },
   {
@@ -745,9 +745,9 @@
       "commonwealth of dominica"
     ],
     "wikipedia_alternate": [
-      "wai\u2018tu kubuli",
+      "dominik",
       "dominique",
-      "dominik"
+      "wai\u2018tu kubuli"
     ]
   },
   {
@@ -769,8 +769,8 @@
       "democratic republic of timor-leste"
     ],
     "wikipedia_alternate": [
-      "portuguese timor",
-      "east timor"
+      "east timor",
+      "portuguese timor"
     ]
   },
   {
@@ -782,9 +782,9 @@
       "republic of ecuador"
     ],
     "wikipedia_alternate": [
+      "ikwadur ripuwlika",
       "repu\u0301blica del ecuador",
-      "ekuatur nunka",
-      "ikwadur ripuwlika"
+      "ekuatur nunka"
     ]
   },
   {
@@ -796,10 +796,10 @@
       "arab republic of egypt"
     ],
     "wikipedia_alternate": [
-      "ki\u0304mi",
       "mis\u0323r",
       "aegyptus",
-      "mes\u0323r"
+      "mes\u0323r",
+      "ki\u0304mi"
     ]
   },
   {
@@ -823,12 +823,12 @@
       "republic of equatorial guinea"
     ],
     "wikipedia_alternate": [
-      "guine\u0301 equatorial",
-      "guine\u0301e e\u0301quatoriale",
-      "re\u0301publique de guine\u0301e e\u0301quatoriale",
       "repu\u0301blica de guinea ecuatorial",
       "guinea ecuatorial",
-      "repu\u0301blica da guine\u0301 equatorial"
+      "re\u0301publique de guine\u0301e e\u0301quatoriale",
+      "repu\u0301blica da guine\u0301 equatorial",
+      "guine\u0301e e\u0301quatoriale",
+      "guine\u0301 equatorial"
     ]
   },
   {
@@ -840,8 +840,8 @@
       "the state of eritrea"
     ],
     "wikipedia_alternate": [
-      "state of eritrea",
-      "italian eritrea"
+      "italian eritrea",
+      "state of eritrea"
     ]
   },
   {
@@ -853,14 +853,14 @@
       "republic of estonia"
     ],
     "wikipedia_alternate": [
-      "viro",
-      "igaunija",
       "estland",
-      "viru",
+      "eesti",
+      "viro",
       "eesti vabariik",
-      "maarjamaa",
+      "igaunija",
+      "viru",
       "esthonia",
-      "eesti"
+      "maarjamaa"
     ]
   },
   {
@@ -884,11 +884,11 @@
       "federal democratic republic of ethiopia"
     ],
     "wikipedia_alternate": [
-      "etiopia",
       "\u12a2\u1275\u12ee\u1335\u12eb",
+      "ethiopie\u0308",
+      "etiopia",
       "al-habasha",
       "habeshastan",
-      "ethiopie\u0308",
       "abyssinia"
     ]
   },
@@ -913,19 +913,19 @@
       "republic of finland"
     ],
     "wikipedia_alternate": [
-      "suomenmaa",
-      "suopma",
-      "la\u0308a\u0308\u02caddja\u0302nnam ta\u0308a\u0308\u02cassva\u0308\u02caldd",
+      "suoma da\u0301sseva\u0301ldi",
       "soome",
-      "\u0444\u0438\u043d\u043b\u044f\u0301\u043d\u0434\u0438\u044f",
-      "suomen tasavalta",
+      "suoma\u0302 ta\u0308siva\u0308ldi",
       "la\u0308a\u0308\u02caddja\u0302nnam",
       "suomi",
-      "suoma\u0302 ta\u0308siva\u0308ldi",
-      "suoma\u0302",
-      "suoma da\u0301sseva\u0301ldi",
+      "suopma",
+      "\u0444\u0438\u043d\u043b\u044f\u0301\u043d\u0434\u0438\u044f",
+      "suomenmaa",
       "republiken finland",
-      "\u0432\u0435\u043b\u0438\u043a\u043e\u0435 \u043a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u043e \u0444\u0438\u043d\u043b\u044f\u043d\u0434\u0441\u043a\u043e\u0435"
+      "la\u0308a\u0308\u02caddja\u0302nnam ta\u0308a\u0308\u02cassva\u0308\u02caldd",
+      "suomen tasavalta",
+      "\u0432\u0435\u043b\u0438\u043a\u043e\u0435 \u043a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u043e \u0444\u0438\u043d\u043b\u044f\u043d\u0434\u0441\u043a\u043e\u0435",
+      "suoma\u0302"
     ]
   },
   {
@@ -937,15 +937,15 @@
       "french republic"
     ],
     "wikipedia_alternate": [
-      "tsarfat",
-      "gaule",
-      "l'hexagone",
       "\u03b3\u03b1\u03bb\u03bb\u03b9\u0301\u03b1",
-      "re\u0301publique franc\u0327aise",
+      "gaule",
       "gaul",
+      "l'hexagone",
       "francia",
       "frankreich",
-      "faranc\u0327a"
+      "tsarfat",
+      "faranc\u0327a",
+      "re\u0301publique franc\u0327aise"
     ]
   },
   {
@@ -977,10 +977,10 @@
     "wikipedia_alternate": [
       "iberia",
       "iveria",
-      "sakartvelo",
-      "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd\u10e1 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0",
       "republic of georgia",
       "sakartvelos respublika",
+      "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd\u10e1 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0",
+      "sakartvelo",
       "\u06af\u0631\u062c\u0633\u062a\u0627\u0646",
       "colchis"
     ]
@@ -994,30 +994,30 @@
       "federal republic of germany"
     ],
     "wikipedia_alternate": [
-      "ne\u030cmecko",
-      "nemacia",
-      "saxony",
-      "niemcy",
-      "german empire",
-      "deutsche demokratische republik",
-      "brd",
-      "gdr",
-      "frg",
-      "ddr",
-      "alemania",
       "duitsland",
-      "prussia",
-      "germania",
-      "german democratic republic",
+      "brd",
       "bavaria",
-      "bundesrepublik deutschland",
-      "ne\u0301metorsza\u0301g",
+      "gdr",
+      "saxony",
       "deutschland",
-      "east germany",
-      "weimar republic",
-      "alemannia",
+      "german democratic republic",
+      "german empire",
+      "ddr",
+      "frg",
+      "alemania",
+      "ne\u030cmecko",
+      "niemcy",
       "allemagne",
-      "saksa"
+      "saksa",
+      "deutsche demokratische republik",
+      "alemannia",
+      "nemacia",
+      "prussia",
+      "ne\u0301metorsza\u0301g",
+      "weimar republic",
+      "germania",
+      "bundesrepublik deutschland",
+      "east germany"
     ]
   },
   {
@@ -1029,8 +1029,8 @@
       "republic of ghana"
     ],
     "wikipedia_alternate": [
-      "gold coast",
       "gaana",
+      "gold coast",
       "united gold coast convention",
       "ghana ti\u014bzu\u0263u"
     ]
@@ -1044,13 +1044,13 @@
       "hellenic republic"
     ],
     "wikipedia_alternate": [
+      "yavan",
+      "hellas",
+      "kingdom of the hellenes",
       "\u03b5\u03bb\u03bb\u03b1\u0301\u03b4\u03b1",
       "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03b7\u0301 \u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b9\u0301\u03b1",
-      "yavan",
-      "\u03b5\u03bb\u03bb\u03b1\u0301\u03c3",
-      "kingdom of the hellenes",
-      "hellas",
-      "yunanistan"
+      "yunanistan",
+      "\u03b5\u03bb\u03bb\u03b1\u0301\u03c3"
     ]
   },
   {
@@ -1073,8 +1073,8 @@
     ],
     "wikipedia_alternate": [
       "guine\u0301-bissao",
-      "portuguese guinea",
-      "guinea"
+      "guinea",
+      "portuguese guinea"
     ]
   },
   {
@@ -1096,14 +1096,14 @@
       "republic of guinea"
     ],
     "wikipedia_alternate": [
+      "re\u0301publique de guine\u0301e",
       "gine",
-      "\u07d6\u07cc\u07ec\u07e3\u07cd\u07eb",
-      "\ud83a\udd2a\ud83a\udd2b\ud83a\udd28\ud83a\udd35\ud83a\udd26\ud83a\udd24\ud83a\udd2d\ud83a\udd33 \ud83a\udd26\ud83a\udd35 \ud83a\udd3a\ud83a\udd2d\ud83a\udd32\ud83a\udd2b",
       "guine\u0301e franc\u0327aise",
       "republik bu gine",
-      "re\u0301publique de guine\u0301e",
+      "french guinea",
+      "\u07d6\u07cc\u07ec\u07e3\u07cd\u07eb",
       "guinea-conakry",
-      "french guinea"
+      "\ud83a\udd2a\ud83a\udd2b\ud83a\udd28\ud83a\udd35\ud83a\udd26\ud83a\udd24\ud83a\udd2d\ud83a\udd33 \ud83a\udd26\ud83a\udd35 \ud83a\udd3a\ud83a\udd2d\ud83a\udd32\ud83a\udd2b"
     ]
   },
   {
@@ -1115,8 +1115,8 @@
       "republic of guyana"
     ],
     "wikipedia_alternate": [
-      "co\u2010operative republic of guyana",
-      "british guiana"
+      "british guiana",
+      "co\u2010operative republic of guyana"
     ]
   },
   {
@@ -1130,8 +1130,8 @@
     "wikipedia_alternate": [
       "hai\u0308ti",
       "re\u0301publique d'hai\u0308ti",
-      "repiblik d ayiti",
       "ayiti",
+      "repiblik d ayiti",
       "hayti"
     ]
   },
@@ -1156,16 +1156,16 @@
       "hungary"
     ],
     "wikipedia_alternate": [
-      "magyar ko\u0308zta\u0301rsasa\u0301g",
-      "magyar kira\u0301lysa\u0301g",
-      "hungaria",
       "kingdom of hungary",
-      "republic of hungary",
+      "hungaria",
+      "magyarorsza\u0301g",
       "hungarian people's republic",
       "magyar tana\u0301csko\u0308zta\u0301rsasa\u0301g",
+      "magyar ko\u0308zta\u0301rsasa\u0301g",
+      "republic of hungary",
+      "magyar ne\u0301pko\u0308zta\u0301rsasa\u0301g",
       "regnum hungari\u00e6",
-      "magyarorsza\u0301g",
-      "magyar ne\u0301pko\u0308zta\u0301rsasa\u0301g"
+      "magyar kira\u0301lysa\u0301g"
     ]
   },
   {
@@ -1177,12 +1177,12 @@
       "republic of iceland"
     ],
     "wikipedia_alternate": [
+      "thule",
+      "fro\u0301n",
       "i\u0301safold",
-      "i\u0301sland",
       "fold",
       "ly\u0301\u00f0veldi\u00f0 i\u0301sland",
-      "fro\u0301n",
-      "thule"
+      "i\u0301sland"
     ]
   },
   {
@@ -1194,25 +1194,25 @@
       "republic of india"
     ],
     "wikipedia_alternate": [
-      "\u0d2d\u0d3e\u0d30\u0d24\u0d02",
-      "\u0baa\u0bbe\u0bb0\u0ba4\u0bae\u0bcd",
-      "bha\u0304ratavars\u0323a",
       "hindustan",
-      "bha\u0304rat",
-      "\u0cad\u0cbe\u0cb0\u0ca4",
-      "bha\u0304rat prajatantra",
+      "\u092d\u093e\u0930\u0924\u0935\u0930\u094d\u0937",
+      "aryavarta",
       "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36\u0c02",
-      "bha\u0304ratade\u0304s\u0301am\u0307",
-      "\u092d\u093e\u0930\u0924",
-      "jumhu\u0304ri\u0304yat-e bha\u0304rat",
-      "bha\u0304rata",
+      "bha\u0304ratam",
+      "bha\u0304rat prajatantra",
       "bha\u0304rat gan\u0323ara\u0304jya \u092d\u093e\u0930\u0924 \u0917\u0923\u0930\u093e\u091c\u094d\u092f",
       "union of india",
+      "jumhu\u0304ri\u0304yat-e bha\u0304rat",
+      "bha\u0304rata",
+      "\u092d\u093e\u0930\u0924",
+      "\u0baa\u0bbe\u0bb0\u0ba4\u0bae\u0bcd",
       "hodu",
-      "bha\u0304ratam",
-      "\u092d\u093e\u0930\u0924\u0935\u0930\u094d\u0937",
+      "bha\u0304rat",
+      "bha\u0304ratade\u0304s\u0301am\u0307",
+      "\u0d2d\u0d3e\u0d30\u0d24\u0d02",
+      "\u0cad\u0cbe\u0cb0\u0ca4",
       "bha\u0304ratam \u092d\u093e\u0930\u0924\u092e\u094d",
-      "aryavarta"
+      "bha\u0304ratavars\u0323a"
     ]
   },
   {
@@ -1224,16 +1224,16 @@
       "republic of indonesia"
     ],
     "wikipedia_alternate": [
-      "nusantara",
-      "negara kesatuan republik indonesia",
-      "indunesia",
-      "hindia belanda",
       "dutch east indies",
+      "insulinde",
       "nederlands(ch)-indie\u0308",
-      "indonesie\u0308",
-      "netherlands east-indies",
+      "negara kesatuan republik indonesia",
+      "nusantara",
+      "indunesia",
       "republik indonesia",
-      "insulinde"
+      "hindia belanda",
+      "indonesie\u0308",
+      "netherlands east-indies"
     ]
   },
   {
@@ -1248,8 +1248,8 @@
       "iri",
       "i.r.i",
       "persia",
-      "i.r.i.",
-      "iran"
+      "iran",
+      "i.r.i."
     ]
   },
   {
@@ -1261,9 +1261,9 @@
       "republic of iraq"
     ],
     "wikipedia_alternate": [
+      "assyria",
       "babylon",
-      "mesopotamia",
-      "assyria"
+      "mesopotamia"
     ]
   },
   {
@@ -1273,15 +1273,15 @@
     "numeric": "372",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "banba",
       "irish free state",
-      "e\u0301ire",
+      "republic of ireland",
       "fodla",
-      "saorsta\u0301t e\u0301ireann",
+      "banba",
+      "e\u0301ire",
       "erin",
       "hibernia",
-      "republic of ireland",
-      "poblacht na he\u0301ireann"
+      "poblacht na he\u0301ireann",
+      "saorsta\u0301t e\u0301ireann"
     ]
   },
   {
@@ -1293,18 +1293,18 @@
       "state of israel"
     ],
     "wikipedia_alternate": [
-      "\u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc",
-      "zion",
-      "medinat yisra'el",
-      "dawlat isra'il",
       "\u062f\u064e\u0648\u0652\u0644\u064e\u0629 \u0627\u0650\u0655\u0633\u0652\u0631\u064e\u0627\u064a\u0650\u0654\u064a\u0644",
-      "the zionist entity",
+      "\u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc",
+      "\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
       "\u05d0\u05e8\u05e5 \u05d4\u05e7\u05d5\u05d3\u05e9",
-      "eretz yisrael",
       "jeshurun",
       "the holy land",
-      "\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
-      "the jewish state"
+      "eretz yisrael",
+      "medinat yisra'el",
+      "zion",
+      "the zionist entity",
+      "the jewish state",
+      "dawlat isra'il"
     ]
   },
   {
@@ -1317,14 +1317,14 @@
     ],
     "wikipedia_alternate": [
       "tirrenia",
-      "the beautiful country",
-      "the boot",
-      "repubblica italiana",
-      "italia",
-      "enotria",
       "esperia",
-      "kingdom of italy",
-      "ausonia"
+      "italia",
+      "the boot",
+      "the beautiful country",
+      "ausonia",
+      "repubblica italiana",
+      "enotria",
+      "kingdom of italy"
     ]
   },
   {
@@ -1344,8 +1344,8 @@
     "numeric": "392",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "\u65e5\u672c",
       "nippon",
+      "\u65e5\u672c",
       "yamato (\u5927\u548c)"
     ]
   },
@@ -1370,17 +1370,17 @@
       "republic of kazakhstan"
     ],
     "wikipedia_alternate": [
-      "kazakhskaya sovetskaya sotsialisticheskaya respublika",
-      "\u049b\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
       "kazakh soviet socialist republic",
-      "alash",
-      "\u0430\u043b\u0430\u0448",
       "\u043a\u0430\u0437\u0430\u0445\u0441\u043a\u0430\u044f \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
-      "qazaq ken\u0303estik soci\u0308ali\u0308stik respwbli\u0308kas\u0131",
-      "alas\u0327",
       "\u049b\u0430\u0437\u0430\u049b \u043a\u0435\u04a3\u0435\u0441\u0442\u0456\u043a \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0456\u043a \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+      "alash",
+      "kazakhskaya sovetskaya sotsialisticheskaya respublika",
       "qazaqstan",
-      "\u049b\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d"
+      "\u0430\u043b\u0430\u0448",
+      "\u049b\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+      "\u049b\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+      "qazaq ken\u0303estik soci\u0308ali\u0308stik respwbli\u0308kas\u0131",
+      "alas\u0327"
     ]
   },
   {
@@ -1392,9 +1392,9 @@
       "republic of kenya"
     ],
     "wikipedia_alternate": [
-      "kenya colony",
       "british east africa protectorate",
-      "jamhuri ya kenya"
+      "jamhuri ya kenya",
+      "kenya colony"
     ]
   },
   {
@@ -1406,9 +1406,9 @@
       "republic of kiribati"
     ],
     "wikipedia_alternate": [
-      "gilbert islands",
+      "kingsmill group",
       "ribaberiki ni kiribati",
-      "kingsmill group"
+      "gilbert islands"
     ]
   },
   {
@@ -1421,14 +1421,14 @@
       "north korea"
     ],
     "wikipedia_alternate": [
-      "\u110c\u1169\u1109\u1165\u11ab",
       "dprk",
-      "dpr korea",
+      "cho-son",
+      "\u110c\u1169\u1109\u1165\u11ab",
       "d.p.r.k.",
       "korea",
-      "\u110c\u1169\u1109\u1165\u11ab\u1106\u1175\u11ab\u110c\u116e\u110c\u116e\u110b\u1174\u110b\u1175\u11ab\u1106\u1175\u11ab\u1100\u1169\u11bc\u1112\u116a\u1100\u116e\u11a8",
+      "dpr korea",
       "choson minjujuui inmin konghwaguk",
-      "cho-son"
+      "\u110c\u1169\u1109\u1165\u11ab\u1106\u1175\u11ab\u110c\u116e\u110c\u116e\u110b\u1174\u110b\u1175\u11ab\u1106\u1175\u11ab\u1100\u1169\u11bc\u1112\u116a\u1100\u116e\u11a8"
     ]
   },
   {
@@ -1440,15 +1440,15 @@
       "south korea"
     ],
     "wikipedia_alternate": [
+      "korea",
+      "\u1103\u1162\u1112\u1161\u11ab\u1106\u1175\u11ab\u1100\u116e\u11a8",
+      "r.o.k.",
+      "han-guk",
       "\u1112\u1161\u11ab\u1100\u116e\u11a8",
       "dae-han-min-guk",
-      "\u1103\u1162\u1112\u1161\u11ab\u1106\u1175\u11ab\u1100\u116e\u11a8",
-      "republic of korea",
-      "korea republic",
-      "r.o.k.",
       "rok",
-      "korea",
-      "han-guk"
+      "republic of korea",
+      "korea republic"
     ]
   },
   {
@@ -1460,9 +1460,9 @@
       "state of kuwait"
     ],
     "wikipedia_alternate": [
-      "\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
       "\u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a\u200e",
       "al-kuwait",
+      "\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
       "dawlat al-kuwait"
     ]
   },
@@ -1475,19 +1475,19 @@
       "kyrgyz republic"
     ],
     "wikipedia_alternate": [
-      "kirghiz soviet socialist republic",
-      "kirghizia",
-      "\u043a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
-      "\u043a\u0438\u0440\u0433\u0438\u0437\u0441\u043a\u0430\u044f \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
-      "kirgizstan",
-      "republic of kyrgyzstan",
       "kyrgyz sovettik sotsialisttik respublikasy",
-      "\u043a\u044b\u0440\u0433\u044b\u0437 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+      "republic of kyrgyzstan",
+      "kirgizstan",
       "kyrgyz respublikasy",
+      "kirghizia",
+      "kyrgyzskaya respublika",
       "kirgizskaya sovetskaya sotsialisticheskaya respublika",
-      "\u043a\u044b\u0440\u0433\u044b\u0437 \u0441\u043e\u0432\u0435\u0442\u0442\u0438\u043a \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0442\u0438\u043a \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+      "kirghiz soviet socialist republic",
       "\u043a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
-      "kyrgyzskaya respublika"
+      "\u043a\u0438\u0440\u0433\u0438\u0437\u0441\u043a\u0430\u044f \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+      "\u043a\u044b\u0440\u0433\u044b\u0437 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+      "\u043a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+      "\u043a\u044b\u0440\u0433\u044b\u0437 \u0441\u043e\u0432\u0435\u0442\u0442\u0438\u043a \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0442\u0438\u043a \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
     ]
   },
   {
@@ -1497,9 +1497,9 @@
     "numeric": "418",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0\u0ea5\u0eb1\u0e94 \u0e9b\u0eb0\u0e8a\u0eb2\u0e97\u0eb4\u0e9b\u0eb0\u0ec4\u0e95 \u0e9b\u0eb0\u0e8a\u0eb2\u0e8a\u0ebb\u0e99\u0ea5\u0eb2\u0ea7",
-      "laos",
       "re\u0301publique de\u0301mocratique populaire lao",
+      "laos",
+      "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0\u0ea5\u0eb1\u0e94 \u0e9b\u0eb0\u0e8a\u0eb2\u0e97\u0eb4\u0e9b\u0eb0\u0ec4\u0e95 \u0e9b\u0eb0\u0e8a\u0eb2\u0e8a\u0ebb\u0e99\u0ea5\u0eb2\u0ea7",
       "sathalanalat paxathipatai paxaxo\u0302n"
     ]
   },
@@ -1512,12 +1512,12 @@
       "republic of latvia"
     ],
     "wikipedia_alternate": [
+      "latvijas republika",
       "lettonie",
       "lettland",
       "letland",
       "letonija",
-      "latvija",
-      "latvijas republika"
+      "latvija"
     ]
   },
   {
@@ -1529,12 +1529,12 @@
       "lebanese republic"
     ],
     "wikipedia_alternate": [
-      "liban",
-      "lebnan",
-      ", lubnan",
-      "the lebanese republic",
       "al-jumhuriyya al-lubnaniyya",
-      "levanon"
+      "levanon",
+      "liban",
+      "the lebanese republic",
+      "lebnan",
+      ", lubnan"
     ]
   },
   {
@@ -1568,14 +1568,14 @@
       "libya"
     ],
     "wikipedia_alternate": [
-      "dawlat li\u0304biya\u0304",
-      "\u062f\u0648\u0644\u0629 \u0644\u064a\u0628\u064a\u0627",
+      "socialist people's libyan arab jamahiriya",
       "kingdom of libya",
       "united libyan kingdom",
-      "great socialist people's libyan arab jamahiriya",
       "libyan arab republic",
-      "socialist people's libyan arab jamahiriya",
-      "state of libya"
+      "\u062f\u0648\u0644\u0629 \u0644\u064a\u0628\u064a\u0627",
+      "state of libya",
+      "dawlat li\u0304biya\u0304",
+      "great socialist people's libyan arab jamahiriya"
     ]
   },
   {
@@ -1599,11 +1599,11 @@
       "republic of lithuania"
     ],
     "wikipedia_alternate": [
-      "lietuva",
       "lita",
-      "\u043b\u0438\u0442\u0432\u0430",
       "lietuvos respublika",
-      "litva"
+      "litva",
+      "\u043b\u0438\u0442\u0432\u0430",
+      "lietuva"
     ]
   },
   {
@@ -1616,11 +1616,11 @@
     ],
     "wikipedia_alternate": [
       "le\u0308tzebuerg",
+      "groussherzogdem le\u0308tzebuerg",
       "lussemburgo",
+      "luxemburgo",
       "grand-duche\u0301 de luxembourg",
       "luxemburg",
-      "groussherzogdem le\u0308tzebuerg",
-      "luxemburgo",
       "grossherzogtum luxemburg"
     ]
   },
@@ -1633,8 +1633,8 @@
       "republic of madagascar"
     ],
     "wikipedia_alternate": [
-      "re\u0301publique de madagascar",
       "repoblikan'i madagasikara",
+      "re\u0301publique de madagascar",
       "madagasikara"
     ]
   },
@@ -1657,16 +1657,16 @@
     "numeric": "458",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
-      "male\u0304ciya",
       "sarawak",
-      "malaya",
-      "tanah melayu",
       "federation of malaysia",
+      "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
+      "tanah melayu",
+      "male\u0304ciya",
+      "persekutuan malaysia",
       "\u9a6c\u6765\u897f\u4e9a",
+      "malaya",
       "ma\u030cla\u0301ixi\u0304ya\u0300",
-      "sabah",
-      "persekutuan malaysia"
+      "sabah"
     ]
   },
   {
@@ -1678,13 +1678,13 @@
       "republic of maldives"
     ],
     "wikipedia_alternate": [
-      "dhivehi raajjeyge jumhooriyyaa",
-      "the maldive islands",
-      "mahal dvipa",
-      "male\u0301ldvipa",
       "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ad\u078e\u07ac \u0796\u07aa\u0789\u07b0\u0780\u07ab\u0783\u07a8\u0787\u07b0\u0794\u07a7",
-      "\u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0645\u062d\u0644\u062f\u064a\u0628\u064a\u0629",
       "ad-dawlat al-mahal di\u0304bi\u0304ya\u0304t",
+      "male\u0301ldvipa",
+      "dhivehi raajjeyge jumhooriyyaa",
+      "\u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0645\u062d\u0644\u062f\u064a\u0628\u064a\u0629",
+      "mahal dvipa",
+      "the maldive islands",
       "\u092e\u093e\u0932\u0926\u0940\u0935"
     ]
   },
@@ -1707,8 +1707,8 @@
       "republic of malta"
     ],
     "wikipedia_alternate": [
-      "melita",
-      "repubblica ta' malta"
+      "repubblica ta' malta",
+      "melita"
     ]
   },
   {
@@ -1744,8 +1744,8 @@
       "republic of mauritius"
     ],
     "wikipedia_alternate": [
-      "re\u0301publique de maurice",
-      "repiblik moris"
+      "repiblik moris",
+      "re\u0301publique de maurice"
     ]
   },
   {
@@ -1757,14 +1757,14 @@
       "united mexican states"
     ],
     "wikipedia_alternate": [
-      "mex",
       "me\u0301xico",
-      "mx",
-      "repu\u0301blica mexicana",
-      "aztla\u0304n",
       "estados unidos mexicanos",
+      "mex",
+      "aztla\u0304n",
+      "mx",
+      "me\u0301jico",
       "aztla\u0301n",
-      "me\u0301jico"
+      "repu\u0301blica mexicana"
     ]
   },
   {
@@ -1776,8 +1776,8 @@
       "federated states of micronesia"
     ],
     "wikipedia_alternate": [
-      "fsm",
-      "micronesia"
+      "micronesia",
+      "fsm"
     ]
   },
   {
@@ -1790,14 +1790,14 @@
       "moldova"
     ],
     "wikipedia_alternate": [
-      "\u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0441\u043e\u0432\u0435\u0442\u0438\u043a\u044d \u0441\u043e\u0447\u0438\u0430\u043b\u0438\u0441\u0442\u044d \u043c\u043e\u043b\u0434\u043e\u0432\u0435\u043d\u044f\u0441\u043a\u044d",
-      "bassarabia",
-      "moldau",
       "bessarabia",
       "republica moldova",
+      "moldavia",
+      "moldau",
       "moldavian soviet socialist republic",
       "bog\u0306dan",
-      "moldavia"
+      "\u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0441\u043e\u0432\u0435\u0442\u0438\u043a\u044d \u0441\u043e\u0447\u0438\u0430\u043b\u0438\u0441\u0442\u044d \u043c\u043e\u043b\u0434\u043e\u0432\u0435\u043d\u044f\u0441\u043a\u044d",
+      "bassarabia"
     ]
   },
   {
@@ -1810,9 +1810,9 @@
     ],
     "wikipedia_alternate": [
       "principato di monaco",
+      "principaute\u0301 de monaco",
       "principatu de mu\u0300negu",
-      "principat de mo\u0301negue",
-      "principaute\u0301 de monaco"
+      "principat de mo\u0301negue"
     ]
   },
   {
@@ -1835,14 +1835,14 @@
       "montenegro"
     ],
     "wikipedia_alternate": [
-      "duklja",
-      "black mountain",
-      "republika crna gora",
-      "mali i zi",
-      "crna gora",
-      "zeta",
       "karadag",
-      "republic of montenegro"
+      "duklja",
+      "mali i zi",
+      "zeta",
+      "republic of montenegro",
+      "republika crna gora",
+      "crna gora",
+      "black mountain"
     ]
   },
   {
@@ -1854,9 +1854,9 @@
       "kingdom of morocco"
     ],
     "wikipedia_alternate": [
-      "al mamlaka al maghribiya",
       "maghreb",
-      "the far west kingdom"
+      "the far west kingdom",
+      "al mamlaka al maghribiya"
     ]
   },
   {
@@ -1869,8 +1869,8 @@
     ],
     "wikipedia_alternate": [
       "moc\u0327ambique or repu\u0301blica de moc\u0327ambique",
-      "msumbiji",
       "mozambiki",
+      "msumbiji",
       "muzambhiki"
     ]
   },
@@ -1883,9 +1883,9 @@
       "republic of myanmar"
     ],
     "wikipedia_alternate": [
-      "\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f \u101e\u1019\u1039\u1019\u1010 \u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a\u200c (pyidaunzu thanma\u0306da mya\u0306ma nainngandaw)",
+      "burma",
       "republic of the union of myanmar",
-      "burma"
+      "\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f \u101e\u1019\u1039\u1019\u1010 \u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a\u200c (pyidaunzu thanma\u0306da mya\u0306ma nainngandaw)"
     ]
   },
   {
@@ -1910,8 +1910,8 @@
       "republic of nauru"
     ],
     "wikipedia_alternate": [
-      "pleasant island",
-      "repubrikin naoero"
+      "repubrikin naoero",
+      "pleasant island"
     ]
   },
   {
@@ -1938,9 +1938,9 @@
     "wikipedia_alternate": [
       "nederland",
       "pays-bas",
-      "batavia",
       "koninkrijk der nederlanden",
-      "holland"
+      "holland",
+      "batavia"
     ]
   },
   {
@@ -1950,9 +1950,9 @@
     "numeric": "554",
     "iso_alternate": [],
     "wikipedia_alternate": [
+      "dominion of new zealand",
       "aotearoa",
-      "realm of new zealand",
-      "dominion of new zealand"
+      "realm of new zealand"
     ]
   },
   {
@@ -1989,8 +1989,8 @@
       "federal republic of nigeria"
     ],
     "wikipedia_alternate": [
-      "jamhuriyar taraiyar najeriya",
       "ori\u0301le\u0323\u0300-e\u0300de\u0300 olo\u0301mi\u0300niira a\u0300papo\u0323\u0300 na\u0300i\u0300ji\u0301ri\u0301a\u0300",
+      "jamhuriyar taraiyar najeriya",
       "o\u0323\u0300ha\u0300n\u0301ji\u0301ko\u0323\u0300 o\u0323\u0300ha\u0300ne\u0301ze\u0300 nai\u0300ji\u0301ri\u0301ya\u0300"
     ]
   },
@@ -2003,13 +2003,13 @@
       "republic of north macedonia"
     ],
     "wikipedia_alternate": [
-      "fyrom",
       "(\u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430) \u0441\u0435\u0432\u0435\u0440\u043d\u0430 \u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
-      "vardar banovina",
       "paeonia",
       "\u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
-      "(republic of) macedonia",
-      "the former yugoslav republic of macedonia"
+      "vardar banovina",
+      "fyrom",
+      "the former yugoslav republic of macedonia",
+      "(republic of) macedonia"
     ]
   },
   {
@@ -2021,10 +2021,10 @@
       "kingdom of norway"
     ],
     "wikipedia_alternate": [
-      "kongeriket norge",
-      "kongeriket noreg",
+      "noreg",
       "norge",
-      "noreg"
+      "kongeriket noreg",
+      "kongeriket norge"
     ]
   },
   {
@@ -2046,13 +2046,13 @@
       "islamic republic of pakistan"
     ],
     "wikipedia_alternate": [
-      "indoscythia",
-      "gandha\u0304ra",
-      "sindhustan",
-      "dominion of pakistan",
       "west pakistan",
+      "gandha\u0304ra",
       "federation of pakistan",
-      "mumlikat-e khudadaad"
+      "dominion of pakistan",
+      "mumlikat-e khudadaad",
+      "sindhustan",
+      "indoscythia"
     ]
   },
   {
@@ -2076,32 +2076,32 @@
       "the state of palestine"
     ],
     "wikipedia_alternate": [
-      "\u0627\u0644\u0627\u0654\u0631\u0627\u0636\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
-      "as-sult\u0323a al-filast\u0323i\u0304ni\u0304ya",
+      "israeli-occupied territories",
+      "occupied palestinian territories",
       "\u0641\u0644\u0633\u0637\u064a\u0646",
       "medinat pa\u0304le\u0304s\u0301ti\u0304na\u0304",
-      "al-ara\u0304d\u0323i\u0304 al-filast\u0323i\u0304niyya",
       "\u05e4\u05b8\u05bc\u05dc\u05b6\u05e9\u05b0\u05c2\u05ea\u05b4\u05bc\u05d9\u05e0\u05b8\u05d4",
-      "the holy land",
+      "state of palestine",
+      "\u05d0\u05e8\u05e5 \u05d4\u05e7\u05d5\u05d3\u05e9",
+      "palestine",
+      "pa\u0304le\u0304s\u0301ti\u0304na\u0304",
+      "west bank and gaza strip",
       "filast\u0323i\u0304n",
       "palestinian national authority",
-      "palestinian territories",
-      "pa\u0304le\u0304s\u0301ti\u0304na\u0304",
-      "\u062f\u064e\u0648\u0652\u0644\u064e\u0629 \u0641\u0644\u0633\u0637\u064a\u0646",
-      "\u05d0\u05e8\u05e5 \u05d4\u05e7\u05d5\u05d3\u05e9",
-      "mandatory palestine",
-      "\u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc",
-      "\u0627\u0644\u0633\u0644\u0637\u0629 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
-      "palestine",
-      "state of palestine",
-      "occupied palestinian territories",
-      "\u05de\u05d3\u05d9\u05e0\u05ea \u05e4\u05b8\u05bc\u05dc\u05b6\u05e9\u05b0\u05c2\u05ea\u05b4\u05bc\u05d9\u05e0\u05b8\u05d4",
       "\u0627\u0644\u0627\u0654\u0631\u0636 \u0627\u0644\u0645\u0642\u062f\u0633\u0629",
-      "eretz yisrael",
-      "israeli-occupied territories",
+      "\u0627\u0644\u0633\u0644\u0637\u0629 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+      "al-ara\u0304d\u0323i\u0304 al-filast\u0323i\u0304niyya",
+      "the holy land",
+      "\u062f\u064e\u0648\u0652\u0644\u064e\u0629 \u0641\u0644\u0633\u0637\u064a\u0646",
       "dawlat filast\u0323i\u0304n",
-      "west bank and gaza strip",
-      "occupied palestinian territory"
+      "\u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc",
+      "\u0627\u0644\u0627\u0654\u0631\u0627\u0636\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+      "as-sult\u0323a al-filast\u0323i\u0304ni\u0304ya",
+      "\u05de\u05d3\u05d9\u05e0\u05ea \u05e4\u05b8\u05bc\u05dc\u05b6\u05e9\u05b0\u05c2\u05ea\u05b4\u05bc\u05d9\u05e0\u05b8\u05d4",
+      "eretz yisrael",
+      "palestinian territories",
+      "occupied palestinian territory",
+      "mandatory palestine"
     ]
   },
   {
@@ -2125,10 +2125,10 @@
       "independent state of papua new guinea"
     ],
     "wikipedia_alternate": [
-      "papua niugini",
       "independen stet bilong papua niugini",
-      "papua niu gini",
-      "independen stet bilong papua niu gini"
+      "papua niugini",
+      "independen stet bilong papua niu gini",
+      "papua niu gini"
     ]
   },
   {
@@ -2168,18 +2168,18 @@
       "republic of the philippines"
     ],
     "wikipedia_alternate": [
-      "ph",
       "hari\u0301ng bayang katagalugan",
-      "las islas felipenas",
-      "las islas filipinas",
       "republika ng pilipinas",
-      "p.i.",
+      "philippine islands",
+      "las islas felipenas",
+      "pina\u0301s",
+      "ph",
+      "islas de san la\u0301zaro",
       "filipina",
+      "las islas filipinas",
       "filipinas",
       "pilipinas",
-      "philippine islands",
-      "islas de san la\u0301zaro",
-      "pina\u0301s"
+      "p.i."
     ]
   },
   {
@@ -2191,16 +2191,16 @@
       "republic of poland"
     ],
     "wikipedia_alternate": [
-      "rzeczpospolita",
-      "rzeczpospolita obojga narodo\u0301w",
-      "polonia",
-      "polish\u2013lithuanian commonwealth",
-      "united commonwealth of the two nations",
-      "rp",
-      "lechia",
       "polska rzeczpospolita ludowa",
-      "polska",
+      "polish\u2013lithuanian commonwealth",
+      "rzeczpospolita obojga narodo\u0301w",
+      "rzeczpospolita",
+      "rp",
       "rzeczpospolita polska",
+      "united commonwealth of the two nations",
+      "polska",
+      "polonia",
+      "lechia",
       "people's republic of poland"
     ]
   },
@@ -2213,28 +2213,28 @@
       "portuguese republic"
     ],
     "wikipedia_alternate": [
-      "portugalensium patrie",
-      "portugalensis patrie",
-      "pa\u0301tria lusitana",
-      "luxitania",
-      "lusitaniae",
-      "regno portugalensium",
-      "portingall",
-      "purtugall",
-      "ocidental praia lusitana",
-      "ophiussa",
-      "portingal",
-      "burtugha\u0304l",
       "portugalliae",
-      "galician-portuguese",
-      "portugaliae",
-      "ophiusa",
-      "lusitania",
-      "galaico-portuguese",
       "portugalis",
-      "portucale",
+      "lusitania",
+      "regno portugalensium",
+      "galician-portuguese",
+      "pa\u0301tria lusitana",
+      "portingal",
+      "portingall",
+      "portugaliae",
+      "lusitaniae",
+      "burtugha\u0304l",
+      "purtugall",
+      "galaico-portuguese",
+      "ocidental praia lusitana",
+      "portugraal",
+      "luxitania",
+      "portugalensis patrie",
       "portugalliae et algarbiae",
-      "portugraal"
+      "ophiussa",
+      "ophiusa",
+      "portugalensium patrie",
+      "portucale"
     ]
   },
   {
@@ -2244,13 +2244,13 @@
     "numeric": "630",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "porto rico",
-      "commonwealth of puerto rico",
-      "borike\u0301n",
-      "borinquen",
+      "estado libre asociado de puerto rico",
       "borinken",
       "associated free state of puerto rico",
-      "estado libre asociado de puerto rico"
+      "borike\u0301n",
+      "porto rico",
+      "borinquen",
+      "commonwealth of puerto rico"
     ]
   },
   {
@@ -2275,8 +2275,8 @@
       "republic of the congo"
     ],
     "wikipedia_alternate": [
-      "french congo",
-      "congo brazzaville"
+      "congo brazzaville",
+      "french congo"
     ]
   },
   {
@@ -2286,15 +2286,15 @@
     "numeric": "642",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "kingdom of romania",
+      "roumania",
       "romanian people's republic",
-      "rumania",
+      "regatul roma\u0302niei",
+      "kingdom of romania",
       "roma\u0302nia",
+      "socialist republic of romania",
       "republica socialista\u0306 roma\u0302nia",
       "republica populara\u0306 romi\u0302na\u0306",
-      "roumania",
-      "socialist republic of romania",
-      "regatul roma\u0302niei"
+      "rumania"
     ]
   },
   {
@@ -2304,28 +2304,28 @@
     "numeric": "643",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "russia",
-      "soyuz sovetskikh sotsialisticheskikh respublik",
-      "russland",
       "rsfsr",
+      "ussr",
+      "sovetskiy soyuz",
+      "great russia",
+      "rus",
+      "union of soviet socialist republics",
+      "rf",
+      "\u0441\u043e\u0432\u0435\u0301\u0442\u0441\u043a\u0438\u0438\u0306 \u0441\u043e\u044e\u0301\u0437",
+      "rossiya",
+      "russian empire",
+      "russia",
+      "soviet union",
+      "russian socialist federative soviet republic",
+      "su",
+      "\u0440\u043e\u0441\u0441\u0438\u0438\u0306\u0441\u043a\u0430\u044f \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
       "\u0441\u043e\u044e\u0437 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0445 \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a",
       "sssr",
-      "\u0441\u0441\u0441\u0440",
-      "union of soviet socialist republics",
-      "\u0441\u043e\u0432\u0435\u0301\u0442\u0441\u043a\u0438\u0438\u0306 \u0441\u043e\u044e\u0301\u0437",
-      "su",
+      "soyuz sovetskikh sotsialisticheskikh respublik",
+      "russland",
       "\u0440\u043e\u0441\u0441\u0438\u044f",
-      "great russia",
-      "sovetskiy soyuz",
-      "russian socialist federative soviet republic",
-      "russian empire",
-      "\u0440\u043e\u0441\u0441\u0438\u0438\u0306\u0441\u043a\u0430\u044f \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
-      "rossiya",
-      "ussr",
-      "soviet union",
-      "rus",
       "russian soviet federative socialist republic",
-      "rf"
+      "\u0441\u0441\u0441\u0440"
     ]
   },
   {
@@ -2337,11 +2337,11 @@
       "rwandese republic"
     ],
     "wikipedia_alternate": [
-      "ruanda",
-      "republic of rwanda",
-      "\"pays des mille collines\"",
       "repubulika y'u rwanda",
-      "re\u0301publique du rwanda"
+      "re\u0301publique du rwanda",
+      "\"pays des mille collines\"",
+      "ruanda",
+      "republic of rwanda"
     ]
   },
   {
@@ -2362,14 +2362,14 @@
     "iso_alternate": [],
     "wikipedia_alternate": [
       "federation of saint christopher and nevis",
-      "saint christopher",
-      "saint christopher and nevis",
       "liamuiga",
-      "oualie",
+      "saint christopher",
       "federation of saint kitts and nevis",
       "saint christopher-nevis-anguilla",
-      "saint kitts-nevis-anguilla",
-      "saint kitts"
+      "saint christopher and nevis",
+      "oualie",
+      "saint kitts",
+      "saint kitts-nevis-anguilla"
     ]
   },
   {
@@ -2393,9 +2393,9 @@
     ],
     "wikipedia_alternate": [
       "democratic republic of sa\u0303o tome\u0301 and pri\u0301ncipe",
-      "repu\u0301blica democra\u0301tica de sa\u0303o tome\u0301 e pri\u0301ncipe",
+      "saint thomas and prince",
       "sa\u0303o tome\u0301 and pri\u0301ncipe",
-      "saint thomas and prince"
+      "repu\u0301blica democra\u0301tica de sa\u0303o tome\u0301 e pri\u0301ncipe"
     ]
   },
   {
@@ -2420,9 +2420,9 @@
       "republic of san marino"
     ],
     "wikipedia_alternate": [
-      ", serenissima repubblica di san marino",
       "repubblica di san marino",
       "ripo\u0301bblica d' san marein",
+      ", serenissima repubblica di san marino",
       "most serene republic of san marino"
     ]
   },
@@ -2435,14 +2435,14 @@
       "kingdom of saudi arabia"
     ],
     "wikipedia_alternate": [
-      "najd",
-      "hijaz",
-      "saudi regime",
       "ksa",
+      "hijaz",
       "nejd",
+      "najd",
+      "al-mamlaka al-arabiyya as-saudiyya",
       "arav hasa'udit",
-      "saudia",
-      "al-mamlaka al-arabiyya as-saudiyya"
+      "saudi regime",
+      "saudia"
     ]
   },
   {
@@ -2468,14 +2468,14 @@
       "republic of serbia"
     ],
     "wikipedia_alternate": [
-      "srbija",
       "yugoslavia",
+      "kingdom of serbia",
       "republika srbija",
       "servia",
-      "serbia and montenegro",
-      "ras\u030cka",
+      "srbija",
       "serboslavia",
-      "kingdom of serbia"
+      "ras\u030cka",
+      "serbia and montenegro"
     ]
   },
   {
@@ -2512,15 +2512,15 @@
       "republic of singapore"
     ],
     "wikipedia_alternate": [
-      "sho\u0304nan-to\u0304",
       "xi\u0304njia\u0304po\u0304",
-      "sinhapura",
-      "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
       "little red dot",
       "ci\u014bkappu\u0304r",
       "\u65b0\u52a0\u5761",
-      "singapura",
+      "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
       "\u662d\u5357\u5cf6",
+      "sho\u0304nan-to\u0304",
+      "singapura",
+      "sinhapura",
       "pulau ujong"
     ]
   },
@@ -2533,14 +2533,14 @@
       "slovak republic"
     ],
     "wikipedia_alternate": [
-      "slovensko",
-      "ssr",
-      "sr",
-      "slovensky\u0301 s\u030cta\u0301t",
-      "slovenska\u0301 socialisticka\u0301 republika",
-      "slovak state",
       "slovak socialist republic",
-      "slovenska\u0301 republika"
+      "slovak state",
+      "slovensko",
+      "slovenska\u0301 republika",
+      "slovensky\u0301 s\u030cta\u0301t",
+      "sr",
+      "slovenska\u0301 socialisticka\u0301 republika",
+      "ssr"
     ]
   },
   {
@@ -2552,9 +2552,9 @@
       "republic of slovenia"
     ],
     "wikipedia_alternate": [
-      "rs",
       "republika slovenija",
-      "slovenija"
+      "slovenija",
+      "rs"
     ]
   },
   {
@@ -2590,10 +2590,10 @@
       "republic of south africa"
     ],
     "wikipedia_alternate": [
-      "union of south africa",
+      "zuid-afrika",
       "azania",
       "suid-afrika",
-      "zuid-afrika",
+      "union of south africa",
       "mzansi"
     ]
   },
@@ -2606,8 +2606,8 @@
       "republic of south sudan"
     ],
     "wikipedia_alternate": [
-      "jamhuri ya sudan kusini",
-      "swahili"
+      "swahili",
+      "jamhuri ya sudan kusini"
     ]
   },
   {
@@ -2620,16 +2620,16 @@
     ],
     "wikipedia_alternate": [
       "la pell de brau",
+      "reino de espan\u0303a",
+      "las batuecas",
       "iberia",
       "espan\u0303a",
-      "las batuecas",
       "la piel de toro",
       "sepharad",
       "spanish state",
+      "espanya",
       "espainia",
-      "reino de espan\u0303a",
-      "hispania",
-      "espanya"
+      "hispania"
     ]
   },
   {
@@ -2641,15 +2641,15 @@
       "democratic socialist republic of sri lanka"
     ],
     "wikipedia_alternate": [
-      "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b9a\u0bc7\u0bbe\u0b9a\u0bb2\u0bbf\u0b9a\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
       "land of sinhalese",
-      "elangai",
-      "island of gems",
       "ratnadeepa",
       "heladiva",
       "ceylon",
       "\u0b88\u0bb4\u0bae\u0bcd (i\u0304l\u0331am)",
-      "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+      "elangai",
+      "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b9a\u0bc7\u0bbe\u0b9a\u0bb2\u0bbf\u0b9a\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
+      "island of gems"
     ]
   },
   {
@@ -2661,10 +2661,10 @@
       "republic of the sudan"
     ],
     "wikipedia_alternate": [
-      "nubia",
+      "the sudan",
       "anglo-egyptian sudan",
-      "mahdist state",
-      "the sudan"
+      "nubia",
+      "mahdist state"
     ]
   },
   {
@@ -2676,10 +2676,10 @@
       "republic of suriname"
     ],
     "wikipedia_alternate": [
-      "netherlands guiana",
-      "dutch guiana",
       "republiek suriname",
-      "surinam"
+      "surinam",
+      "dutch guiana",
+      "netherlands guiana"
     ]
   },
   {
@@ -2691,11 +2691,11 @@
       "kingdom of sweden"
     ],
     "wikipedia_alternate": [
-      "sverige",
-      "svitjod",
-      "svea rike",
+      "thule",
       "konungariket sverige",
-      "thule"
+      "svea rike",
+      "sverige",
+      "svitjod"
     ]
   },
   {
@@ -2707,17 +2707,17 @@
       "swiss confederation"
     ],
     "wikipedia_alternate": [
-      "confe\u0301de\u0301ration suisse",
-      "svizra",
-      "svizzera",
-      "schweizerische eidgenossenschaft",
-      "ch",
-      "helvetia",
       "schweiz",
+      "svizra",
+      "ch",
+      "svizzera",
+      "suisse",
       "confoederatio helvetica",
-      "confederazione svizzera",
+      "helvetia",
       "confederaziun svizra",
-      "suisse"
+      "confe\u0301de\u0301ration suisse",
+      "schweizerische eidgenossenschaft",
+      "confederazione svizzera"
     ]
   },
   {
@@ -2727,9 +2727,9 @@
     "numeric": "760",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629",
       "al-jumhu\u0304ri\u0304yah al-\u02bbarabi\u0304yah as-su\u0304ri\u0304yah",
-      "syria"
+      "syria",
+      "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629"
     ]
   },
   {
@@ -2741,12 +2741,12 @@
       "republic of tajikistan"
     ],
     "wikipedia_alternate": [
+      "\u04b7\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0442\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+      "\u0442\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
       "\u0442\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
-      "jumhurii tojikiston",
       "\u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646",
       "tadzhikistan",
-      "\u04b7\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0442\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
-      "\u0442\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d"
+      "jumhurii tojikiston"
     ]
   },
   {
@@ -2760,8 +2760,8 @@
     ],
     "wikipedia_alternate": [
       "united republic of tanganyika and zanzibar",
-      "deutsch-ostafrika",
       "tanganyika",
+      "deutsch-ostafrika",
       "zanzibar"
     ]
   },
@@ -2798,10 +2798,10 @@
       "kingdom of thailand"
     ],
     "wikipedia_alternate": [
-      "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22",
       "siam",
-      "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2a\u0e22\u0e32\u0e21",
-      "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22"
+      "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22",
+      "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+      "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2a\u0e22\u0e32\u0e21"
     ]
   },
   {
@@ -2826,8 +2826,8 @@
       "republic of tunisia"
     ],
     "wikipedia_alternate": [
-      "\u062a\u0648\u0646\u0633",
-      "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0648\u0646\u0633\u064a\u0629"
+      "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0648\u0646\u0633\u064a\u0629",
+      "\u062a\u0648\u0646\u0633"
     ]
   },
   {
@@ -2839,14 +2839,14 @@
       "republic of turkey"
     ],
     "wikipedia_alternate": [
-      "sublime porte",
-      "republic of tu\u0308rkiye",
-      "asia minor",
       "turkish empire",
-      "porte",
+      "asia minor",
       "anatolia",
+      "republic of tu\u0308rkiye",
+      "porte",
       "ottoman empire",
-      "tu\u0308rkiye cumhuriyeti"
+      "tu\u0308rkiye cumhuriyeti",
+      "sublime porte"
     ]
   },
   {
@@ -2857,9 +2857,9 @@
     "iso_alternate": [],
     "wikipedia_alternate": [
       "tu\u0308rkmenistan",
-      "\u0442\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f",
+      "\u0442\u04af\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d",
       "turkmenia",
-      "\u0442\u04af\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d"
+      "\u0442\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f"
     ]
   },
   {
@@ -2891,13 +2891,13 @@
     "numeric": "804",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "kingdom of ruthenia",
       "kievan rus",
-      "kingdom of galicia\u2013volhynia",
-      "ukr.",
+      "kingdom of ruthenia",
+      "\u0443\u043a\u0440\u0430\u0456\u0308\u043d\u0430",
       "ua",
+      "ukr.",
       "zaporizhian host",
-      "\u0443\u043a\u0440\u0430\u0456\u0308\u043d\u0430"
+      "kingdom of galicia\u2013volhynia"
     ]
   },
   {
@@ -2907,12 +2907,12 @@
     "numeric": "784",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "uae",
-      "trucial arabia",
       "trucial states",
       "al emirat al arabbiya al muttahida",
-      "the emirates",
-      "u.a.e."
+      "u.a.e.",
+      "uae",
+      "trucial arabia",
+      "the emirates"
     ]
   },
   {
@@ -2924,19 +2924,19 @@
       "united kingdom of great britain and northern ireland"
     ],
     "wikipedia_alternate": [
-      "cambria",
-      "britain",
-      "ulster",
-      "cymru",
       "albion",
-      "alba",
+      "ulster",
+      "great britain",
+      "britain",
+      "cambria",
+      "scotia",
       "caledonia",
       "uk",
-      "great britain",
-      "scotia",
-      "u.k.",
+      "alba",
       "britannia",
-      "anglia"
+      "u.k.",
+      "anglia",
+      "cymru"
     ]
   },
   {
@@ -2948,14 +2948,14 @@
       "united states of america"
     ],
     "wikipedia_alternate": [
-      "u.s.a",
       "america",
-      "us",
       "u.s.",
-      "the states",
-      "columbia",
       "u.s.a.",
-      "usa"
+      "u.s.a",
+      "usa",
+      "us",
+      "the states",
+      "columbia"
     ]
   },
   {
@@ -2967,9 +2967,9 @@
       "eastern republic of uruguay"
     ],
     "wikipedia_alternate": [
-      "oriental republic of uruguay",
+      "repu\u0301blica oriental do uruguai",
       "repu\u0301blica oriental del uruguay",
-      "repu\u0301blica oriental do uruguai"
+      "oriental republic of uruguay"
     ]
   },
   {
@@ -2981,13 +2981,13 @@
       "republic of uzbekistan"
     ],
     "wikipedia_alternate": [
-      "o\u02bbzbekiston respublikasi",
-      "\u0443\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
-      "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0443\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+      "\u0443\u0437\u0431\u0435\u043a\u0438\u044f",
       "\u0443\u0306\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d",
       "o\u02bbzbekiston",
-      "\u0443\u0437\u0431\u0435\u043a\u0438\u044f",
-      "\u0443\u0306\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u0438"
+      "\u0443\u0306\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u0438",
+      "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0443\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+      "o\u02bbzbekiston respublikasi",
+      "\u0443\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
     ]
   },
   {
@@ -2999,12 +2999,12 @@
       "republic of vanuatu"
     ],
     "wikipedia_alternate": [
-      "ripablik blong vanuatu",
       "new hebrides",
-      "re\u0301publique de vanuatu",
       "nouvelles hebrides",
-      "niuhebridis",
-      "vanuatri"
+      "re\u0301publique de vanuatu",
+      "ripablik blong vanuatu",
+      "vanuatri",
+      "niuhebridis"
     ]
   },
   {
@@ -3014,10 +3014,10 @@
     "numeric": "336",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "stato della citta\u0300 del vaticano",
-      "vatican city state",
       "status civitatis vaticanae",
+      "vatican city state",
       "vatican city",
+      "stato della citta\u0300 del vaticano",
       "holy see"
     ]
   },
@@ -3031,10 +3031,10 @@
       "venezuela"
     ],
     "wikipedia_alternate": [
-      "estado de venezuela",
-      "repu\u0301blica de venezuela",
       "repu\u0301blica bolivariana de venezuela,",
-      "estados unidos de venezuela"
+      "repu\u0301blica de venezuela",
+      "estados unidos de venezuela",
+      "estado de venezuela"
     ]
   },
   {
@@ -3047,23 +3047,23 @@
       "vietnam"
     ],
     "wikipedia_alternate": [
-      "v.n.",
-      "s.r.v.",
-      "democratic republic of vietnam",
-      "\u0111a\u0323i vie\u0323\u0302t",
-      "srv",
-      "an nam",
-      "republic of vietnam",
-      "giao chi\u0309",
       "socialist republic of vietnam",
-      "south vietnam",
       "li\u0303nh nam",
+      "v.n.",
+      "french indochina",
+      "democratic republic of vietnam",
+      "co\u0323\u0302ng ho\u0300a xa\u0303 ho\u0323\u0302i chu\u0309 nghi\u0303a vie\u0323\u0302t nam",
+      "giao chi\u0309",
+      "republic of vietnam",
+      "s.r.v.",
       "champa",
+      "srv",
+      "vn",
       "vie\u0323\u0302t nam",
       "north vietnam",
-      "french indochina",
-      "co\u0323\u0302ng ho\u0300a xa\u0303 ho\u0323\u0302i chu\u0309 nghi\u0303a vie\u0323\u0302t nam",
-      "vn"
+      "south vietnam",
+      "an nam",
+      "\u0111a\u0323i vie\u0323\u0302t"
     ]
   },
   {
@@ -3073,18 +3073,18 @@
     "numeric": "732",
     "iso_alternate": [],
     "wikipedia_alternate": [
-      "repu\u0301blica a\u0301rabe saharaui democra\u0301tica",
-      "sagui\u0301a el hamra y ri\u0301o de oro",
       "repu\u0301blica saharaui",
       "al-jumhu\u0304ri\u0304yah al-'arabi\u0304yah as\u0323-s\u0323ah\u0323ra\u0304wi\u0304yah ad-di\u0304muqra\u0304t\u0323i\u0304yah",
-      "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0635\u062d\u0631\u0627\u0648\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
-      "saguia el-hamra and ri\u0301o de oro",
-      "saharawi republic",
       "spanish sahara",
-      "southern provinces",
+      "repu\u0301blica a\u0301rabe saharaui democra\u0301tica",
       "sahrawi arab democratic republic",
-      "sahrawi republic",
-      "saharawi arab democratic republic"
+      "saharawi arab democratic republic",
+      "southern provinces",
+      "saguia el-hamra and ri\u0301o de oro",
+      "sagui\u0301a el hamra y ri\u0301o de oro",
+      "saharawi republic",
+      "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0635\u062d\u0631\u0627\u0648\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
+      "sahrawi republic"
     ]
   },
   {
@@ -3121,9 +3121,9 @@
       "republic of zimbabwe"
     ],
     "wikipedia_alternate": [
-      "southern rhodesia",
       "republic of rhodesia",
-      "rhodesia"
+      "rhodesia",
+      "southern rhodesia"
     ]
   }
 ]
